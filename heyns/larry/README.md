@@ -10,6 +10,7 @@
 [Billanntau House](https://www.trulia.com/p/mi/grand-rapids/648-billantau-st-se-grand-rapids-mi-49507--2100073762#lil-streetViewTab) - This is where we moved when I was twelve. Take the virtual walk and see where I drove my go-cart and the dragoo.  
 
 [2360 Glen Echo Dr.](https://www.realtor.com/realestateandhomes-detail/2360-Glen-Echo-Dr-SE_Grand-Rapids_MI_49546_M49866-82098) - Bill and Anne built this one while I was in the army.   
+<br><br>
 
 <!--
 We stumbled onto a Louie Anderson stand-up routine on CW network last night.  It was titled "Big Underwear".  Louie is a master of deadpan.  I first saw him on Johnny Carson 25 years ago.  He seems very old, but can still up there for an hour, with perfect timing.  
@@ -31,7 +32,10 @@ and driving an unlicensed motor vehicle.  Larry and his dad appeared before a
 judge, and agreed to dismantle the go-cart.  It was sold to Johnny VanBelois.
 
 <img src="img/larry-go-cart.gif"><br>
+<br><br><br>
 
+<img src="img/dragoo.gif"><br>
+Marcia behind the wheel of the dragoo.<br><br>
 
 ## Looking out the kitchen window
 
