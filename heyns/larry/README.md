@@ -30,6 +30,8 @@ several years of this, a cop wrote Larry a ticket for driving without a license
 and driving an unlicensed motor vehicle.  Larry and his dad appeared before a 
 judge, and agreed to dismantle the go-cart.  It was sold to Johnny VanBelois.
 
+<img src="img/larry-go-cart.gif"><br>
+
 
 ## Looking out the kitchen window
 
