@@ -72,4 +72,9 @@ Larry, you are right about the picture taken at Uncle Dan Cooper's farm home. I 
 
 At that time Grandpa VDB was driving an Oldsmobile. Later on he (and my Dad) drove low-cost models of the Cadillac (Fleetwoods?). - Dad (Bill)  
 
-<img src=img/larry-packard.jpg><br><br>
+<img src="img/larry-packard.jpg"><br>
+<caption>Larry with Uncle Neal Schuur's Packard</caption><br><br>
+
+To the top of our tree: [The Old Farmhouse of Heine](http://familytrees.net/thorn-hedge-farm)
+
+
