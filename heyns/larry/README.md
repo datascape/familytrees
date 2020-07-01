@@ -21,7 +21,7 @@ Using plans from Popular Mechanics, William Heyns and
 Larry built this go-cart in the basement of the Philadelphia Ave. house during 
 the winter that Larry was in sixth grade at Silvan school.  The original 
 intention of restricting it to the yard or the sidewalk was soon revised due to 
-its speed.  Unlike many home-made projects, this one used  new parts except for 
+its speed.  Unlike many home-made projects, this one used new parts except for 
 the steering gear that was from a model T truck at Remus' junk yard.  Some 
 welding was done by a local machine shop.  Total cost was $200 in 1953.  Larry 
 drove to the new house construction on Billanntau St., and later carried his 
