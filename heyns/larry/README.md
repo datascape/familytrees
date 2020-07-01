@@ -35,7 +35,7 @@ judge, and agreed to dismantle the go-cart.  It was sold to Johnny VanBelois
 <br><br><br>
 
 <img src="img/dragoo.gif"><br>
-Marcia behind the wheel of the dragoo.<br><br>
+Marcia behind the wheel of the dragoo - a Lincoln V-12 flathead.<br><br>
 
 ## Looking out the kitchen window
 
