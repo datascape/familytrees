@@ -81,6 +81,6 @@ At that time Grandpa VDB was driving an Oldsmobile. Later on he (and my Dad) dro
 <img src="img/larry-packard.jpg"><br>
 <caption>Larry with Uncle Neal Schuur's Packard</caption><br><br>
 
-To the top of our tree: [The Old Farmhouse of Heine](http://familytrees.net/thorn-hedge-farm)
-
+To the top of our tree: [The Old Farmhouse of Heine](../../heine/)
+<!-- http://familytrees.net/thorn-hedge-farm -->
 
