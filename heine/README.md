@@ -15,18 +15,25 @@ Farm house built at the Hain Farm in the early 1700's. In 1863 Sophie Marie Doro
 
 According to descendants of the Heins family living in Lemke, the name Hein means thorn-hedge.  
 
-Anne Hains and her father Johan Hain were the original land owners. The -s ending indicates a maternal origin of the name in ones children.  They provide the origin of the Heins name that later transitioned to Heijns (in the Netherlands) and then Heyns (in the US and South Africa).  
+Anne Hains and her father Johan Hain provide the origin of the Heins name that later transitioned to Heijns (in the Netherlands) and then Heyns (in the US and South Africa).
 
+<div class="caption" style="float:right; margin:0 0 30px 30px; max-width:330px">
+<a href="img/farm/willem-and-elisabeth.jpg"><img src="img/farm/willem-and-elisabeth.jpg" style="width:100%"></a><br>
+<a href="http://familytrees.net/info/81730">Willem Heijns</a> (b. 1853, d. 1936) and his daughter Elisabeth Heijns (b. 1889, d. 1921). Elisabeth was married to Adrian Ramp.
+</div>
 
 The following research extends a photocopy of the hand-drawn genealogy chart sent from Leen Ramp, of Boskoop, Netherlands to his cousin William Heyns in Grand Rapids, Michigan. The chart spans from 1701 to 1968 and contains about 200 relatives with drawings (tracings) of about 35 male family members. There is one female member - Johanna (Heijns) Vander Wilk (d. Aug 21, 1971) - who either created or added on to the chart. (The hand-drawn chart may incorrectly state that Anna Buelter was Peter's brother Johan's widow.)  
 
-William Heyns writes: "Leen Ramp, son of Adrian Ramp: Adrian's first wife Elisabeth (Heijns) Ramp (b. Moerkapelle Dec 12, 1889, d. Jan 27, 1921) passed away before Leen was born to Adrian's second wife Coba, Leen's mother. Coba was a fine mother to all the Ramp children and I used to correspond with her about the whole family while she was living. Leen was also close to his half-brothers and sisters. Half-brother Wim Ramp and wife Jans (Goedhart-Ramp) inherited the Family chart from Aunt Johanna (Heijns) Vander Wilk (d. Aug 21, 1971), and on one occasion mentioned it to Leen after I had written to him about family record search. That's when Leen sent us the photocopy of the chart. All very providential and we could not have developed the website without it. Leen is now quite ill and my latest contacts have been with Wim Koster who can not write English and we must depend on his daughter to communicate." (Leen Ramp died April 23, 2001. We have stayed in contact with Jos Ramp and Ellen Verhoeven.)  
+William Heyns writes: "Leen Ramp, son of Adrian Ramp: Adrian's first wife Elisabeth (Heijns) Ramp (b. Moerkapelle Dec 12, 1889, d. Jan 27, 1921) passed away before Leen was born to Adrian's second wife Coba, Leen's mother. Coba was a fine mother to all the Ramp children and I used to correspond with her about the whole family while she was living. Leen was also close to his half-brothers and sisters. Half-brother Wim Ramp and wife Jans (Goedhart-Ramp) inherited the Family chart from Aunt Johanna (Heijns) Vander Wilk (d. Aug 21, 1971), and on one occasion mentioned it to Leen after I had written to him about family record search. That's when Leen sent us the photocopy of the chart. All very providential and we could not have developed the website without it. Leen is now quite ill and my latest contacts have been with Wim Koster who can not write English and we must depend on his daughter to communicate." (Leen Ramp died April 23, 2001. We have stayed in contact with Jos Ramp and [Ellen Verhoeven](https://www.facebook.com/ellen.verhoeven.75).)  
+
+Word Document prepared by geneologist Jan Th. Kaufmann in Germany: [Parenteel Van Peter Freiershaus ](20070204_ParenteelVanPeterFreiershaus.doc)  
+
+## Peter Freiershaus (Freuershaus, zum Freyershaus) - Stuve/Stueve  
+b. (Hoya or Buecken?) abt 1620  
+d. Holte, Marklohe parish abt 1677/78, (Vollmeier/farmer) in Holte, mentioned in 1653 and 1667  
+married before 1653 (about 1645)  
 
 
-## Peter Freiershaus (Freuershaus, zum Freyershaus)  
-b. (Hoya or Buecken?) abt 1620, d. Holte, Marklohe parish abt 1677/78, (Vollmeier/farmer) in Holte, mentioned in 1653 and 1667 md. bef 1653 (abt 1645)  
-
-Supporting Document prepared by geneologist in Germany: [Parenteel Van Peter Freiershaus ](20070204_ParenteelVanPeterFreiershaus.doc)  
 
 Peter's original surname may have been Stueve and his wife’s maiden name may have been Freuershaus (since they had a son Gerd Stuve/Stueve called Freuershaus). North German (Stüve): from Middle German stuve ‘stump’, hence a topographic name for someone who lived on newly cleared land.  
   
@@ -46,9 +53,6 @@ Descendants: Stueve families in Schweringen in 1740/1830
 ### 3. Peter Freuershaus (or Stuve called Freuershaus)
 
 b. abt 1652/53 (or 1646 or 1656)  
-d. Jul 13, 1735  
-md. Anna Elisabeth Hajn in Marklohe on Jun 29, 1682  
-md. Anna Buelter in Marklohe on Jun 12, 1704  
 
 View Peter's tree on [Geni.com](https://www.geni.com/people/Peter-I-Freiershaus/6000000001825345789) and 
 [MyHeritage.com](https://www.myheritage.com/site-family-tree-176132761/heijns?rootIndivudalID=1000030&familyTreeID=1) 
@@ -57,9 +61,14 @@ View Peter's tree on [Geni.com](https://www.geni.com/people/Peter-I-Freiershaus/
 
 <img style="float:right; margin-left:40px" src="img/farm/Kartenausschnitt-Wohlenhausen.jpg">
 
+b. abt 1652/53 (or 1646 or 1656)  
+d. Jul 13, 1735  
+md. Anna Elisabeth Hajn in Marklohe on Jun 29, 1682  
+md. Anna Buelter in Marklohe on Jun 12, 1704  
+
 <b>First wife:</b> Anna Elisabeth Hain (Hajn, Heins) - our namesake - married Peter in Marklohe on 29 Jun 1682, Evangelical Lutheran Church. Anna was the daughter of the deceased Hajn Johan from Wohlenhausen.  
 
-Peter Freuershaus changed his name to Peter Heyn in 1682 when marrying Anna Elisabeth Hain (Hajn, Heins) of the Hain Farm. The farm house above was built at the Hain Farm in the early 1700's and is most likely where Peter and his family lived.  
+Peter Freuershaus changed his name to Peter Heyn in 1682 when marrying Anna Elisabeth Hain (Hajn, Heins) of the Hain Farm. The farm house above was built at the Hain Farm in the early 1700's and is most likely where Peter and his family lived.
 
 In the Hoya/Diepholz area of Germany (including Marklohe) a man usually changed his name when he took over a farm that had another name (so the name of the farm was more important than the man's original surname).  
 
@@ -72,7 +81,8 @@ In the Hoya/Diepholz area of Germany (including Marklohe) a man usually changed 
 5. Freuershaus, geboren op een onbekende dag in februari 1700 in Wohlenhausen, Niedersachsen (D). Hij is gedoopt op een onbekende dag in februari 1700. Hij is overleden, 0 dagen oud. Hij is begraven op zaterdag 27 februari 1700 te Marklohe, Niedersachsen (D).  
 6. Johan Peter (Peter) Heins, geboren in 1701 in Wohlenhausen, Niedersachsen (D) Volgt III.  
 
-  
+The -s ending can indicate a female gender. It's not clear to us in America 300 years later why there is so much variance to the last names above. Did a geopolitical transition occur in 1696 that favored adding the -s.  
+
 <b>Second wife:</b> Anna Buelter and Peter Heyn were married on June 12, 1704 in Marklohe ("parish Lohe")  
 Anna Buelter from Mehlbergen (b. 1648, d. Jan 13, 1743). Anna lived to be 95!  
   
