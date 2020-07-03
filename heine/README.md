@@ -5,7 +5,7 @@
 <img src="img/farm/Farmhouse-of-Heine-02.jpg">
 <img src="img/farm/Farmhouse-of-Heine-03.jpg">
 <br>
-Farm house built at the Hain Farm in the early 1700's. In 1863 Sophie Marie Dorothee Heine (* 2. Febr. 1820 in Wohlenhausen, + 18. Febr. 1879 in Lemke) and her husband Christian Kanning purchased the family farmhouse. As of 2005, the great-great-granddaughter of Sophie lives in the house.  
+Farmhouse built at the Hain Farm in the early 1700's. In 1863 Sophie Marie Dorothee Heine (* 2. Febr. 1820 in Wohlenhausen, + 18. Febr. 1879 in Lemke) and her husband Christian Kanning purchased the family farmhouse. As of 2005, the great-great-granddaughter of Sophie lives in the house.  
 
 
 
@@ -134,7 +134,7 @@ md. Anna Buelter in Marklohe on Jun 12, 1704
 
 <b>First wife:</b> Anna Elisabeth Hain (Hajn, Heins) - our namesake - married Peter in Marklohe on 29 Jun 1682, Evangelical Lutheran Church. Anna was the daughter of the deceased Hajn Johan from Wohlenhausen.  
 
-Peter Freuershaus changed his name to Peter Heyn in 1682 when marrying Anna Elisabeth Hain (Hajn, Heins) of the Hain Farm. The farm house above was built at the Hain Farm in the early 1700's and is most likely where Peter and his family lived.
+Peter Freuershaus changed his name to Peter Heyn in 1682 when marrying Anna Elisabeth Hain (Hajn, Heins) of the Hain Farm. The farmhouse above was built at the Hain Farm in the early 1700's and is most likely where Peter and his family lived.
 
 In the Hoya/Diepholz area of Germany (including Marklohe) a man usually changed his name when he took over a farm that had another name (so the name of the farm was more important than the man's original surname).  
 

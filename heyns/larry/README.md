@@ -74,7 +74,7 @@ There is no upper age limit for drivers.  Glenn R. Myers of Kenneth City, FL sta
 
 Dad, I posted this photo in one of my albums at the Automotive Interest Group on Classmates.com. Do you remember any details about whose car it was, and where the photo was taken? I think we were having Thanksgiving at Uncle Dan Coopers. Is that right? I also entered your story about driving the Federal stake truck at age 13 in answer to a question about "How old were you when you drove for the first time?" Larry.  
 
-Larry, you are right about the picture taken at Uncle Dan Cooper's farm home. I think it was Uncle Neal Schuur's car. From the shape of the headlights I think it was a Packard. I remember that the road to the farm house to the county road was a single track unplowed road of about 1/4 mile and it was tricky to drive without getting stuck in all the snow. But the dinner was great and worth the trip in spite of the weather.  
+Larry, you are right about the picture taken at Uncle Dan Cooper's farm home. I think it was Uncle Neal Schuur's car. From the shape of the headlights I think it was a Packard. I remember that the road to the farmhouse to the county road was a single track unplowed road of about 1/4 mile and it was tricky to drive without getting stuck in all the snow. But the dinner was great and worth the trip in spite of the weather.  
 
 At that time Grandpa VDB was driving an Oldsmobile. Later on he (and my Dad) drove low-cost models of the Cadillac (Fleetwoods?). - Dad (Bill)  
 
