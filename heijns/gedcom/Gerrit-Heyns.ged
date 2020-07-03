@@ -1,0 +1,2166 @@
+0 HEAD 
+1 SOUR EasyTree
+2 VERS V5.2
+2 CORP Sierra On-Line
+1 DEST EasyTree
+1 DATE 17 MAY 1999
+1 SUBM @U1@
+1 FILE c:\SIERRA\GEN5\update My Family File.uds
+1 GEDC 
+2 VERS 5.5
+1 CHAR IBM WINDOWS
+0 @I1@ INDI
+1 NAME Jacqueline Joyce /HEYNS/
+1 SEX F
+1 ADDR Jacqueline Joyce Heyns
+1 BIRT 
+2 DATE 7 FEB 1924
+2 PLAC Hull, Sioux, IA
+1 FAMC @F4@
+1 FAMS @F1@
+1 CHAN 
+2 DATE 5 APR 1999
+0 @I2@ INDI
+1 NAME Ralph Harold /RUDEEN/
+1 SEX M
+1 ADDR Ralph Harold Rudeen
+1 BIRT 
+2 DATE 24 SEP 1919
+2 PLAC Yakima, Yakima, WA
+1 FAMS @F1@
+1 CHAN 
+2 DATE 5 APR 1999
+0 @I3@ INDI
+1 NAME Jeffrey Brooks /Rudeen/
+1 SEX M
+1 BIRT 
+2 DATE 17 JUN 1950
+2 PLAC Seattle, King, WA
+1 CHR 
+2 PLAC Grand Rapids, Kent, MI
+1 FAMC @F1@
+1 FAMS @F34@
+0 @I4@ INDI
+1 NAME Marcia Dianne /Rudeen/
+1 SEX F
+1 BIRT 
+2 DATE 26 MAY 1952
+2 PLAC Elma, Grays Harbor, WA
+1 CHR 
+2 PLAC Pasadena, Los Angeles, CA
+1 FAMC @F1@
+1 FAMS @F36@
+0 @I5@ INDI
+1 NAME Terry Karl /Rudeen/
+1 SEX M
+1 BIRT 
+2 DATE 1 DEC 1954
+2 PLAC Elma, Grays Harbor, WA
+1 CHR 
+2 PLAC Olympia, Thurston, WA
+1 FAMC @F1@
+1 FAMS @F35@
+0 @I6@ INDI
+1 NAME William Wynand /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 18 MAR 1856
+2 PLAC Haarlemmermeer, N.Holland, Netherlands
+1 DEAT 
+2 DATE 9 NOV 1933
+2 PLAC Grand Rapids, Kent, MI
+1 BURI 
+2 PLAC Grand Rapids, Kent, MI
+1 NOTE @N1@
+1 FAMC @F28@
+1 FAMS @F2@
+1 CHAN 
+2 DATE 11 MAR 1999
+0 @I7@ INDI
+1 NAME Hendrika /Tien/
+1 SEX F
+1 BIRT 
+2 DATE 31 OCT 1862
+2 PLAC Roseland, St.Joseph, IN
+1 DEAT 
+2 DATE 18 DEC 1928
+2 PLAC Grand Rapids, Kent, MI
+1 BURI 
+2 PLAC Grand Rapids, MI
+1 NOTE @N2@
+1 FAMS @F2@
+1 CHAN 
+2 DATE 11 MAR 1999
+0 @I8@ INDI
+1 NAME Jeannette /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 9 JUN 1887
+2 PLAC Allendale, MI
+1 DEAT 
+2 DATE 12 OCT 1967
+2 PLAC Grand Rapids, Kent, MI
+1 FAMC @F2@
+1 FAMS @F25@
+0 @I9@ INDI
+1 NAME Herman /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 16 NOV 1889
+2 PLAC Allendale, MI
+1 DEAT 
+2 DATE MAY 1920
+2 PLAC East Paris, MI
+1 NOTE @N3@
+1 FAMC @F2@
+1 FAMS @F5@
+0 @I10@ INDI
+1 NAME Garrett /HEYNS/
+1 SEX M
+1 BIRT 
+2 DATE 21 SEP 1891
+2 PLAC Allendale, MI
+1 DEAT 
+2 DATE 3 NOV 1969
+2 PLAC Tacoma, WA
+1 BURI 
+2 PLAC Chapel Hill, GR, MI
+1 OCCU Educator and Penologist
+1 EDUC Calvin College, University of Michigan
+1 RELI Christian Reformed
+1 FAMC @F2@
+1 FAMS @F4@
+1 CHAN 
+2 DATE 5 APR 1999
+0 @I11@ INDI
+1 NAME Olive /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 3 JUN 1894
+2 PLAC Harrison, S Dakota
+1 DEAT 
+2 DATE 6 MAR 1995
+2 PLAC CA
+1 NOTE @N4@
+1 FAMC @F2@
+1 FAMS @F27@
+0 @I12@ INDI
+1 NAME Nicholas /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 20 NOV 1896
+2 PLAC Harrison, S Dakota
+1 DEAT 
+2 DATE 6 JAN 1960
+2 PLAC Kenosha, WI
+1 NOTE @N5@
+1 FAMC @F2@
+1 FAMS @F9@
+0 @I13@ INDI
+1 NAME Marie /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 19 MAY 1899
+2 PLAC Prinsburg, MN
+1 FAMC @F2@
+1 FAMS @F26@
+0 @I14@ INDI
+1 NAME Sara /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 13 NOV 1901
+2 PLAC Chicago, IL
+1 NOTE @N6@
+1 FAMC @F2@
+1 FAMS @F6@
+0 @I15@ INDI
+1 NAME Henriette H /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 27 OCT 1904
+2 PLAC Grand Rapids, MI
+1 DEAT 
+2 DATE 30 AUG 1989
+2 PLAC LakeWorth, FL
+1 BURI 
+2 PLAC Memory Gardens, FL
+1 FAMC @F2@
+1 FAMS @F16@
+0 @I16@ INDI
+1 NAME Anna /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 26 OCT 1907
+2 PLAC Grand Rapids, MI
+1 FAMC @F2@
+1 FAMS @F11@
+0 @I17@ INDI
+1 NAME Roger William /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 27 JAN 1918
+2 PLAC Grand Rapids, Kent, MI
+1 DEAT 
+2 DATE 11 SEP 1995
+2 PLAC Volos, Greece
+1 BURI 
+2 PLAC Port Sheldon, MI
+1 OCCU Educator,U of Michigan, Berkely, ACE, Dir. Hewlett Foundation
+1 EDUC Calvin College, University of Michigan
+1 FAMC @F4@
+1 FAMS @F3@
+1 CHAN 
+2 DATE 11 MAR 1999
+0 @I18@ INDI
+1 NAME Esther /Gezon/
+1 SEX F
+1 BIRT 
+2 DATE 4 NOV 1918
+2 PLAC Grand Rapids, Kent, MI
+1 EDUC Calvin College
+1 FAMS @F3@
+1 CHAN 
+2 DATE 11 MAR 1999
+0 @I19@ INDI
+1 NAME Michael Garrett /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 7 NOV 1943
+2 PLAC FL
+1 OCCU Trainmaster Burlington Northern
+1 EDUC Indiana University
+1 FAMC @F3@
+1 FAMS @F31@
+1 CHAN 
+2 DATE 11 MAR 1999
+0 @I20@ INDI
+1 NAME John Roger /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 23 JUL 1948
+2 PLAC Ann Arbor, Washtenaw, MI
+1 FAMC @F3@
+1 FAMS @F33@
+0 @I21@ INDI
+1 NAME Daniel Hiram /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 24 MAY 1951
+2 PLAC Ann Arbor, MI
+1 FAMC @F3@
+1 FAMS @F32@
+0 @I22@ INDI
+1 NAME Rosa /Klooster/
+1 SEX F
+1 BIRT 
+2 DATE 8 MAR 1895
+2 PLAC Muskegon, Muskegon, MI
+1 DEAT 
+2 DATE 6 JUN 1983
+2 PLAC Lacey, Thurston, WA
+1 BURI 
+2 DATE 13 JUN 1983
+2 PLAC Chapel Hill, GR, MI
+1 FAMS @F4@
+0 @I23@ INDI
+1 NAME Dena /Joldersma/
+1 SEX F
+1 BIRT 
+2 DATE 12 NOV 1891
+2 PLAC Muskegon, MI
+1 DEAT 
+2 DATE 19 FEB 1984
+2 PLAC Sioux Center, IA
+1 BURI 
+2 DATE 23 FEB 1984
+2 PLAC Woodlawn Cem., GR
+1 FAMS @F5@
+1 FAMS @F307@
+0 @I24@ INDI
+1 NAME Joanne /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 1917
+1 FAMC @F5@
+1 FAMS @F13@
+0 @I25@ INDI
+1 NAME Wilma /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 1920
+1 FAMC @F5@
+1 FAMS @F12@
+0 @I26@ INDI
+1 NAME John /Swets/
+1 SEX M
+1 BIRT 
+2 DATE 27 OCT 1902
+2 PLAC South Holland, IL
+1 DEAT 
+2 DATE 7 SEP 1976
+2 PLAC LakeWorth, FL
+1 BURI 
+2 PLAC Memory Gardens, LakeWorth, FL
+1 FAMS @F6@
+0 @I27@ INDI
+1 NAME John Arthur /Swets/
+1 SEX M
+1 BIRT 
+2 DATE 1926
+1 FAMC @F6@
+1 FAMS @F7@
+0 @I28@ INDI
+1 NAME Mary Lou /Swets/
+1 SEX F
+1 BIRT 
+2 PLAC Holland, MI
+1 NOTE @N7@
+1 FAMC @F6@
+1 FAMS @F139@
+0 @I29@ INDI
+1 NAME Mickey
+1 SEX F
+1 FAMS @F7@
+0 @I30@ INDI
+1 NAME Steven /Swets/
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F8@
+0 @I31@ INDI
+1 NAME Joel /Swets/
+1 SEX M
+1 FAMC @F7@
+0 @I32@ INDI
+1 NAME Dianna
+1 SEX F
+1 FAMS @F8@
+0 @I33@ INDI
+1 NAME Michael /Swets/
+1 SEX M
+1 BIRT 
+2 DATE ABT 1987
+1 FAMC @F8@
+0 @I34@ INDI
+1 NAME Caroline /Swets/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1990
+1 FAMC @F8@
+0 @I35@ INDI
+1 NAME Helene /Berg/
+1 SEX F
+1 BIRT 
+2 DATE 1897
+1 DEAT 
+2 DATE 1965
+2 PLAC Kenosha, WI
+1 FAMS @F9@
+0 @I36@ INDI
+1 NAME William /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE ABT 1925
+1 FAMC @F9@
+1 FAMS @F10@
+0 @I37@ INDI
+1 NAME Bonnie
+1 SEX F
+1 BIRT 
+2 DATE 1944
+1 NOTE @N8@
+1 FAMS @F10@
+0 @I38@ INDI
+1 NAME John Lester /De_Beer/
+1 SEX M
+1 BIRT 
+2 DATE 1 SEP 1910
+1 FAMS @F11@
+0 @I39@ INDI
+1 NAME Judith /De_Beer/
+1 SEX F
+1 BIRT 
+2 DATE 28 APR 1947
+1 FAMC @F11@
+1 FAMS @F80@
+0 @I40@ INDI
+1 NAME Karen /De_Beer/
+1 SEX F
+1 BIRT 
+2 DATE 2 SEP 1939
+1 FAMC @F11@
+1 FAMS @F81@
+0 @I41@ INDI
+1 NAME John /Brouwer/
+1 SEX M
+1 BIRT 
+2 DATE 18 DEC 1915
+2 PLAC Rock Valley, IA
+1 DEAT 
+2 DATE 1969
+1 FAMS @F12@
+0 @I42@ INDI
+1 NAME Joel R /Brouwer/
+1 SEX M
+1 BIRT 
+2 DATE 23 SEP 1948
+2 PLAC Oscaloosa, IA
+1 NOTE @N9@
+1 FAMC @F12@
+1 FAMS @F14@
+0 @I43@ INDI
+1 NAME Michael /Brouwer/
+1 SEX M
+1 BIRT 
+2 DATE 21 JUL 1954
+2 PLAC Oscaloosa, IA
+1 FAMC @F12@
+1 FAMS @F15@
+1 FAMS @F598@
+0 @I44@ INDI
+1 NAME Rebecca Joanne /Brouwer/
+1 SEX F
+1 FAMC @F12@
+1 FAMS @F93@
+0 @I45@ INDI
+1 NAME Peter Y /De_Jong/
+1 SEX M
+1 FAMS @F13@
+0 @I46@ INDI
+1 NAME James Allan /De_Jong/
+1 SEX M
+1 NOTE @N10@
+1 FAMC @F13@
+1 FAMS @F68@
+0 @I47@ INDI
+1 NAME Deanne Elizabeth /De_Jong/
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F67@
+0 @I48@ INDI
+1 NAME Peter Y /De_Jong/
+1 SEX M
+1 FAMC @F13@
+1 FAMS @F70@
+0 @I49@ INDI
+1 NAME Stephen Herman /De_Jong/
+1 SEX M
+1 NOTE @N11@
+1 FAMC @F13@
+1 FAMS @F72@
+0 @I50@ INDI
+1 NAME Corinne Jo /De_Jong/
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F73@
+0 @I51@ INDI
+1 NAME Kristine Wilma /De_Jong/
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F74@
+0 @I52@ INDI
+1 NAME Rosanne
+1 SEX F
+1 BIRT 
+2 DATE 28 FEB 1942
+1 NOTE @N12@
+1 FAMS @F14@
+0 @I54@ INDI
+1 NAME Henry R /Drukker/
+1 SEX M
+1 BIRT 
+2 DATE 20 AUG 1906
+1 DEAT 
+2 DATE 12 NOV 1981
+2 PLAC Lake Worth, FL
+1 FAMS @F16@
+0 @I55@ INDI
+1 NAME Marilyn /Drukker/
+1 SEX F
+1 BIRT 
+2 DATE 1932
+1 FAMC @F16@
+1 FAMS @F17@
+0 @I56@ INDI
+1 NAME Ruthanne /Drukker/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1934
+1 FAMC @F16@
+1 FAMS @F21@
+0 @I57@ INDI
+1 NAME Dewey /Heetderks/
+1 SEX M
+1 FAMS @F17@
+0 @I58@ INDI
+1 NAME Lori /Heetderks/
+1 SEX F
+1 FAMC @F17@
+1 FAMS @F18@
+0 @I59@ INDI
+1 NAME Julie /Heetderks/
+1 SEX F
+1 FAMC @F17@
+1 FAMS @F19@
+0 @I60@ INDI
+1 NAME Tom /Heetderks/
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F20@
+0 @I61@ INDI
+1 NAME Rick /De_Jonge/
+1 SEX M
+1 FAMS @F18@
+0 @I62@ INDI
+1 NAME Mike /De_Jonge/
+1 SEX M
+1 BIRT 
+2 DATE 1977
+1 FAMC @F18@
+0 @I63@ INDI
+1 NAME Nathan /De_Jonge/
+1 SEX M
+1 BIRT 
+2 DATE 1982
+1 FAMC @F18@
+0 @I64@ INDI
+1 NAME Lauren /De_Jonge/
+1 SEX F
+1 BIRT 
+2 DATE 1989
+1 FAMC @F18@
+0 @I65@ INDI
+1 NAME Wayne /De_Vos/
+1 SEX M
+1 FAMS @F19@
+0 @I66@ INDI
+1 NAME Gwen /Schuringa/
+1 SEX F
+1 FAMS @F20@
+0 @I67@ INDI
+1 NAME David /Heetderks/
+1 SEX M
+1 BIRT 
+2 DATE 1991
+1 FAMC @F20@
+0 @I68@ INDI
+1 NAME Martin /Dykstra/
+1 SEX M
+1 FAMS @F21@
+0 @I69@ INDI
+1 NAME Jaye /Dykstra/
+1 SEX F
+1 BIRT 
+2 DATE 1960
+1 FAMC @F21@
+1 FAMS @F22@
+0 @I70@ INDI
+1 NAME Jeffrey /Dykstra/
+1 SEX M
+1 BIRT 
+2 DATE 1965
+1 FAMC @F21@
+1 FAMS @F23@
+0 @I71@ INDI
+1 NAME Joni /Dykstra/
+1 SEX F
+1 BIRT 
+2 DATE 1966
+1 FAMC @F21@
+1 FAMS @F24@
+0 @I72@ INDI
+1 NAME Jennifer /Dykstra/
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F97@
+0 @I73@ INDI
+1 NAME David /Taylor/
+1 SEX M
+1 FAMS @F22@
+0 @I74@ INDI
+1 NAME Jayna /Taylor/
+1 SEX F
+1 BIRT 
+2 DATE 1989
+1 FAMC @F22@
+0 @I77@ INDI
+1 NAME Sibolt /Temple/
+1 SEX M
+1 FAMS @F25@
+0 @I78@ INDI
+1 NAME Eben /Mersman/
+1 SEX M
+1 BIRT 
+2 DATE 19 JUL 1896
+2 PLAC Grand Rapids, MI
+1 DEAT 
+2 DATE 13 APR 1968
+2 PLAC Grand Rapids, MI
+1 BURI 
+2 PLAC Woodlawn, GR
+1 FAMS @F26@
+0 @I79@ INDI
+1 NAME Edwin /Mersman/
+1 SEX M
+1 BIRT 
+2 DATE 1924
+1 FAMC @F26@
+1 FAMS @F85@
+0 @I80@ INDI
+1 NAME Phyllis /Mersman/
+1 SEX F
+1 BIRT 
+2 DATE 1926
+1 FAMC @F26@
+1 FAMS @F89@
+0 @I81@ INDI
+1 NAME Barbara /Mersman/
+1 SEX F
+1 FAMC @F26@
+1 FAMS @F90@
+0 @I82@ INDI
+1 NAME Richard /Pousma/
+1 SEX M
+1 BIRT 
+2 DATE 14 AUG 1882
+1 DEAT 
+2 DATE 7 JAN 1979
+1 NOTE @N13@
+1 FAMS @F27@
+0 @I83@ INDI
+1 NAME Anne Shirley /Pousma/
+1 SEX F
+1 BIRT 
+2 DATE 1927
+1 FAMC @F27@
+1 FAMS @F83@
+1 FAMS @F84@
+0 @I84@ INDI
+1 NAME Yvonne /Pousma/
+1 SEX F
+1 BIRT 
+2 DATE 30 OCT 1925
+1 FAMC @F27@
+1 FAMS @F82@
+0 @I85@ INDI
+1 NAME Gerrit /Heijns/
+1 SEX M
+1 BIRT 
+2 DATE 21 NOV 1824
+2 PLAC TerAa, South Holland, Netherlands
+1 DEAT 
+2 DATE 27 SEP 1882
+2 PLAC Patterson, NJ
+1 NOTE @N14@
+1 FAMS @F28@
+1 CHAN 
+2 DATE 17 MAY 1999
+0 @I86@ INDI
+1 NAME Jannetje (Sarah) /Pos/
+1 SEX F
+1 BIRT 
+2 DATE 28 SEP 1834
+2 PLAC Loosdrect, Utrecht, Netherlands
+1 DEAT 
+2 DATE 10 OCT 1890
+2 PLAC Patterson, NJ
+1 FAMS @F28@
+0 @I87@ INDI
+1 NAME Herbert /Heyns/
+1 SEX M
+1 DEAT 
+2 DATE 5 SEP 1899
+2 PLAC Elizabeth, New Jersey
+1 NOTE @N15@
+1 FAMC @F28@
+1 FAMS @F98@
+0 @I88@ INDI
+1 NAME Tice /Heyns/
+1 SEX M
+1 FAMC @F28@
+0 @I89@ INDI
+1 NAME J Anne /Heyns/
+1 SEX F
+1 DEAT 
+2 DATE 11 NOV 1899
+1 FAMC @F28@
+1 FAMS @F79@
+0 @I90@ INDI
+1 NAME John /Heyns/
+1 SEX M
+1 FAMC @F28@
+0 @I91@ INDI
+1 NAME Jeannette /Heyns/
+1 SEX F
+1 FAMC @F28@
+0 @I92@ INDI
+1 NAME Nicholas /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1867
+1 DEAT 
+2 DATE 14 JUL 1941
+2 PLAC Grand Rapids, MI
+1 FAMC @F28@
+0 @I93@ INDI
+1 NAME Matthew /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1869
+1 DEAT 
+2 DATE 30 JUL 1946
+2 PLAC Patterson, NJ
+1 NOTE @N16@
+1 FAMC @F28@
+1 FAMS @F99@
+0 @I108@ INDI
+1 NAME Kelly /Nguyen/
+1 SEX F
+1 BIRT 
+2 PLAC Vietnam
+1 FAMS @F31@
+0 @I109@ INDI
+1 NAME Angela Kim /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 12 OCT 1972
+2 PLAC Spokane, WA
+1 FAMC @F31@
+0 @I110@ INDI
+1 NAME Garret Michael /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 2 APR 1977
+2 PLAC Minot, ND
+1 EDUC Hope College grad 1999
+1 FAMC @F31@
+1 CHAN 
+2 DATE 11 MAR 1999
+0 @I111@ INDI
+1 NAME Anne /Davies/
+1 SEX F
+1 BIRT 
+2 DATE 30 SEP 1952
+1 FAMS @F32@
+0 @I112@ INDI
+1 NAME Laura Francis /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 27 MAR 1979
+2 PLAC Jackson, MI
+1 FAMC @F32@
+0 @I113@ INDI
+1 NAME Katherine Anne /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 13 DEC 1982
+2 PLAC Jackson, MI
+1 FAMC @F32@
+0 @I114@ INDI
+1 NAME John Hiram /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 10 FEB 1986
+2 PLAC Jackson, MI
+1 FAMC @F32@
+0 @I116@ INDI
+1 NAME Allison Jean /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 11 MAY 1979
+2 PLAC Holland, MI
+1 FAMC @F33@
+0 @I117@ INDI
+1 NAME Adam /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 29 DEC 1981
+2 PLAC Holland, MI
+1 FAMC @F33@
+0 @I118@ INDI
+1 NAME Shelley Rae /Kirk/
+1 SEX F
+1 BIRT 
+2 DATE 19 FEB 1954
+2 PLAC Spokane, WA
+1 FAMS @F34@
+0 @I119@ INDI
+1 NAME Collin Stewart /Rudeen/
+1 SEX M
+1 BIRT 
+2 DATE 3 APR 1981
+2 PLAC Olympia, WA
+1 FAMC @F34@
+0 @I120@ INDI
+1 NAME Aleta Kathryn /Rudeen/
+1 SEX F
+1 BIRT 
+2 DATE 12 MAY 1983
+2 PLAC Tacoma, WA
+1 FAMC @F34@
+0 @I121@ INDI
+1 NAME Diane /Stinson/
+1 SEX F
+1 BIRT 
+2 DATE 5 MAY 1958
+1 FAMS @F35@
+0 @I122@ INDI
+1 NAME Linnea Rochelle /Rudeen/
+1 SEX F
+1 BIRT 
+2 DATE 15 MAY 1989
+2 PLAC Olympia, WA
+1 FAMC @F35@
+0 @I123@ INDI
+1 NAME Karl Cameron /Rudeen/
+1 SEX M
+1 BIRT 
+2 DATE 16 JUN 1991
+2 PLAC Olympia, WA
+1 FAMC @F35@
+0 @I124@ INDI
+1 NAME Edward Mitchell /Trujillo/
+1 SEX M
+1 BIRT 
+2 DATE 28 SEP 1950
+2 PLAC Denver, CO
+1 FAMS @F36@
+0 @I125@ INDI
+1 NAME Emily Levinia /Trujillo/
+1 SEX F
+1 BIRT 
+2 DATE 26 MAR 1984
+2 PLAC Olympia, WA
+1 FAMC @F36@
+0 @I126@ INDI
+1 NAME Rosa Alicia /Trujillo/
+1 SEX F
+1 BIRT 
+2 DATE 15 AUG 1986
+2 PLAC Olympia, WA
+1 FAMC @F36@
+0 @I247@ INDI
+1 NAME E Robert /Tigchelaar/
+1 SEX M
+1 FAMS @F67@
+0 @I248@ INDI
+1 NAME Alisa Joanne /Tigchelaar/
+1 SEX F
+1 FAMC @F67@
+0 @I249@ INDI
+1 NAME Ian Scott /Tigchelaar/
+1 SEX M
+1 FAMC @F67@
+1 FAMS @F432@
+0 @I250@ INDI
+1 NAME Andrea Leigh /Tigchelaar/
+1 SEX F
+1 FAMC @F67@
+0 @I251@ INDI
+1 NAME Sarah Megan /Tigchelaar/
+1 SEX F
+1 FAMC @F67@
+0 @I252@ INDI
+1 NAME Lois /De_Kock/
+1 SEX F
+1 FAMS @F68@
+0 @I253@ INDI
+1 NAME Kurtis James /De_Jong/
+1 SEX M
+1 FAMC @F68@
+1 FAMS @F69@
+0 @I254@ INDI
+1 NAME Kristin Joann /De_Jong/
+1 SEX F
+1 FAMC @F68@
+0 @I255@ INDI
+1 NAME Kyle Peter /De_Jong/
+1 SEX M
+1 FAMC @F68@
+0 @I256@ INDI
+1 NAME Julie /Schurrman/
+1 SEX F
+1 FAMS @F69@
+0 @I257@ INDI
+1 NAME Charlotte /Bergsma/
+1 SEX F
+1 FAMS @F70@
+0 @I258@ INDI
+1 NAME Christopher James /De_Jong/
+1 SEX M
+1 FAMC @F70@
+1 FAMS @F71@
+0 @I259@ INDI
+1 NAME Sonja /Wagenaar/
+1 SEX F
+1 FAMS @F71@
+0 @I260@ INDI
+1 NAME Ivey /Oosterhuis/
+1 SEX F
+1 FAMS @F72@
+0 @I261@ INDI
+1 NAME Jeremy Stephen /De_Jong/
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F431@
+0 @I262@ INDI
+1 NAME Mary Joanne /De_Jong/
+1 SEX F
+1 FAMC @F72@
+0 @I263@ INDI
+1 NAME James David /De_Jong/
+1 SEX M
+1 FAMC @F72@
+0 @I264@ INDI
+1 NAME Gene /Huisman/
+1 SEX M
+1 FAMS @F73@
+0 @I265@ INDI
+1 NAME Jessica Joanne /Huisman/
+1 SEX F
+1 FAMC @F73@
+0 @I266@ INDI
+1 NAME Dale Michael /Zylstra/
+1 SEX M
+1 FAMS @F74@
+0 @I267@ INDI
+1 NAME Joshua Michael /Zylstra/
+1 SEX M
+1 FAMC @F74@
+0 @I268@ INDI
+1 NAME Margaret Ann /Zylstra/
+1 SEX F
+1 FAMC @F74@
+0 @I269@ INDI
+1 NAME Katherine Lee /Zylstra/
+1 SEX F
+1 FAMC @F74@
+0 @I270@ INDI
+1 NAME Lauren /Zylstra/
+1 FAMC @F74@
+0 @I271@ INDI
+1 NAME Paul Richard /De_Jong/
+1 SEX M
+1 FAMC @F70@
+0 @I286@ INDI
+1 NAME John /Husselmann/
+1 SEX M
+1 FAMS @F79@
+0 @I287@ INDI
+1 NAME John /Husselman/
+1 SEX M
+1 FAMC @F79@
+0 @I288@ INDI
+1 NAME Herbert /Husselman/
+1 SEX M
+1 FAMC @F79@
+0 @I289@ INDI
+1 NAME Jeannette /Husselman/
+1 SEX F
+1 FAMC @F79@
+0 @I290@ INDI
+1 NAME Harlow /Kuiper/
+1 SEX M
+1 BIRT 
+2 DATE 6 JAN 1945
+1 FAMS @F80@
+0 @I291@ INDI
+1 NAME Robin /Kuiper/
+1 SEX F
+1 BIRT 
+2 DATE 26 MAR 1968
+1 FAMC @F80@
+0 @I292@ INDI
+1 NAME Kelley /Kuiper/
+1 SEX F
+1 BIRT 
+2 DATE 5 MAY 1971
+1 FAMC @F80@
+0 @I293@ INDI
+1 NAME Pamela /Kuiper/
+1 SEX F
+1 BIRT 
+2 DATE 20 JAN 1976
+1 FAMC @F80@
+0 @I294@ INDI
+1 NAME Matthew /Kuiper/
+1 SEX M
+1 BIRT 
+2 DATE 18 FEB 1984
+1 FAMC @F80@
+0 @I295@ INDI
+1 NAME Lisa Anne /DeMol/
+1 SEX F
+1 BIRT 
+2 DATE 29 OCT 1966
+1 FAMC @F81@
+0 @I296@ INDI
+1 NAME Jon /DeMol/
+1 SEX M
+1 BIRT 
+2 DATE 12 FEB 1970
+1 NOTE @N39@
+1 FAMC @F81@
+0 @I297@ INDI
+1 NAME William /Hornbeck/
+1 SEX M
+1 FAMS @F82@
+0 @I298@ INDI
+1 NAME William /Hornbeck/
+1 SEX M
+1 FAMC @F82@
+1 FAMS @F95@
+0 @I300@ INDI
+1 NAME Dick /Dykema/
+1 SEX M
+1 FAMC @F83@
+0 @I301@ INDI
+1 NAME Dean /Dykema/
+1 SEX M
+1 FAMC @F83@
+0 @I302@ INDI
+1 NAME Dawn /Dykema/
+1 SEX F
+1 FAMC @F83@
+1 FAMS @F96@
+0 @I304@ INDI
+1 NAME Bea /Kok/
+1 SEX F
+1 BIRT 
+2 DATE 1928
+1 DEAT 
+2 DATE 18 OCT 1992
+2 PLAC Grand Rapids, MI
+1 FAMS @F85@
+0 @I305@ INDI
+1 NAME Mari /Mersman/
+1 SEX F
+1 FAMC @F85@
+1 FAMS @F86@
+0 @I306@ INDI
+1 NAME Carolyn /Mersman/
+1 SEX F
+1 FAMC @F85@
+1 FAMS @F87@
+0 @I307@ INDI
+1 NAME Ruth Ann /Mersman/
+1 SEX F
+1 FAMC @F85@
+1 FAMS @F88@
+0 @I308@ INDI
+1 NAME Tim /Donohoe/
+1 SEX M
+1 FAMS @F86@
+0 @I309@ INDI
+1 NAME Erin /Donohoe/
+1 SEX M
+1 FAMC @F86@
+0 @I310@ INDI
+1 NAME Emily /Donohoe/
+1 SEX F
+1 FAMC @F86@
+0 @I311@ INDI
+1 NAME Marc /Blass/
+1 SEX M
+1 FAMS @F87@
+0 @I312@ INDI
+1 NAME Janice /Blass/
+1 SEX F
+1 FAMC @F87@
+0 @I313@ INDI
+1 NAME Jonathan /Blass/
+1 SEX M
+1 FAMC @F87@
+0 @I314@ INDI
+1 NAME Alan /Versaw/
+1 SEX M
+1 FAMS @F88@
+0 @I315@ INDI
+1 NAME Robert /Versaw/
+1 SEX M
+1 BIRT 
+2 DATE 1989
+1 FAMC @F88@
+0 @I316@ INDI
+1 NAME Eric /Versaw/
+1 SEX M
+1 BIRT 
+2 DATE 1992
+1 FAMC @F88@
+0 @I317@ INDI
+1 NAME Peter /Troast/
+1 SEX M
+1 FAMS @F89@
+0 @I318@ INDI
+1 NAME Dale /Brouwer/
+1 SEX M
+1 FAMS @F90@
+0 @I319@ INDI
+1 NAME David /Brouwer/
+1 SEX M
+1 FAMC @F90@
+1 FAMS @F91@
+0 @I320@ INDI
+1 NAME Bob /Brouwer/
+1 SEX M
+1 FAMC @F90@
+0 @I321@ INDI
+1 NAME Beth /Brouwer/
+1 SEX F
+1 FAMC @F90@
+1 FAMS @F92@
+0 @I322@ INDI
+1 NAME Krys
+1 SEX F
+1 FAMS @F91@
+0 @I323@ INDI
+1 NAME Lyle /Brouwer/
+1 SEX M
+1 FAMS @F92@
+0 @I325@ INDI
+1 NAME Joel /Brouwer/
+1 SEX M
+1 BIRT 
+2 DATE 22 JUN 1969
+2 PLAC Grand Rapids, MI
+1 FAMC @F14@
+0 @I326@ INDI
+1 NAME David /Brouwer/
+1 SEX M
+1 BIRT 
+2 DATE 7 JUL 1974
+2 PLAC Chicago, IL
+1 FAMC @F14@
+0 @I327@ INDI
+1 NAME Sharon /Brouwer/
+1 SEX F
+1 BIRT 
+2 DATE 19 FEB 1977
+1 FAMC @F14@
+0 @I328@ INDI
+1 NAME Gerald C /Vanden_Bosch/
+1 SEX M
+1 NOTE @N40@
+1 FAMS @F93@
+0 @I329@ INDI
+1 NAME Jonathan Michael /Vanden_Bosch/
+1 SEX M
+1 BIRT 
+2 DATE 14 AUG 1974
+1 FAMC @F93@
+1 FAMS @F599@
+0 @I330@ INDI
+1 NAME Jacob Gerald /Vanden_Bosch/
+1 SEX M
+1 BIRT 
+2 DATE 26 JAN 1977
+1 FAMC @F93@
+0 @I331@ INDI
+1 NAME Sarah Jo /Brouwer/
+1 SEX F
+1 BIRT 
+2 DATE 1 AUG 1981
+1 FAMC @F15@
+0 @I332@ INDI
+1 NAME Rachel Jean /Brouwer/
+1 SEX F
+1 BIRT 
+2 DATE 25 APR 1986
+1 FAMC @F15@
+0 @I338@ INDI
+1 NAME Richard /Hornbeck/
+1 SEX M
+1 FAMC @F95@
+0 @I339@ INDI
+1 NAME John /Hornbeck/
+1 SEX M
+1 FAMC @F95@
+0 @I340@ INDI
+1 NAME Joshua /Hornbeck/
+1 SEX M
+1 BIRT 
+2 DATE 1990
+1 FAMC @F95@
+0 @I341@ INDI
+1 NAME Danielle
+1 SEX F
+1 BIRT 
+2 DATE 8 AUG 1988
+1 FAMC @F96@
+0 @I342@ INDI
+1 NAME Deanne
+1 SEX F
+1 BIRT 
+2 DATE 18 JUL 1991
+1 FAMC @F96@
+0 @I344@ INDI
+1 NAME Nettie
+1 SEX F
+1 FAMS @F98@
+0 @I346@ INDI
+1 NAME Sadie
+1 SEX F
+1 BIRT 
+2 DATE 1878
+1 FAMS @F99@
+0 @I347@ INDI
+1 NAME Doretta /Heyns/
+1 SEX F
+1 FAMC @F99@
+1 FAMS @F108@
+0 @I348@ INDI
+1 NAME Jeanette /Heyns/
+1 SEX F
+1 NOTE @N41@
+1 FAMC @F99@
+0 @I349@ INDI
+1 NAME Jeanette /Heyns/
+1 SEX F
+1 FAMC @F99@
+1 FAMS @F111@
+0 @I350@ INDI
+1 NAME Garret /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1908
+1 FAMC @F99@
+1 FAMS @F105@
+0 @I351@ INDI
+1 NAME Clarence /Heyns/
+1 SEX M
+1 FAMC @F99@
+1 FAMS @F103@
+0 @I352@ INDI
+1 NAME Herbert /Heyns/
+1 SEX M
+1 FAMC @F99@
+1 FAMS @F100@
+0 @I353@ INDI
+1 NAME Margaret /Heyns/
+1 SEX F
+1 FAMC @F99@
+1 FAMS @F101@
+0 @I354@ INDI
+1 NAME Clara /Heyns/
+1 SEX F
+1 FAMC @F99@
+1 FAMS @F104@
+0 @I355@ INDI
+1 NAME William John /Heyns/
+1 SEX M
+1 FAMC @F99@
+1 FAMS @F102@
+0 @I356@ INDI
+1 NAME Florence /Disner/
+1 SEX F
+1 FAMS @F100@
+0 @I357@ INDI
+1 NAME Thomas /Heyns/
+1 SEX M
+1 FAMC @F100@
+0 @I358@ INDI
+1 NAME Joyce /Heyns/
+1 SEX F
+1 FAMC @F100@
+0 @I359@ INDI
+1 NAME Lois /Heyns/
+1 SEX F
+1 FAMC @F100@
+0 @I360@ INDI
+1 NAME Judith /Heyns/
+1 SEX F
+1 FAMC @F100@
+0 @I361@ INDI
+1 NAME Richard /Sweeny/
+1 SEX M
+1 FAMS @F101@
+0 @I362@ INDI
+1 NAME Kenneth /Sweeny/
+1 SEX M
+1 FAMC @F101@
+0 @I363@ INDI
+1 NAME Robert /Sweeny/
+1 SEX M
+1 NOTE @N42@
+1 FAMC @F101@
+0 @I364@ INDI
+1 NAME Francis /Sweeny/
+1 SEX F
+1 FAMC @F101@
+0 @I365@ INDI
+1 NAME Diane /Sweeny/
+1 SEX F
+1 FAMC @F101@
+0 @I366@ INDI
+1 NAME Doris /Hoare/
+1 SEX F
+1 FAMS @F102@
+0 @I367@ INDI
+1 NAME Douglas /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1950
+1 FAMC @F102@
+0 @I368@ INDI
+1 NAME John /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1952
+1 FAMC @F102@
+0 @I369@ INDI
+1 NAME Carol /Heyns/
+1 SEX F
+1 BIRT 
+2 DATE 1956
+1 FAMC @F102@
+0 @I370@ INDI
+1 NAME David /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1958
+1 FAMC @F102@
+0 @I371@ INDI
+1 NAME Matthew /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1959
+1 FAMC @F102@
+0 @I372@ INDI
+1 NAME Gary /Heyns/
+1 SEX M
+1 BIRT 
+2 DATE 1963
+1 FAMC @F102@
+0 @I373@ INDI
+1 NAME Irene /Huhues/
+1 SEX F
+1 FAMS @F103@
+0 @I374@ INDI
+1 NAME Robert /Heyns/
+1 SEX M
+1 FAMC @F103@
+0 @I375@ INDI
+1 NAME Elizabeth /Heyns/
+1 SEX F
+1 FAMC @F103@
+0 @I376@ INDI
+1 NAME Irene /Heyns/
+1 SEX F
+1 FAMC @F103@
+0 @I377@ INDI
+1 NAME Theodore /Majeckie/
+1 SEX M
+1 FAMS @F104@
+0 @I378@ INDI
+1 NAME Theodore /Majeckie/
+1 SEX M
+1 FAMC @F104@
+0 @I379@ INDI
+1 NAME Margaret /Majeckie/
+1 SEX F
+1 FAMC @F104@
+0 @I380@ INDI
+1 NAME Carol /Majeckie/
+1 SEX F
+1 FAMC @F104@
+0 @I381@ INDI
+1 NAME David /Majeckie/
+1 SEX M
+1 FAMC @F104@
+0 @I382@ INDI
+1 NAME Robert /Majeckie/
+1 SEX M
+1 FAMC @F104@
+0 @I383@ INDI
+1 NAME Alice /Perry/
+1 SEX F
+1 FAMS @F105@
+0 @I384@ INDI
+1 NAME Garret /Heyns/
+1 SEX M
+1 FAMC @F105@
+1 FAMS @F106@
+0 @I385@ INDI
+1 NAME Gerald /Heyns/
+1 SEX M
+1 FAMC @F105@
+1 FAMS @F107@
+0 @I386@ INDI
+1 NAME Lorraine
+1 SEX F
+1 FAMS @F106@
+0 @I387@ INDI
+1 NAME Bruce /Heyns/
+1 SEX M
+1 FAMC @F106@
+0 @I388@ INDI
+1 NAME Kathy Lynn /Heyns/
+1 SEX F
+1 FAMC @F106@
+0 @I390@ INDI
+1 NAME Laurence /Rogers/
+1 SEX M
+1 FAMS @F108@
+0 @I391@ INDI
+1 NAME Sadie /Rogers/
+1 SEX F
+1 FAMC @F108@
+1 FAMS @F109@
+0 @I392@ INDI
+1 NAME Margaret /Rogers/
+1 SEX F
+1 FAMC @F108@
+1 FAMS @F110@
+0 @I393@ INDI
+1 NAME Martin /Rogers/
+1 SEX M
+1 NOTE @N43@
+1 FAMC @F108@
+0 @I396@ INDI
+1 NAME Charles /Doyle/
+1 SEX M
+1 FAMS @F111@
+0 @I397@ INDI
+1 NAME Madalyn /Doyle/
+1 SEX F
+1 NOTE @N44@
+1 FAMC @F111@
+0 @I398@ INDI
+1 NAME Janet /Doyle/
+1 SEX F
+1 FAMC @F111@
+1 FAMS @F112@
+0 @I399@ INDI
+1 NAME Charles /Doyle/ Major,MCAF
+1 SEX M
+1 FAMC @F111@
+1 FAMS @F115@
+0 @I400@ INDI
+1 NAME Virginia /Doyle/
+1 SEX F
+1 FAMC @F111@
+1 FAMS @F113@
+0 @I401@ INDI
+1 NAME Bernice /Doyle/
+1 SEX F
+1 FAMC @F111@
+1 FAMS @F114@
+0 @I402@ INDI
+1 NAME Harold /Ritter/ Capt,USMC
+1 SEX M
+1 FAMS @F112@
+0 @I403@ INDI
+1 NAME Lynette /Ritter/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1950
+1 FAMC @F112@
+0 @I404@ INDI
+1 NAME Debra /Ritter/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1952
+1 FAMC @F112@
+0 @I405@ INDI
+1 NAME William John /Ritter/
+1 SEX M
+1 BIRT 
+2 DATE ABT 1954
+1 FAMC @F112@
+0 @I406@ INDI
+1 NAME Robert K /Stamets/
+1 SEX M
+1 FAMS @F113@
+0 @I407@ INDI
+1 NAME Kathy Lynn /Stamets/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1953
+1 FAMC @F113@
+0 @I408@ INDI
+1 NAME Lori /Stamets/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1955
+1 FAMC @F113@
+0 @I409@ INDI
+1 NAME Cheryl /Stamets/
+1 SEX F
+1 BIRT 
+2 DATE ABT 1957
+1 FAMC @F113@
+0 @I410@ INDI
+1 NAME Kenneth /Stamets/
+1 SEX M
+1 BIRT 
+2 DATE ABT 1967
+1 NOTE @N45@
+1 FAMC @F113@
+0 @I411@ INDI
+1 NAME Keith /Stamets/
+1 SEX M
+1 BIRT 
+2 DATE ABT 1967
+1 NOTE @N46@
+1 FAMC @F113@
+0 @I412@ INDI
+1 NAME Bruce /McCandless/ Lt.Comm,NASSA
+1 SEX M
+1 NOTE @N47@
+1 FAMS @F114@
+0 @I413@ INDI
+1 NAME Bruce /McCandless/ III
+1 SEX M
+1 BIRT 
+2 DATE 1961
+1 FAMC @F114@
+0 @I414@ INDI
+1 NAME Tracy /McCandless/
+1 SEX F
+1 BIRT 
+2 DATE 1963
+1 FAMC @F114@
+0 @I415@ INDI
+1 NAME Meridith /McDaniels/
+1 SEX F
+1 FAMS @F115@
+0 @I416@ INDI
+1 NAME David /Doyle/
+1 SEX M
+1 BIRT 
+2 DATE ABT 1957
+1 FAMC @F115@
+0 @I417@ INDI
+1 NAME Robert /Doyle/
+1 SEX M
+1 BIRT 
+2 DATE 1960
+1 FAMC @F115@
+0 @I418@ INDI
+1 NAME Valerie /Doyle/
+1 SEX F
+1 BIRT 
+2 DATE 1963
+1 FAMC @F115@
+0 @I488@ INDI
+1 NAME Wesley /Blom/
+1 SEX M
+1 FAMS @F139@
+0 @I994@ INDI
+1 NAME David /De_Mol/
+1 SEX M
+1 FAMS @F81@
+0 @I1334@ INDI
+1 NAME Ellen /VandeZandschulp/
+1 SEX F
+1 FAMS @F431@
+0 @I1335@ INDI
+1 NAME Jade Elizabeth /De_Jong/
+1 SEX F
+1 BIRT 
+2 DATE 1993
+1 FAMC @F431@
+0 @I1336@ INDI
+1 NAME Amy /Lang/
+1 SEX F
+1 FAMS @F432@
+0 @I1756@ INDI
+1 NAME Wren /Mitchell/
+1 SEX F
+1 FAMS @F599@
+0 @I1759@ INDI
+1 NAME Ryan Thomas /Heetderks/
+1 SEX M
+1 BIRT 
+2 DATE 1 JAN 1995
+1 FAMC @F20@
+0 @I1760@ INDI
+1 NAME Katelyn /Brouwer/
+1 SEX F
+1 BIRT 
+2 DATE 1990
+1 FAMC @F91@
+0 @I1761@ INDI
+1 NAME Marcus William /De_Vos/
+1 SEX M
+1 BIRT 
+2 DATE 9 JUN 1992
+1 FAMC @F19@
+0 @I1762@ INDI
+1 NAME Paul Bradley /De_Vos/
+1 SEX M
+1 BIRT 
+2 DATE 24 JUL 1989
+1 FAMC @F19@
+0 @I1787@ INDI
+1 NAME Dustin Harris /Brouwer/
+1 SEX M
+1 BIRT 
+2 DATE 1994
+1 FAMC @F91@
+0 @U1@ SUBM
+1 NAME Jacky Rudeen
+1 EMAL gran@cco.net
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I1@
+1 MARR 
+2 DATE 16 AUG 1946
+2 PLAC Grand Rapids, Kent, Michigan, USA
+1 ADDR Ralph Harold & Jacqueline Joyce Rudeen
+2 CONT 819 Quince NE
+2 CONT Olympia, WA   98506
+1 PHON 360-352-3721
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+0 @F2@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 MARR 
+2 DATE 13 SEP 1885
+2 PLAC Graafscap, MI
+1 CHIL @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+0 @F3@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 MARR 
+2 DATE 20 SEP 1941
+2 PLAC Ann Arbor, MI
+1 CHIL @I19@
+1 CHIL @I20@
+1 CHIL @I21@
+0 @F4@ FAM
+1 HUSB @I10@
+1 WIFE @I22@
+1 MARR 
+2 DATE 25 DEC 1916
+2 PLAC Grand Rapids, Kent, MI
+1 CHIL @I17@
+1 CHIL @I1@
+0 @F5@ FAM
+1 HUSB @I9@
+1 WIFE @I23@
+1 MARR 
+2 DATE 15 JUL 1915
+2 PLAC Willard, OH
+1 CHIL @I24@
+1 CHIL @I25@
+0 @F6@ FAM
+1 HUSB @I26@
+1 WIFE @I14@
+1 MARR 
+2 DATE 20 AUG 1925
+1 CHIL @I27@
+1 CHIL @I28@
+0 @F7@ FAM
+1 HUSB @I27@
+1 WIFE @I29@
+1 CHIL @I30@
+1 CHIL @I31@
+0 @F8@ FAM
+1 HUSB @I30@
+1 WIFE @I32@
+1 CHIL @I33@
+1 CHIL @I34@
+0 @F9@ FAM
+1 HUSB @I12@
+1 WIFE @I35@
+1 MARR 
+2 DATE 28 DEC 1923
+1 CHIL @I36@
+0 @F10@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 MARR 
+2 DATE 1969
+0 @F11@ FAM
+1 HUSB @I38@
+1 WIFE @I16@
+1 MARR 
+2 DATE 22 JUN 1936
+1 CHIL @I40@
+1 CHIL @I39@
+0 @F12@ FAM
+1 HUSB @I41@
+1 WIFE @I25@
+1 MARR 
+2 DATE 28 FEB 1942
+2 PLAC Grand Rapids, MI
+1 CHIL @I42@
+1 CHIL @I44@
+1 CHIL @I43@
+0 @F13@ FAM
+1 HUSB @I45@
+1 WIFE @I24@
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I50@
+1 CHIL @I51@
+0 @F14@ FAM
+1 HUSB @I42@
+1 WIFE @I52@
+1 MARR 
+2 DATE 1968
+1 CHIL @I325@
+1 CHIL @I326@
+1 CHIL @I327@
+0 @F15@ FAM
+1 HUSB @I43@
+1 CHIL @I331@
+1 CHIL @I332@
+0 @F16@ FAM
+1 HUSB @I54@
+1 WIFE @I15@
+1 MARR 
+2 DATE 30 JUN 1931
+1 CHIL @I55@
+1 CHIL @I56@
+0 @F17@ FAM
+1 HUSB @I57@
+1 WIFE @I55@
+1 MARR 
+2 DATE 1954
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+0 @F18@ FAM
+1 HUSB @I61@
+1 WIFE @I58@
+1 CHIL @I62@
+1 CHIL @I63@
+1 CHIL @I64@
+0 @F19@ FAM
+1 HUSB @I65@
+1 WIFE @I59@
+1 CHIL @I1762@
+1 CHIL @I1761@
+0 @F20@ FAM
+1 HUSB @I60@
+1 WIFE @I66@
+1 CHIL @I67@
+1 CHIL @I1759@
+0 @F21@ FAM
+1 HUSB @I68@
+1 WIFE @I56@
+1 CHIL @I69@
+1 CHIL @I70@
+1 CHIL @I71@
+1 CHIL @I72@
+0 @F22@ FAM
+1 HUSB @I73@
+1 WIFE @I69@
+1 CHIL @I74@
+0 @F23@ FAM
+1 HUSB @I70@
+0 @F24@ FAM
+1 WIFE @I71@
+0 @F25@ FAM
+1 HUSB @I77@
+1 WIFE @I8@
+1 MARR 
+2 DATE 2 SEP 1937
+2 PLAC Ionia, MI
+0 @F26@ FAM
+1 HUSB @I78@
+1 WIFE @I13@
+1 MARR 
+2 DATE 8 JUN 1922
+1 CHIL @I79@
+1 CHIL @I80@
+1 CHIL @I81@
+0 @F27@ FAM
+1 HUSB @I82@
+1 WIFE @I11@
+1 MARR 
+2 DATE 30 DEC 1920
+1 CHIL @I84@
+1 CHIL @I83@
+0 @F28@ FAM
+1 HUSB @I85@
+1 WIFE @I86@
+1 CHIL @I87@
+1 CHIL @I88@
+1 CHIL @I89@
+1 CHIL @I90@
+1 CHIL @I91@
+1 CHIL @I6@
+1 CHIL @I92@
+1 CHIL @I93@
+0 @F31@ FAM
+1 HUSB @I19@
+1 WIFE @I108@
+1 MARR 
+2 DATE 13 SEP 1969
+2 PLAC Olympia, WA
+1 CHIL @I109@
+1 CHIL @I110@
+0 @F32@ FAM
+1 HUSB @I21@
+1 WIFE @I111@
+1 MARR 
+2 DATE 10 AUG 1974
+2 PLAC East GrandRapids, MI
+1 CHIL @I112@
+1 CHIL @I113@
+1 CHIL @I114@
+0 @F33@ FAM
+1 HUSB @I20@
+1 MARR 
+2 DATE 8 MAY 1976
+2 PLAC Washington, DC
+1 CHIL @I116@
+1 CHIL @I117@
+0 @F34@ FAM
+1 HUSB @I3@
+1 WIFE @I118@
+1 MARR 
+2 DATE 12 NOV 1977
+2 PLAC Olympia, WA
+1 CHIL @I119@
+1 CHIL @I120@
+0 @F35@ FAM
+1 HUSB @I5@
+1 WIFE @I121@
+1 MARR 
+2 DATE 31 JUL 1984
+2 PLAC Olympia, WA
+1 CHIL @I122@
+1 CHIL @I123@
+0 @F36@ FAM
+1 HUSB @I124@
+1 WIFE @I4@
+1 MARR 
+2 DATE 30 MAY 1981
+2 PLAC Olympia, WA
+1 CHIL @I125@
+1 CHIL @I126@
+0 @F67@ FAM
+1 HUSB @I247@
+1 WIFE @I47@
+1 CHIL @I248@
+1 CHIL @I249@
+1 CHIL @I250@
+1 CHIL @I251@
+0 @F68@ FAM
+1 HUSB @I46@
+1 WIFE @I252@
+1 CHIL @I253@
+1 CHIL @I254@
+1 CHIL @I255@
+0 @F69@ FAM
+1 HUSB @I253@
+1 WIFE @I256@
+0 @F70@ FAM
+1 HUSB @I48@
+1 WIFE @I257@
+1 CHIL @I258@
+1 CHIL @I271@
+0 @F71@ FAM
+1 HUSB @I258@
+1 WIFE @I259@
+0 @F72@ FAM
+1 HUSB @I49@
+1 WIFE @I260@
+1 CHIL @I261@
+1 CHIL @I262@
+1 CHIL @I263@
+0 @F73@ FAM
+1 HUSB @I264@
+1 WIFE @I50@
+1 CHIL @I265@
+0 @F74@ FAM
+1 HUSB @I266@
+1 WIFE @I51@
+1 CHIL @I267@
+1 CHIL @I268@
+1 CHIL @I269@
+1 CHIL @I270@
+0 @F79@ FAM
+1 HUSB @I286@
+1 WIFE @I89@
+1 CHIL @I287@
+1 CHIL @I288@
+1 CHIL @I289@
+0 @F80@ FAM
+1 HUSB @I290@
+1 WIFE @I39@
+1 MARR 
+2 DATE 6 JAN 1967
+1 CHIL @I291@
+1 CHIL @I292@
+1 CHIL @I293@
+1 CHIL @I294@
+0 @F81@ FAM
+1 HUSB @I994@
+1 WIFE @I40@
+1 CHIL @I295@
+1 CHIL @I296@
+0 @F82@ FAM
+1 HUSB @I297@
+1 WIFE @I84@
+1 CHIL @I298@
+0 @F83@ FAM
+1 WIFE @I83@
+1 CHIL @I300@
+1 CHIL @I301@
+1 CHIL @I302@
+0 @F84@ FAM
+1 WIFE @I83@
+1 MARR 
+2 DATE 28 OCT 1988
+0 @F85@ FAM
+1 HUSB @I79@
+1 WIFE @I304@
+1 CHIL @I305@
+1 CHIL @I306@
+1 CHIL @I307@
+0 @F86@ FAM
+1 HUSB @I308@
+1 WIFE @I305@
+1 CHIL @I309@
+1 CHIL @I310@
+0 @F87@ FAM
+1 HUSB @I311@
+1 WIFE @I306@
+1 CHIL @I312@
+1 CHIL @I313@
+0 @F88@ FAM
+1 HUSB @I314@
+1 WIFE @I307@
+1 CHIL @I315@
+1 CHIL @I316@
+0 @F89@ FAM
+1 HUSB @I317@
+1 WIFE @I80@
+0 @F90@ FAM
+1 HUSB @I318@
+1 WIFE @I81@
+1 CHIL @I319@
+1 CHIL @I320@
+1 CHIL @I321@
+0 @F91@ FAM
+1 HUSB @I319@
+1 WIFE @I322@
+1 CHIL @I1760@
+1 CHIL @I1787@
+0 @F92@ FAM
+1 HUSB @I323@
+1 WIFE @I321@
+0 @F93@ FAM
+1 HUSB @I328@
+1 WIFE @I44@
+1 MARR 
+2 DATE 15 AUG 1970
+2 PLAC Grand Rapids, MI
+1 CHIL @I329@
+1 CHIL @I330@
+0 @F95@ FAM
+1 HUSB @I298@
+1 CHIL @I338@
+1 CHIL @I339@
+1 CHIL @I340@
+0 @F96@ FAM
+1 WIFE @I302@
+1 CHIL @I341@
+1 CHIL @I342@
+0 @F97@ FAM
+1 WIFE @I72@
+0 @F98@ FAM
+1 HUSB @I87@
+1 WIFE @I344@
+0 @F99@ FAM
+1 HUSB @I93@
+1 WIFE @I346@
+1 CHIL @I347@
+1 CHIL @I348@
+1 CHIL @I349@
+1 CHIL @I350@
+1 CHIL @I351@
+1 CHIL @I352@
+1 CHIL @I353@
+1 CHIL @I354@
+1 CHIL @I355@
+0 @F100@ FAM
+1 HUSB @I352@
+1 WIFE @I356@
+1 CHIL @I357@
+1 CHIL @I358@
+1 CHIL @I359@
+1 CHIL @I360@
+0 @F101@ FAM
+1 HUSB @I361@
+1 WIFE @I353@
+1 CHIL @I362@
+1 CHIL @I363@
+1 CHIL @I364@
+1 CHIL @I365@
+0 @F102@ FAM
+1 HUSB @I355@
+1 WIFE @I366@
+1 CHIL @I367@
+1 CHIL @I368@
+1 CHIL @I369@
+1 CHIL @I370@
+1 CHIL @I371@
+1 CHIL @I372@
+0 @F103@ FAM
+1 HUSB @I351@
+1 WIFE @I373@
+1 CHIL @I374@
+1 CHIL @I375@
+1 CHIL @I376@
+0 @F104@ FAM
+1 HUSB @I377@
+1 WIFE @I354@
+1 CHIL @I378@
+1 CHIL @I379@
+1 CHIL @I380@
+1 CHIL @I381@
+1 CHIL @I382@
+0 @F105@ FAM
+1 HUSB @I350@
+1 WIFE @I383@
+1 CHIL @I384@
+1 CHIL @I385@
+0 @F106@ FAM
+1 HUSB @I384@
+1 WIFE @I386@
+1 CHIL @I387@
+1 CHIL @I388@
+0 @F107@ FAM
+1 HUSB @I385@
+0 @F108@ FAM
+1 HUSB @I390@
+1 WIFE @I347@
+1 CHIL @I391@
+1 CHIL @I392@
+1 CHIL @I393@
+0 @F109@ FAM
+1 WIFE @I391@
+0 @F110@ FAM
+1 WIFE @I392@
+0 @F111@ FAM
+1 HUSB @I396@
+1 WIFE @I349@
+1 MARR 
+2 DATE 1928
+1 CHIL @I397@
+1 CHIL @I398@
+1 CHIL @I400@
+1 CHIL @I399@
+1 CHIL @I401@
+0 @F112@ FAM
+1 HUSB @I402@
+1 WIFE @I398@
+1 CHIL @I403@
+1 CHIL @I404@
+1 CHIL @I405@
+0 @F113@ FAM
+1 HUSB @I406@
+1 WIFE @I400@
+1 CHIL @I407@
+1 CHIL @I408@
+1 CHIL @I409@
+1 CHIL @I410@
+1 CHIL @I411@
+0 @F114@ FAM
+1 HUSB @I412@
+1 WIFE @I401@
+1 CHIL @I413@
+1 CHIL @I414@
+0 @F115@ FAM
+1 HUSB @I399@
+1 WIFE @I415@
+1 CHIL @I416@
+1 CHIL @I417@
+1 CHIL @I418@
+0 @F139@ FAM
+1 HUSB @I488@
+1 WIFE @I28@
+0 @F307@ FAM
+1 WIFE @I23@
+0 @F431@ FAM
+1 HUSB @I261@
+1 WIFE @I1334@
+1 CHIL @I1335@
+0 @F432@ FAM
+1 HUSB @I249@
+1 WIFE @I1336@
+1 MARR 
+2 DATE 1995
+0 @F598@ FAM
+1 HUSB @I43@
+1 MARR 
+2 DATE SEP 1997
+0 @F599@ FAM
+1 HUSB @I329@
+1 WIFE @I1756@
+1 MARR 
+2 DATE 21 JUN 1997
+0 @N1@ NOTE
+1 NOTE !Released from dutch army Nov 28,1876  traveling money 4 gulden
+2 CONC - fare from Bosch to Kampen  Colonel.  Emmigrated 1881 with
+2 CONC parents to Patterson N.J arrived 11-15-1881  had pernicious
+2 CONC anemia, died of pneumonia
+0 @N2@ NOTE
+1 NOTE !Died of burns when her clothes caught fire while washing
+2 CONC clothes in the basement.
+0 @N3@ NOTE
+1 NOTE !died of appendicitis
+0 @N4@ NOTE
+1 NOTE !died of a heart attack at 90
+0 @N5@ NOTE
+1 NOTE !an accountant - died of lung cancer
+0 @N6@ NOTE
+1 NOTE !has Parkinson's Disease
+0 @N7@ NOTE
+1 NOTE !was adopted, lives in Golden MO
+0 @N8@ NOTE
+1 NOTE !second wife ?
+0 @N9@ NOTE
+1 NOTE !son in gradschool, son at Ferris, daugher in high school
+0 @N10@ NOTE
+1 NOTE !Pres. Calvin College Sem.
+0 @N11@ NOTE
+1 NOTE !teaches art Hull Iowa
+0 @N12@ NOTE
+1 NOTE !they have a daughter in high school, son at Ferris,son at
+2 CONC Syracuse
+0 @N13@ NOTE
+1 NOTE !medical missionary - China 1926, New Mexico
+0 @N14@ NOTE
+1 NOTE Arrived US 11-15-1881   lived briefly in Saginaw. Information
+2 CONC from Obit note and from a letter from Jeannette Doyle. 
+0 @N15@ NOTE
+1 NOTE !worked in a file factory in Elisabeth, NJ
+0 @N16@ NOTE
+1 NOTE !illiterate-an artist-worked in file factory
+0 @N39@ NOTE
+1 NOTE !he was adopted
+0 @N40@ NOTE
+1 NOTE !orthepedic surgeon in NC
+0 @N41@ NOTE
+1 NOTE !died as an infant of burns
+0 @N42@ NOTE
+1 NOTE !has 3 kids
+0 @N43@ NOTE
+1 NOTE !died at 6 mos
+0 @N44@ NOTE
+1 NOTE !died at 5 weeks
+0 @N45@ NOTE
+1 NOTE !twin
+0 @N46@ NOTE
+1 NOTE !twin
+0 @N47@ NOTE
+1 NOTE !father Adm.honored in SF
+0 TRLR 

@@ -1,0 +1,4056 @@
+0 HEAD
+1 SOUR ANCESTRY
+2 NAME Online Family Tree
+2 VERS 1.0
+2 CORP MyFamily.com, Inc.
+3 ADDR 360 W 4800 N
+4 CONT Provo, UT  84604
+4 PHON (801) 705-7000
+1 GEDC
+2 VERS 4.0
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+1 FILE Our Family
+1 DATE 04 Oct 2001
+0 @S1245368@ SOUR
+1 TITL ??
+0 @S22349964@ SOUR
+0 @S22349965@ SOUR
+0 @S22413981@ SOUR
+1 NOTE (reference page 251 no 30)
+1 REPO @R277158@
+0 @R277158@ REPO
+0 @I54795417@ INDI
+1 NAME Marcia Anne /Heyns/
+2 GIVN Marcia Anne
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE Feb 23, 1946
+2 PLAC Grand Rapids, MI
+1 FAMS @F26450528@
+1 FAMC @F26450526@
+0 @I54795418@ INDI
+1 NAME George Emil /Bowers/
+2 GIVN George Emil
+2 SURN Bowers
+1 SEX M
+1 BIRT
+2 DATE Jun 11, 1943
+2 PLAC St. Joseph, MI
+1 FAMS @F26450528@
+1 FAMC @F26450534@
+0 @I54795419@ INDI
+1 NAME Willem Wijnant /Heijns/
+2 GIVN Willem Wijnant
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 19 Mar 1786
+1 DEAT
+2 DATE 18 Feb. 1854
+2 PLAC Ter Aar, Netherlands
+1 FAMS @F26450521@
+1 FAMC @F26557286@
+0 @I54795420@ INDI
+1 NAME Neeltje van /Eijk/
+2 GIVN Neeltje van
+2 SURN Eijk
+1 SEX F
+1 FAMS @F26450521@
+0 @I54795421@ INDI
+1 NAME Jacqueline Joyce /HEYNS/
+2 GIVN Jacqueline Joyce
+2 SURN HEYNS
+1 SEX F
+1 BIRT
+2 DATE 7 Feb 1924
+2 PLAC Hull, Sioux, IA
+1 CHAN
+2 DATE 5 Apr 1999
+1 FAMS @F26450436@
+1 FAMC @F26450439@
+0 @I54795422@ INDI
+1 NAME Ralph Harold /RUDEEN/
+2 GIVN Ralph Harold
+2 SURN RUDEEN
+1 SEX M
+1 BIRT
+2 DATE 24 Sep 1919
+2 PLAC Yakima, Yakima, WA
+1 CHAN
+2 DATE 5 Apr 1999
+1 FAMS @F26450436@
+1 FAMC @F26450520@
+1 NOTE Address:<ADDR> Ralph Harold Rudeen
+0 @I54795423@ INDI
+1 NAME Jeffrey Brooks /Rudeen/
+2 GIVN Jeffrey Brooks
+2 SURN Rudeen
+1 SEX M
+1 BIRT
+2 DATE 17 Jun 1950
+2 PLAC Seattle, King, WA
+1 CHR
+2 PLAC Grand Rapids, Kent, MI
+1 FAMS @F26450467@
+1 FAMC @F26450436@
+0 @I54795424@ INDI
+1 NAME Marcia Dianne /Rudeen/
+2 GIVN Marcia Dianne
+2 SURN Rudeen
+1 SEX F
+1 BIRT
+2 DATE 26 May 1952
+2 PLAC Elma, Grays Harbor, WA
+1 CHR
+2 PLAC Pasadena, Los Angeles, CA
+1 FAMC @F26450436@
+1 FAMS @F26450469@
+0 @I54795425@ INDI
+1 NAME Terry Karl /Rudeen/
+2 GIVN Terry Karl
+2 SURN Rudeen
+1 SEX M
+1 BIRT
+2 DATE 1 Dec 1954
+2 PLAC Elma, Grays Harbor, WA
+1 CHR
+2 PLAC Olympia, Thurston, WA
+1 FAMC @F26450436@
+1 FAMS @F26450468@
+0 @I54795426@ INDI
+1 NAME William Wynand /Heyns/
+2 GIVN William Wynand
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 18 Mar 1856
+2 PLAC Haarlemmermeer, N.Holland, Netherlands
+1 DEAT
+2 DATE 9 Nov 1933
+2 PLAC Grand Rapids, Kent, MI
+1 BURI
+2 PLAC Grand Rapids, Kent, MI
+1 CHAN
+2 DATE 11 Mar 1999
+1 FAMS @F26450437@
+1 FAMC @F26450463@
+1 NOTE !Released from dutch army Nov 28,1876  traveling money 4 gulden- fare from Bosc
+2 CONC h to Kampen  Colonel.  Emmigrated 1881 withparents to Patterson N.J arrived 11-
+2 CONC 15-1881  had perniciousanemia, died of pneumonia
+0 @I54795427@ INDI
+1 NAME Hendrika /Tien/
+2 GIVN Hendrika
+2 SURN Tien
+1 SEX F
+1 BIRT
+2 DATE 31 Oct 1862
+2 PLAC Roseland, St.Joseph, IN
+1 DEAT
+2 DATE 18 Dec 1928
+2 PLAC Grand Rapids, Kent, MI
+1 BURI
+2 PLAC Grand Rapids, MI
+1 CHAN
+2 DATE 11 Mar 1999
+1 FAMS @F26450437@
+1 NOTE !Died of burns when her clothes caught fire while washingclothes in the basemen
+2 CONC t.
+0 @I54795428@ INDI
+1 NAME Jeannette /Heyns/
+2 GIVN Jeannette
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 9 Jun 1887
+2 PLAC Allendale, MI
+1 DEAT
+2 DATE 12 Oct 1967
+2 PLAC Grand Rapids, Kent, MI
+1 FAMC @F26450437@
+1 FAMS @F26450460@
+0 @I54795429@ INDI
+1 NAME Herman /Heyns/
+2 GIVN Herman
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 16 Nov 1889
+2 PLAC Allendale, MI
+1 DEAT
+2 DATE May 1920
+2 PLAC East Paris, MI
+1 FAMC @F26450437@
+1 FAMS @F26450440@
+1 NOTE !died of appendicitis
+0 @I54795430@ INDI
+1 NAME Garrett /HEYNS/
+2 GIVN Garrett
+2 SURN HEYNS
+1 SEX M
+1 BIRT
+2 DATE 21 Sep 1891
+2 PLAC Allendale, MI
+1 DEAT
+2 DATE 3 Nov 1969
+2 PLAC Tacoma, WA
+1 BURI
+2 PLAC Chapel Hill, GR, MI
+1 OCCU Educator and Penologist
+1 EVEN Calvin College, University of Michigan
+2 TYPE Education
+1 RELI Christian Reformed
+1 CHAN
+2 DATE 5 Apr 1999
+1 FAMC @F26450437@
+1 FAMS @F26450439@
+0 @I54795431@ INDI
+1 NAME Olive /Heyns/
+2 GIVN Olive
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 3 Jun 1894
+2 PLAC Harrison, S Dakota
+1 DEAT
+2 DATE 6 Mar 1995
+2 PLAC CA
+1 FAMC @F26450437@
+1 FAMS @F26450462@
+1 NOTE !died of a heart attack at 90
+0 @I54795432@ INDI
+1 NAME Nicholas /Heyns/
+2 GIVN Nicholas
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 20 Nov 1896
+2 PLAC Harrison, S Dakota
+1 DEAT
+2 DATE 6 Jan 1960
+2 PLAC Kenosha, WI
+1 FAMC @F26450437@
+1 FAMS @F26450444@
+1 NOTE !an accountant - died of lung cancer
+0 @I54795433@ INDI
+1 NAME Marie /Heyns/
+2 GIVN Marie
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 19 May 1899
+2 PLAC Prinsburg, MN
+1 FAMC @F26450437@
+1 FAMS @F26450461@
+0 @I54795434@ INDI
+1 NAME Sara (Sally) /Heyns/
+2 GIVN Sara (Sally)
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 13 Nov 1901
+2 PLAC Chicago, IL
+1 DEAT
+2 DATE March 13, 1999
+1 FAMC @F26450437@
+1 FAMS @F26450441@
+1 NOTE Died of Parkinson's Disease
+0 @I54795435@ INDI
+1 NAME Henriette H /Heyns/
+2 GIVN Henriette H
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 27 Oct 1904
+2 PLAC Grand Rapids, MI
+1 DEAT
+2 DATE 30 Aug 1989
+2 PLAC LakeWorth, FL
+1 BURI
+2 PLAC Memory Gardens, FL
+1 FAMC @F26450437@
+1 FAMS @F26450451@
+0 @I54795436@ INDI
+1 NAME Anna /Heyns/
+2 GIVN Anna
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 26 Oct 1907
+2 PLAC Grand Rapids, MI
+1 FAMC @F26450437@
+1 FAMS @F26450446@
+0 @I54795437@ INDI
+1 NAME Roger William /Heyns/
+2 GIVN Roger William
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 27 Jan 1918
+2 PLAC Grand Rapids, Kent, MI
+1 DEAT
+2 DATE 11 Sep 1995
+2 PLAC Volos, Greece
+1 BURI
+2 PLAC Port Sheldon, MI
+1 OCCU Educator,U of Michigan, Berkely, ACE, Dir. Hewlett Foundation
+1 EVEN Calvin College, University of Michigan
+2 TYPE Education
+1 CHAN
+2 DATE 11 Mar 1999
+1 FAMS @F26450438@
+1 FAMC @F26450439@
+0 @I54795438@ INDI
+1 NAME Esther /Gezon/
+2 GIVN Esther
+2 SURN Gezon
+1 SEX F
+1 BIRT
+2 DATE 4 Nov 1918
+2 PLAC Grand Rapids, Kent, MI
+1 EVEN Calvin College
+2 TYPE Education
+1 CHAN
+2 DATE 11 Mar 1999
+1 FAMS @F26450438@
+0 @I54795439@ INDI
+1 NAME Michael Garrett /Heyns/
+2 GIVN Michael Garrett
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 7 Nov 1943
+2 PLAC FL
+1 OCCU Trainmaster Burlington Northern
+1 EVEN Indiana University
+2 TYPE Education
+1 CHAN
+2 DATE 11 Mar 1999
+1 FAMC @F26450438@
+1 FAMS @F26450464@
+0 @I54795440@ INDI
+1 NAME John Roger /Heyns/
+2 GIVN John Roger
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 23 Jul 1948
+2 PLAC Ann Arbor, Washtenaw, MI
+1 FAMC @F26450438@
+1 FAMS @F26450466@
+0 @I54795441@ INDI
+1 NAME Daniel Hiram /Heyns/
+2 GIVN Daniel Hiram
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 24 May 1951
+2 PLAC Ann Arbor, MI
+1 FAMS @F26450465@
+1 FAMC @F26450438@
+0 @I54795442@ INDI
+1 NAME Rosa /Klooster/
+2 GIVN Rosa
+2 SURN Klooster
+1 SEX F
+1 BIRT
+2 DATE 8 Mar 1895
+2 PLAC Muskegon, Muskegon, MI
+1 DEAT
+2 DATE 6 Jun 1983
+2 PLAC Lacey, Thurston, WA
+1 BURI
+2 DATE 13 Jun 1983
+2 PLAC Chapel Hill, GR, MI
+1 FAMS @F26450439@
+0 @I54795443@ INDI
+1 NAME Dena /Joldersma/
+2 GIVN Dena
+2 SURN Joldersma
+1 SEX F
+1 BIRT
+2 DATE 12 Nov 1891
+2 PLAC Muskegon, MI
+1 DEAT
+2 DATE 19 Feb 1984
+2 PLAC Sioux Center, IA
+1 BURI
+2 DATE 23 Feb 1984
+2 PLAC Woodlawn Cem., GR
+1 FAMS @F26450515@
+1 FAMS @F26450440@
+0 @I54795444@ INDI
+1 NAME Joanne /Heyns/
+2 GIVN Joanne
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 1917
+1 FAMC @F26450440@
+1 FAMS @F26450448@
+0 @I54795445@ INDI
+1 NAME Wilma /Heyns/
+2 GIVN Wilma
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 1920
+1 FAMS @F26450447@
+1 FAMC @F26450440@
+0 @I54795446@ INDI
+1 NAME John /Swets/
+2 GIVN John
+2 SURN Swets
+1 SEX M
+1 BIRT
+2 DATE 27 Oct 1902
+2 PLAC South Holland, IL
+1 DEAT
+2 DATE 7 Sep 1976
+2 PLAC LakeWorth, FL
+1 BURI
+2 PLAC Memory Gardens, LakeWorth, FL
+1 FAMS @F26450441@
+0 @I54795447@ INDI
+1 NAME John Arthur /Swets/
+2 GIVN John Arthur
+2 SURN Swets
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 FAMC @F26450441@
+1 FAMS @F26450442@
+1 NOTE John A. Swets is chief scientist (emeritus) after 40 years with BBN Technologie
+2 CONC s in Cambridge MA. He is senior research associate in radiology at the Brigham 
+2 CONC and Women's Hospital and lecturer on health care policy, Harvard Medical School
+2 CONC . Earlier, he was assistant and associate professor of psychology at the Massac
+2 CONC husetts Institute of Technology. He was awarded the Warren Medal of the Society
+2 CONC  of Experimental Psychologists and the Distinguished Scientific Contribution Aw
+2 CONC ard of the American Psychological Association. He is past chair of the Commissi
+2 CONC on on Behavioral and Social Sciences and Education of the National Research Cou
+2 CONC ncil. Swets is a member of the National Academy of Sciences and current chair o
+2 CONC f its Psychology Section. He received a Ph.D. in Psychology from The University
+2 CONC  of Michigan in 1950, based on research with fellow graduate student Wilson P. 
+2 CONC Tanner, Jr. He co-authored with David M. Green in 1966, Signal detection theory
+2 CONC  and psychophysics.
+2 CONT 
+2 CONT http://www.familytrees.net/swets/John_A_Swets.htm
+0 @I54795448@ INDI
+1 NAME Mary Lou /Swets/
+2 GIVN Mary Lou
+2 SURN Swets
+1 SEX F
+1 BIRT
+2 PLAC Holland, MI
+1 FAMC @F26450441@
+1 FAMS @F26450514@
+1 NOTE !was adopted, lives in Golden MO
+0 @I54795449@ INDI
+1 NAME Mickey /UNKNOWN/
+2 GIVN Mickey
+2 SURN UNKNOWN
+1 SEX F
+1 FAMS @F26450442@
+0 @I54795450@ INDI
+1 NAME Steven /Swets/
+2 GIVN Steven
+2 SURN Swets
+1 SEX M
+1 FAMS @F26450443@
+1 FAMC @F26450442@
+0 @I54795451@ INDI
+1 NAME Joel /Swets/
+2 GIVN Joel
+2 SURN Swets
+1 SEX M
+1 FAMC @F26450442@
+0 @I54795452@ INDI
+1 NAME Dianna /UNKNOWN/
+2 GIVN Dianna
+2 SURN UNKNOWN
+1 SEX F
+1 FAMS @F26450443@
+0 @I54795453@ INDI
+1 NAME Michael /Swets/
+2 GIVN Michael
+2 SURN Swets
+1 SEX M
+1 BIRT
+2 DATE Abt 1987
+1 FAMC @F26450443@
+0 @I54795454@ INDI
+1 NAME Caroline /Swets/
+2 GIVN Caroline
+2 SURN Swets
+1 SEX F
+1 BIRT
+2 DATE Abt 1990
+1 FAMC @F26450443@
+0 @I54795455@ INDI
+1 NAME Helene /Berg/
+2 GIVN Helene
+2 SURN Berg
+1 SEX F
+1 BIRT
+2 DATE 1897
+1 DEAT
+2 DATE 1965
+2 PLAC Kenosha, WI
+1 FAMS @F26450444@
+0 @I54795456@ INDI
+1 NAME William /Heyns/
+2 GIVN William
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE Abt 1925
+1 FAMS @F26450445@
+1 FAMC @F26450444@
+0 @I54795457@ INDI
+1 NAME Bonnie /UNKNOWN/
+2 GIVN Bonnie
+2 SURN UNKNOWN
+1 SEX F
+1 BIRT
+2 DATE 1944
+1 FAMS @F26450445@
+1 NOTE !second wife ?
+0 @I54795458@ INDI
+1 NAME John Lester /De_Beer/
+2 GIVN John Lester
+2 SURN De_Beer
+1 SEX M
+1 BIRT
+2 DATE 1 Sep 1910
+1 FAMS @F26450446@
+0 @I54795459@ INDI
+1 NAME Judith /De_Beer/
+2 GIVN Judith
+2 SURN De_Beer
+1 SEX F
+1 BIRT
+2 DATE 28 Apr 1947
+1 FAMC @F26450446@
+1 FAMS @F26450479@
+0 @I54795460@ INDI
+1 NAME Karen /De_Beer/
+2 GIVN Karen
+2 SURN De_Beer
+1 SEX F
+1 BIRT
+2 DATE 2 Sep 1939
+1 FAMC @F26450446@
+1 FAMS @F26450480@
+0 @I54795461@ INDI
+1 NAME John /Brouwer/
+2 GIVN John
+2 SURN Brouwer
+1 SEX M
+1 BIRT
+2 DATE 18 Dec 1915
+2 PLAC Rock Valley, IA
+1 DEAT
+2 DATE 1969
+1 FAMS @F26450447@
+0 @I54795462@ INDI
+1 NAME Joel R /Brouwer/
+2 GIVN Joel R
+2 SURN Brouwer
+1 SEX M
+1 BIRT
+2 DATE 23 Sep 1948
+2 PLAC Oscaloosa, IA
+1 FAMC @F26450447@
+1 FAMS @F26450449@
+1 NOTE !son in gradschool, son at Ferris, daugher in high school
+0 @I54795463@ INDI
+1 NAME Michael /Brouwer/
+2 GIVN Michael
+2 SURN Brouwer
+1 SEX M
+1 BIRT
+2 DATE 21 Jul 1954
+2 PLAC Oscaloosa, IA
+1 FAMC @F26450447@
+1 FAMS @F26450450@
+1 FAMS @F26450518@
+0 @I54795464@ INDI
+1 NAME Rebecca Joanne /Brouwer/
+2 GIVN Rebecca Joanne
+2 SURN Brouwer
+1 SEX F
+1 FAMC @F26450447@
+1 FAMS @F26450492@
+0 @I54795465@ INDI
+1 NAME Peter Y /De_Jong/
+2 GIVN Peter Y
+2 SURN De_Jong
+1 SEX M
+1 FAMS @F26450448@
+0 @I54795466@ INDI
+1 NAME James Allan /De_Jong/
+2 GIVN James Allan
+2 SURN De_Jong
+1 SEX M
+1 FAMS @F26450471@
+1 FAMC @F26450448@
+1 NOTE !Pres. Calvin College Sem.
+0 @I54795467@ INDI
+1 NAME Deanne Elizabeth /De_Jong/
+2 GIVN Deanne Elizabeth
+2 SURN De_Jong
+1 SEX F
+1 FAMC @F26450448@
+1 FAMS @F26450470@
+0 @I54795468@ INDI
+1 NAME Peter Y /De_Jong/
+2 GIVN Peter Y
+2 SURN De_Jong
+1 SEX M
+1 FAMS @F26450473@
+1 FAMC @F26450448@
+0 @I54795469@ INDI
+1 NAME Stephen Herman /De_Jong/
+2 GIVN Stephen Herman
+2 SURN De_Jong
+1 SEX M
+1 FAMS @F26450475@
+1 FAMC @F26450448@
+1 NOTE !teaches art Hull Iowa
+0 @I54795470@ INDI
+1 NAME Corinne Jo /De_Jong/
+2 GIVN Corinne Jo
+2 SURN De_Jong
+1 SEX F
+1 FAMC @F26450448@
+1 FAMS @F26450476@
+0 @I54795471@ INDI
+1 NAME Kristine Wilma /De_Jong/
+2 GIVN Kristine Wilma
+2 SURN De_Jong
+1 SEX F
+1 FAMS @F26450477@
+1 FAMC @F26450448@
+0 @I54795472@ INDI
+1 NAME Rosanne /UNKNOWN/
+2 GIVN Rosanne
+2 SURN UNKNOWN
+1 SEX F
+1 BIRT
+2 DATE 28 Feb 1942
+1 FAMS @F26450449@
+1 NOTE !they have a daughter in high school, son at Ferris,son atSyracuse
+0 @I54795473@ INDI
+1 NAME Henry R /Drukker/
+2 GIVN Henry R
+2 SURN Drukker
+1 SEX M
+1 BIRT
+2 DATE 20 Aug 1906
+1 DEAT
+2 DATE 12 Nov 1981
+2 PLAC Lake Worth, FL
+1 FAMS @F26450451@
+0 @I54795474@ INDI
+1 NAME Marilyn /Drukker/
+2 GIVN Marilyn
+2 SURN Drukker
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 FAMC @F26450451@
+1 FAMS @F26450452@
+0 @I54795475@ INDI
+1 NAME Ruthanne /Drukker/
+2 GIVN Ruthanne
+2 SURN Drukker
+1 SEX F
+1 BIRT
+2 DATE Abt 1934
+1 FAMC @F26450451@
+1 FAMS @F26450456@
+0 @I54795476@ INDI
+1 NAME Dewey /Heetderks/
+2 GIVN Dewey
+2 SURN Heetderks
+1 SEX M
+1 FAMS @F26450452@
+0 @I54795477@ INDI
+1 NAME Lori /Heetderks/
+2 GIVN Lori
+2 SURN Heetderks
+1 SEX F
+1 FAMC @F26450452@
+1 FAMS @F26450453@
+0 @I54795478@ INDI
+1 NAME Julie /Heetderks/
+2 GIVN Julie
+2 SURN Heetderks
+1 SEX F
+1 FAMC @F26450452@
+1 FAMS @F26450454@
+0 @I54795479@ INDI
+1 NAME Tom /Heetderks/
+2 GIVN Tom
+2 SURN Heetderks
+1 SEX M
+1 FAMC @F26450452@
+1 FAMS @F26450455@
+0 @I54795480@ INDI
+1 NAME Rick /De_Jonge/
+2 GIVN Rick
+2 SURN De_Jonge
+1 SEX M
+1 FAMS @F26450453@
+0 @I54795481@ INDI
+1 NAME Mike /De_Jonge/
+2 GIVN Mike
+2 SURN De_Jonge
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 FAMC @F26450453@
+0 @I54795482@ INDI
+1 NAME Nathan /De_Jonge/
+2 GIVN Nathan
+2 SURN De_Jonge
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMC @F26450453@
+0 @I54795483@ INDI
+1 NAME Lauren /De_Jonge/
+2 GIVN Lauren
+2 SURN De_Jonge
+1 SEX F
+1 BIRT
+2 DATE 1989
+1 FAMC @F26450453@
+0 @I54795484@ INDI
+1 NAME Wayne /De_Vos/
+2 GIVN Wayne
+2 SURN De_Vos
+1 SEX M
+1 FAMS @F26450454@
+0 @I54795485@ INDI
+1 NAME Gwen /Schuringa/
+2 GIVN Gwen
+2 SURN Schuringa
+1 SEX F
+1 FAMS @F26450455@
+0 @I54795486@ INDI
+1 NAME David /Heetderks/
+2 GIVN David
+2 SURN Heetderks
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMC @F26450455@
+0 @I54795487@ INDI
+1 NAME Martin /Dykstra/
+2 GIVN Martin
+2 SURN Dykstra
+1 SEX M
+1 FAMS @F26450456@
+0 @I54795488@ INDI
+1 NAME Jaye /Dykstra/
+2 GIVN Jaye
+2 SURN Dykstra
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMS @F26450457@
+1 FAMC @F26450456@
+0 @I54795489@ INDI
+1 NAME Jeffrey /Dykstra/
+2 GIVN Jeffrey
+2 SURN Dykstra
+1 SEX M
+1 BIRT
+2 DATE 1965
+1 FAMC @F26450456@
+1 FAMS @F26450458@
+0 @I54795490@ INDI
+1 NAME Joni /Dykstra/
+2 GIVN Joni
+2 SURN Dykstra
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMC @F26450456@
+1 FAMS @F26450459@
+0 @I54795491@ INDI
+1 NAME Jennifer /Dykstra/
+2 GIVN Jennifer
+2 SURN Dykstra
+1 SEX F
+1 FAMS @F26450495@
+1 FAMC @F26450456@
+0 @I54795492@ INDI
+1 NAME David /Taylor/
+2 GIVN David
+2 SURN Taylor
+1 SEX M
+1 FAMS @F26450457@
+0 @I54795493@ INDI
+1 NAME Jayna /Taylor/
+2 GIVN Jayna
+2 SURN Taylor
+1 SEX F
+1 BIRT
+2 DATE 1989
+1 FAMC @F26450457@
+0 @I54795494@ INDI
+1 NAME Sibolt /Temple/
+2 GIVN Sibolt
+2 SURN Temple
+1 SEX M
+1 FAMS @F26450460@
+0 @I54795495@ INDI
+1 NAME Eben /Mersman/
+2 GIVN Eben
+2 SURN Mersman
+1 SEX M
+1 BIRT
+2 DATE 19 Jul 1896
+2 PLAC Grand Rapids, MI
+1 DEAT
+2 DATE 13 Apr 1968
+2 PLAC Grand Rapids, MI
+1 BURI
+2 PLAC Woodlawn, GR
+1 FAMS @F26450461@
+0 @I54795496@ INDI
+1 NAME Edwin /Mersman/
+2 GIVN Edwin
+2 SURN Mersman
+1 SEX M
+1 BIRT
+2 DATE 1924
+1 FAMC @F26450461@
+1 FAMS @F26450484@
+0 @I54795497@ INDI
+1 NAME Phyllis /Mersman/
+2 GIVN Phyllis
+2 SURN Mersman
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 FAMC @F26450461@
+1 FAMS @F26450488@
+0 @I54795498@ INDI
+1 NAME Barbara /Mersman/
+2 GIVN Barbara
+2 SURN Mersman
+1 SEX F
+1 FAMC @F26450461@
+1 FAMS @F26450489@
+0 @I54795499@ INDI
+1 NAME Richard /Pousma/
+2 GIVN Richard
+2 SURN Pousma
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1882
+1 DEAT
+2 DATE 7 Jan 1979
+1 FAMS @F26450462@
+1 NOTE !medical missionary - China 1926, New Mexico
+0 @I54795500@ INDI
+1 NAME Anne Shirley /Pousma/
+2 GIVN Anne Shirley
+2 SURN Pousma
+1 SEX F
+1 BIRT
+2 DATE 1927
+1 FAMS @F26450482@
+1 FAMS @F26450483@
+1 FAMC @F26450462@
+0 @I54795501@ INDI
+1 NAME Yvonne /Pousma/
+2 GIVN Yvonne
+2 SURN Pousma
+1 SEX F
+1 BIRT
+2 DATE 30 Oct 1925
+1 FAMS @F26450481@
+1 FAMC @F26450462@
+0 @I54795502@ INDI
+1 NAME Gerrit /Heijns/
+2 GIVN Gerrit
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 21 Nov 1824
+2 PLAC TerAa, South Holland, Netherlands
+1 DEAT
+2 DATE 27 Sep 1882
+2 PLAC Patterson, NJ
+1 CHAN
+2 DATE 17 May 1999
+1 FAMS @F26450463@
+1 FAMC @F26450521@
+1 NOTE Arrived US 11-15-1881   lived briefly in Saginaw. Informationfrom Obit note and
+2 CONC from a letter from Jeannette Doyle. 
+0 @I54795503@ INDI
+1 NAME Jannetje (Sarah) /Pos/
+2 GIVN Jannetje (Sarah)
+2 SURN Pos
+1 SEX F
+1 BIRT
+2 DATE 28 Sep 1834
+2 PLAC Loosdrect, Utrecht, Netherlands
+1 DEAT
+2 DATE 10 Oct 1890
+2 PLAC Patterson, NJ
+1 FAMS @F26450463@
+1 FAMC @F26450527@
+0 @I54795504@ INDI
+1 NAME Herbert /Heyns/
+2 GIVN Herbert
+2 SURN Heyns
+1 SEX M
+1 DEAT
+2 DATE 5 Sep 1899
+2 PLAC Elizabeth, New Jersey
+1 FAMC @F26450463@
+1 FAMS @F26450496@
+1 NOTE !worked in a file factory in Elisabeth, NJ
+0 @I54795505@ INDI
+1 NAME Tice /Heyns/
+2 GIVN Tice
+2 SURN Heyns
+1 SEX M
+1 FAMC @F26450463@
+0 @I54795506@ INDI
+1 NAME J Anne /Heyns/
+2 GIVN J Anne
+2 SURN Heyns
+1 SEX F
+1 DEAT
+2 DATE 11 Nov 1899
+1 FAMC @F26450463@
+1 FAMS @F26450478@
+0 @I54795507@ INDI
+1 NAME John /Heyns/
+2 GIVN John
+2 SURN Heyns
+1 SEX M
+1 FAMC @F26450463@
+0 @I54795508@ INDI
+1 NAME Jeannette /Heyns/
+2 GIVN Jeannette
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450463@
+0 @I54795509@ INDI
+1 NAME Nicholas /Heyns/
+2 GIVN Nicholas
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1867
+1 DEAT
+2 DATE 14 Jul 1941
+2 PLAC Grand Rapids, MI
+1 FAMC @F26450463@
+0 @I54795510@ INDI
+1 NAME Matthew /Heyns/
+2 GIVN Matthew
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1869
+1 DEAT
+2 DATE 30 Jul 1946
+2 PLAC Patterson, NJ
+1 FAMC @F26450463@
+1 FAMS @F26450497@
+1 NOTE Illiterate, an artist, worked as file cutter in file factory.
+2 CONT 
+2 CONT Sadie came fro
+2 CONC m Holland in 1880, the same year as Matthew, and settled in Paterson, NJ. In 19
+2 CONC 20 they lived in Newark, NJ (source: US Census report). 
+2 CONT 
+0 @I54795511@ INDI
+1 NAME Kelly /Nguyen/
+2 GIVN Kelly
+2 SURN Nguyen
+1 SEX F
+1 BIRT
+2 PLAC Vietnam
+1 FAMS @F26450464@
+0 @I54795512@ INDI
+1 NAME Angela Kim /Heyns/
+2 GIVN Angela Kim
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 12 Oct 1972
+2 PLAC Spokane, WA
+1 FAMC @F26450464@
+0 @I54795513@ INDI
+1 NAME Garret Michael /Heyns/
+2 GIVN Garret Michael
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 2 Apr 1977
+2 PLAC Minot, ND
+1 EVEN Hope College grad 1999
+2 TYPE Education
+1 CHAN
+2 DATE 11 Mar 1999
+1 FAMC @F26450464@
+0 @I54795514@ INDI
+1 NAME Anne /Davies/
+2 GIVN Anne
+2 SURN Davies
+1 SEX F
+1 BIRT
+2 DATE 30 Sep 1952
+1 FAMS @F26450465@
+0 @I54795515@ INDI
+1 NAME Laura Francis /Heyns/
+2 GIVN Laura Francis
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 27 Mar 1979
+2 PLAC Jackson, MI
+1 FAMC @F26450465@
+0 @I54795516@ INDI
+1 NAME Katherine Anne /Heyns/
+2 GIVN Katherine Anne
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 13 Dec 1982
+2 PLAC Jackson, MI
+1 FAMC @F26450465@
+0 @I54795517@ INDI
+1 NAME John Hiram /Heyns/
+2 GIVN John Hiram
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 10 Feb 1986
+2 PLAC Jackson, MI
+1 FAMC @F26450465@
+0 @I54795518@ INDI
+1 NAME Allison Jean /Heyns/
+2 GIVN Allison Jean
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 11 May 1979
+2 PLAC Holland, MI
+1 FAMC @F26450466@
+0 @I54795519@ INDI
+1 NAME Adam /Heyns/
+2 GIVN Adam
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 29 Dec 1981
+2 PLAC Holland, MI
+1 FAMC @F26450466@
+0 @I54795520@ INDI
+1 NAME Shelley Rae /Kirk/
+2 GIVN Shelley Rae
+2 SURN Kirk
+1 SEX F
+1 BIRT
+2 DATE 19 Feb 1954
+2 PLAC Spokane, WA
+1 FAMS @F26450467@
+0 @I54795521@ INDI
+1 NAME Collin Stewart /Rudeen/
+2 GIVN Collin Stewart
+2 SURN Rudeen
+1 SEX M
+1 BIRT
+2 DATE 3 Apr 1981
+2 PLAC Olympia, WA
+1 FAMC @F26450467@
+0 @I54795522@ INDI
+1 NAME Aleta Kathryn /Rudeen/
+2 GIVN Aleta Kathryn
+2 SURN Rudeen
+1 SEX F
+1 BIRT
+2 DATE 12 May 1983
+2 PLAC Tacoma, WA
+1 FAMC @F26450467@
+0 @I54795523@ INDI
+1 NAME Diane /Stinson/
+2 GIVN Diane
+2 SURN Stinson
+1 SEX F
+1 BIRT
+2 DATE 5 May 1958
+1 FAMS @F26450468@
+0 @I54795524@ INDI
+1 NAME Linnea Rochelle /Rudeen/
+2 GIVN Linnea Rochelle
+2 SURN Rudeen
+1 SEX F
+1 BIRT
+2 DATE 15 May 1989
+2 PLAC Olympia, WA
+1 FAMC @F26450468@
+0 @I54795525@ INDI
+1 NAME Karl Cameron /Rudeen/
+2 GIVN Karl Cameron
+2 SURN Rudeen
+1 SEX M
+1 BIRT
+2 DATE 16 Jun 1991
+2 PLAC Olympia, WA
+1 FAMC @F26450468@
+0 @I54795526@ INDI
+1 NAME Edward Mitchell /Trujillo/
+2 GIVN Edward Mitchell
+2 SURN Trujillo
+1 SEX M
+1 BIRT
+2 DATE 28 Sep 1950
+2 PLAC Denver, CO
+1 FAMS @F26450469@
+0 @I54795527@ INDI
+1 NAME Emily Levinia /Trujillo/
+2 GIVN Emily Levinia
+2 SURN Trujillo
+1 SEX F
+1 BIRT
+2 DATE 26 Mar 1984
+2 PLAC Olympia, WA
+1 FAMC @F26450469@
+0 @I54795528@ INDI
+1 NAME Rosa Alicia /Trujillo/
+2 GIVN Rosa Alicia
+2 SURN Trujillo
+1 SEX F
+1 BIRT
+2 DATE 15 Aug 1986
+2 PLAC Olympia, WA
+1 FAMC @F26450469@
+0 @I54795529@ INDI
+1 NAME E Robert /Tigchelaar/
+2 GIVN E Robert
+2 SURN Tigchelaar
+1 SEX M
+1 FAMS @F26450470@
+0 @I54795530@ INDI
+1 NAME Alisa Joanne /Tigchelaar/
+2 GIVN Alisa Joanne
+2 SURN Tigchelaar
+1 SEX F
+1 FAMC @F26450470@
+0 @I54795531@ INDI
+1 NAME Ian Scott /Tigchelaar/
+2 GIVN Ian Scott
+2 SURN Tigchelaar
+1 SEX M
+1 FAMS @F26450517@
+1 FAMC @F26450470@
+0 @I54795532@ INDI
+1 NAME Andrea Leigh /Tigchelaar/
+2 GIVN Andrea Leigh
+2 SURN Tigchelaar
+1 SEX F
+1 FAMC @F26450470@
+0 @I54795533@ INDI
+1 NAME Sarah Megan /Tigchelaar/
+2 GIVN Sarah Megan
+2 SURN Tigchelaar
+1 SEX F
+1 FAMC @F26450470@
+0 @I54795534@ INDI
+1 NAME Lois /De_Kock/
+2 GIVN Lois
+2 SURN De_Kock
+1 SEX F
+1 FAMS @F26450471@
+0 @I54795535@ INDI
+1 NAME Kurtis James /De_Jong/
+2 GIVN Kurtis James
+2 SURN De_Jong
+1 SEX M
+1 FAMC @F26450471@
+1 FAMS @F26450472@
+0 @I54795536@ INDI
+1 NAME Kristin Joann /De_Jong/
+2 GIVN Kristin Joann
+2 SURN De_Jong
+1 SEX F
+1 FAMC @F26450471@
+0 @I54795537@ INDI
+1 NAME Kyle Peter /De_Jong/
+2 GIVN Kyle Peter
+2 SURN De_Jong
+1 SEX M
+1 FAMC @F26450471@
+0 @I54795538@ INDI
+1 NAME Julie /Schurrman/
+2 GIVN Julie
+2 SURN Schurrman
+1 SEX F
+1 FAMS @F26450472@
+0 @I54795539@ INDI
+1 NAME Charlotte /Bergsma/
+2 GIVN Charlotte
+2 SURN Bergsma
+1 SEX F
+1 FAMS @F26450473@
+0 @I54795540@ INDI
+1 NAME Christopher James /De_Jong/
+2 GIVN Christopher James
+2 SURN De_Jong
+1 SEX M
+1 FAMC @F26450473@
+1 FAMS @F26450474@
+0 @I54795541@ INDI
+1 NAME Sonja /Wagenaar/
+2 GIVN Sonja
+2 SURN Wagenaar
+1 SEX F
+1 FAMS @F26450474@
+0 @I54795542@ INDI
+1 NAME Ivey /Oosterhuis/
+2 GIVN Ivey
+2 SURN Oosterhuis
+1 SEX F
+1 FAMS @F26450475@
+0 @I54795543@ INDI
+1 NAME Jeremy Stephen /De_Jong/
+2 GIVN Jeremy Stephen
+2 SURN De_Jong
+1 SEX M
+1 FAMC @F26450475@
+1 FAMS @F26450516@
+0 @I54795544@ INDI
+1 NAME Mary Joanne /De_Jong/
+2 GIVN Mary Joanne
+2 SURN De_Jong
+1 SEX F
+1 FAMC @F26450475@
+0 @I54795545@ INDI
+1 NAME James David /De_Jong/
+2 GIVN James David
+2 SURN De_Jong
+1 SEX M
+1 FAMC @F26450475@
+0 @I54795546@ INDI
+1 NAME Gene /Huisman/
+2 GIVN Gene
+2 SURN Huisman
+1 SEX M
+1 FAMS @F26450476@
+0 @I54795547@ INDI
+1 NAME Jessica Joanne /Huisman/
+2 GIVN Jessica Joanne
+2 SURN Huisman
+1 SEX F
+1 FAMC @F26450476@
+0 @I54795548@ INDI
+1 NAME Dale Michael /Zylstra/
+2 GIVN Dale Michael
+2 SURN Zylstra
+1 SEX M
+1 FAMS @F26450477@
+0 @I54795549@ INDI
+1 NAME Joshua Michael /Zylstra/
+2 GIVN Joshua Michael
+2 SURN Zylstra
+1 SEX M
+1 FAMC @F26450477@
+0 @I54795550@ INDI
+1 NAME Margaret Ann /Zylstra/
+2 GIVN Margaret Ann
+2 SURN Zylstra
+1 SEX F
+1 FAMC @F26450477@
+0 @I54795551@ INDI
+1 NAME Katherine Lee /Zylstra/
+2 GIVN Katherine Lee
+2 SURN Zylstra
+1 SEX F
+1 FAMC @F26450477@
+0 @I54795552@ INDI
+1 NAME Lauren /Zylstra/
+2 GIVN Lauren
+2 SURN Zylstra
+1 SEX U
+1 FAMC @F26450477@
+0 @I54795553@ INDI
+1 NAME Paul Richard /De_Jong/
+2 GIVN Paul Richard
+2 SURN De_Jong
+1 SEX M
+1 FAMC @F26450473@
+0 @I54795554@ INDI
+1 NAME John /Husselmann/
+2 GIVN John
+2 SURN Husselmann
+1 SEX M
+1 FAMS @F26450478@
+0 @I54795555@ INDI
+1 NAME John /Husselman/
+2 GIVN John
+2 SURN Husselman
+1 SEX M
+1 FAMC @F26450478@
+0 @I54795556@ INDI
+1 NAME Herbert /Husselman/
+2 GIVN Herbert
+2 SURN Husselman
+1 SEX M
+1 FAMC @F26450478@
+0 @I54795557@ INDI
+1 NAME Jeannette /Husselman/
+2 GIVN Jeannette
+2 SURN Husselman
+1 SEX F
+1 FAMC @F26450478@
+0 @I54795558@ INDI
+1 NAME Harlow /Kuiper/
+2 GIVN Harlow
+2 SURN Kuiper
+1 SEX M
+1 BIRT
+2 DATE 6 Jan 1945
+1 FAMS @F26450479@
+0 @I54795559@ INDI
+1 NAME Robin /Kuiper/
+2 GIVN Robin
+2 SURN Kuiper
+1 SEX F
+1 BIRT
+2 DATE 26 Mar 1968
+1 FAMC @F26450479@
+0 @I54795560@ INDI
+1 NAME Kelley /Kuiper/
+2 GIVN Kelley
+2 SURN Kuiper
+1 SEX F
+1 BIRT
+2 DATE 5 May 1971
+1 FAMC @F26450479@
+0 @I54795561@ INDI
+1 NAME Pamela /Kuiper/
+2 GIVN Pamela
+2 SURN Kuiper
+1 SEX F
+1 BIRT
+2 DATE 20 Jan 1976
+1 FAMC @F26450479@
+0 @I54795562@ INDI
+1 NAME Matthew /Kuiper/
+2 GIVN Matthew
+2 SURN Kuiper
+1 SEX M
+1 BIRT
+2 DATE 18 Feb 1984
+1 FAMC @F26450479@
+0 @I54795563@ INDI
+1 NAME Lisa Anne /DeMol/
+2 GIVN Lisa Anne
+2 SURN DeMol
+1 SEX F
+1 BIRT
+2 DATE 29 Oct 1966
+1 FAMC @F26450480@
+0 @I54795564@ INDI
+1 NAME Jon /DeMol/
+2 GIVN Jon
+2 SURN DeMol
+1 SEX M
+1 BIRT
+2 DATE 12 Feb 1970
+1 FAMC @F26450480@
+1 NOTE !he was adopted
+0 @I54795565@ INDI
+1 NAME William /Hornbeck/
+2 GIVN William
+2 SURN Hornbeck
+1 SEX M
+1 FAMS @F26450481@
+0 @I54795566@ INDI
+1 NAME William /Hornbeck/
+2 GIVN William
+2 SURN Hornbeck
+1 SEX M
+1 FAMC @F26450481@
+1 FAMS @F26450493@
+0 @I54795567@ INDI
+1 NAME Dick /Dykema/
+2 GIVN Dick
+2 SURN Dykema
+1 SEX M
+1 FAMC @F26450482@
+0 @I54795568@ INDI
+1 NAME Dean /Dykema/
+2 GIVN Dean
+2 SURN Dykema
+1 SEX M
+1 FAMC @F26450482@
+0 @I54795569@ INDI
+1 NAME Dawn /Dykema/
+2 GIVN Dawn
+2 SURN Dykema
+1 SEX F
+1 FAMC @F26450482@
+1 FAMS @F26450494@
+0 @I54795570@ INDI
+1 NAME Bea /Kok/
+2 GIVN Bea
+2 SURN Kok
+1 SEX F
+1 BIRT
+2 DATE 1928
+1 DEAT
+2 DATE 18 Oct 1992
+2 PLAC Grand Rapids, MI
+1 FAMS @F26450484@
+0 @I54795571@ INDI
+1 NAME Mari /Mersman/
+2 GIVN Mari
+2 SURN Mersman
+1 SEX F
+1 FAMC @F26450484@
+1 FAMS @F26450485@
+0 @I54795572@ INDI
+1 NAME Carolyn /Mersman/
+2 GIVN Carolyn
+2 SURN Mersman
+1 SEX F
+1 FAMC @F26450484@
+1 FAMS @F26450486@
+0 @I54795573@ INDI
+1 NAME Ruth Ann /Mersman/
+2 GIVN Ruth Ann
+2 SURN Mersman
+1 SEX F
+1 FAMC @F26450484@
+1 FAMS @F26450487@
+0 @I54795574@ INDI
+1 NAME Tim /Donohoe/
+2 GIVN Tim
+2 SURN Donohoe
+1 SEX M
+1 FAMS @F26450485@
+0 @I54795575@ INDI
+1 NAME Erin /Donohoe/
+2 GIVN Erin
+2 SURN Donohoe
+1 SEX M
+1 FAMC @F26450485@
+0 @I54795576@ INDI
+1 NAME Emily /Donohoe/
+2 GIVN Emily
+2 SURN Donohoe
+1 SEX F
+1 FAMC @F26450485@
+0 @I54795577@ INDI
+1 NAME Marc /Blass/
+2 GIVN Marc
+2 SURN Blass
+1 SEX M
+1 FAMS @F26450486@
+0 @I54795578@ INDI
+1 NAME Janice /Blass/
+2 GIVN Janice
+2 SURN Blass
+1 SEX F
+1 FAMC @F26450486@
+0 @I54795579@ INDI
+1 NAME Jonathan /Blass/
+2 GIVN Jonathan
+2 SURN Blass
+1 SEX M
+1 FAMC @F26450486@
+0 @I54795580@ INDI
+1 NAME Alan /Versaw/
+2 GIVN Alan
+2 SURN Versaw
+1 SEX M
+1 FAMS @F26450487@
+0 @I54795581@ INDI
+1 NAME Robert /Versaw/
+2 GIVN Robert
+2 SURN Versaw
+1 SEX M
+1 BIRT
+2 DATE 1989
+1 FAMC @F26450487@
+0 @I54795582@ INDI
+1 NAME Eric /Versaw/
+2 GIVN Eric
+2 SURN Versaw
+1 SEX M
+1 BIRT
+2 DATE 1992
+1 FAMC @F26450487@
+0 @I54795583@ INDI
+1 NAME Peter /Troast/
+2 GIVN Peter
+2 SURN Troast
+1 SEX M
+1 FAMS @F26450488@
+0 @I54795584@ INDI
+1 NAME Dale /Brouwer/
+2 GIVN Dale
+2 SURN Brouwer
+1 SEX M
+1 FAMS @F26450489@
+0 @I54795585@ INDI
+1 NAME David /Brouwer/
+2 GIVN David
+2 SURN Brouwer
+1 SEX M
+1 FAMC @F26450489@
+1 FAMS @F26450490@
+0 @I54795586@ INDI
+1 NAME Bob /Brouwer/
+2 GIVN Bob
+2 SURN Brouwer
+1 SEX M
+1 FAMC @F26450489@
+0 @I54795587@ INDI
+1 NAME Beth /Brouwer/
+2 GIVN Beth
+2 SURN Brouwer
+1 SEX F
+1 FAMS @F26450491@
+1 FAMC @F26450489@
+0 @I54795588@ INDI
+1 NAME Krys /UNKNOWN/
+2 GIVN Krys
+2 SURN UNKNOWN
+1 SEX F
+1 FAMS @F26450490@
+0 @I54795589@ INDI
+1 NAME Lyle /Brouwer/
+2 GIVN Lyle
+2 SURN Brouwer
+1 SEX M
+1 FAMS @F26450491@
+0 @I54795590@ INDI
+1 NAME Joel /Brouwer/
+2 GIVN Joel
+2 SURN Brouwer
+1 SEX M
+1 BIRT
+2 DATE 22 Jun 1969
+2 PLAC Grand Rapids, MI
+1 FAMC @F26450449@
+0 @I54795591@ INDI
+1 NAME David /Brouwer/
+2 GIVN David
+2 SURN Brouwer
+1 SEX M
+1 BIRT
+2 DATE 7 Jul 1974
+2 PLAC Chicago, IL
+1 FAMC @F26450449@
+0 @I54795592@ INDI
+1 NAME Sharon /Brouwer/
+2 GIVN Sharon
+2 SURN Brouwer
+1 SEX F
+1 BIRT
+2 DATE 19 Feb 1977
+1 FAMC @F26450449@
+0 @I54795593@ INDI
+1 NAME Gerald C /Vanden_Bosch/
+2 GIVN Gerald C
+2 SURN Vanden_Bosch
+1 SEX M
+1 FAMS @F26450492@
+1 NOTE !orthepedic surgeon in NC
+0 @I54795594@ INDI
+1 NAME Jonathan Michael /Vanden_Bosch/
+2 GIVN Jonathan Michael
+2 SURN Vanden_Bosch
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1974
+1 FAMC @F26450492@
+1 FAMS @F26450519@
+0 @I54795595@ INDI
+1 NAME Jacob Gerald /Vanden_Bosch/
+2 GIVN Jacob Gerald
+2 SURN Vanden_Bosch
+1 SEX M
+1 BIRT
+2 DATE 26 Jan 1977
+1 FAMC @F26450492@
+0 @I54795596@ INDI
+1 NAME Sarah Jo /Brouwer/
+2 GIVN Sarah Jo
+2 SURN Brouwer
+1 SEX F
+1 BIRT
+2 DATE 1 Aug 1981
+1 FAMC @F26450450@
+0 @I54795597@ INDI
+1 NAME Rachel Jean /Brouwer/
+2 GIVN Rachel Jean
+2 SURN Brouwer
+1 SEX F
+1 BIRT
+2 DATE 25 Apr 1986
+1 FAMC @F26450450@
+0 @I54795598@ INDI
+1 NAME Richard /Hornbeck/
+2 GIVN Richard
+2 SURN Hornbeck
+1 SEX M
+1 FAMC @F26450493@
+0 @I54795599@ INDI
+1 NAME John /Hornbeck/
+2 GIVN John
+2 SURN Hornbeck
+1 SEX M
+1 FAMC @F26450493@
+0 @I54795600@ INDI
+1 NAME Joshua /Hornbeck/
+2 GIVN Joshua
+2 SURN Hornbeck
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMC @F26450493@
+0 @I54795601@ INDI
+1 NAME Danielle /UNKNOWN/
+2 GIVN Danielle
+2 SURN UNKNOWN
+1 SEX F
+1 BIRT
+2 DATE 8 Aug 1988
+1 FAMC @F26450494@
+0 @I54795602@ INDI
+1 NAME Deanne /UNKNOWN/
+2 GIVN Deanne
+2 SURN UNKNOWN
+1 SEX F
+1 BIRT
+2 DATE 18 Jul 1991
+1 FAMC @F26450494@
+0 @I54795603@ INDI
+1 NAME Nettie /UNKNOWN/
+2 GIVN Nettie
+2 SURN UNKNOWN
+1 SEX F
+1 FAMS @F26450496@
+0 @I54795604@ INDI
+1 NAME Sadie /Krapp/
+2 GIVN Sadie
+2 SURN Krapp
+1 SEX F
+1 BIRT
+2 DATE 1878
+1 DEAT
+2 DATE 1968
+1 FAMS @F26450497@
+1 NOTE Lived in Elizabeth, NJ.
+0 @I54795605@ INDI
+1 NAME Doretta /Heyns/
+2 GIVN Doretta
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 1901
+1 DEAT
+2 DATE 1976
+1 FAMC @F26450497@
+1 FAMS @F26450506@
+0 @I54795606@ INDI
+1 NAME Jeanette /Heyns/
+2 GIVN Jeanette
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450497@
+1 NOTE !died as an infant of burns
+0 @I54795607@ INDI
+1 NAME Jeanette /Heyns/
+2 GIVN Jeanette
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 1906
+1 DEAT
+2 DATE 1996
+1 FAMC @F26450497@
+1 FAMS @F26450509@
+1 NOTE Lived in Roselle, NJ.
+0 @I54795608@ INDI
+1 NAME Garret /Heyns/
+2 GIVN Garret
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1908
+1 DEAT
+2 DATE 1958
+1 FAMC @F26450497@
+1 FAMS @F26450503@
+1 NOTE Lived in Elizabeth, NJ.  Worked for Singer Sewing Machine Co.
+2 CONT 
+2 CONT Birth year may
+2 CONC  be 1907.
+0 @I54795609@ INDI
+1 NAME Clarence /Heyns/
+2 GIVN Clarence
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 1981
+1 FAMC @F26450497@
+1 FAMS @F26450501@
+1 NOTE Lived in Roselle, NJ.  Worked for Singer Sewing Machine Co.
+0 @I54795610@ INDI
+1 NAME Herbert /Heyns/
+2 GIVN Herbert
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1914
+1 FAMC @F26450497@
+1 FAMS @F26450498@
+1 NOTE Union, NJ.  Production worker Singer Sewing Machine Elizabeth, NJ.
+0 @I54795611@ INDI
+1 NAME Margaret /Heyns/
+2 GIVN Margaret
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 1912
+1 DEAT
+2 DATE 1989
+1 FAMC @F26450497@
+1 FAMS @F26450499@
+1 NOTE Las Vegas, NV
+0 @I54795612@ INDI
+1 NAME Clara /Heyns/
+2 GIVN Clara
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 1918
+1 FAMC @F26450497@
+1 FAMS @F26450502@
+1 NOTE Nursing Home Edison NJ.
+0 @I54795613@ INDI
+1 NAME William John /Heyns/
+2 GIVN William John
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1922
+1 FAMC @F26450497@
+1 FAMS @F26450500@
+1 NOTE Cape Coral, FL.  Retired tool maker Singer Sewing Machine.  Doris Heyns writes,
+2 CONC  "Bill was in the Battle of the Bulge in 1944, and saw some of the devastation 
+2 CONC that occured.  We over here find it very hard to realize what it means to be oc
+2 CONC cupied by an enemy."
+0 @I54795614@ INDI
+1 NAME Florence Clara /Disner/
+2 GIVN Florence Clara
+2 SURN Disner
+1 SEX F
+1 BIRT
+2 DATE 1927
+1 FAMS @F26450498@
+0 @I54795615@ INDI
+1 NAME Thomas /Heyns/
+2 GIVN Thomas
+2 SURN Heyns
+1 SEX M
+1 FAMC @F26450498@
+0 @I54795616@ INDI
+1 NAME Joyce /Heyns/
+2 GIVN Joyce
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450498@
+0 @I54795617@ INDI
+1 NAME Lois /Heyns/
+2 GIVN Lois
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450498@
+0 @I54795618@ INDI
+1 NAME Judith /Heyns/
+2 GIVN Judith
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450498@
+0 @I54795619@ INDI
+1 NAME Richard /Sweeney/
+2 GIVN Richard
+2 SURN Sweeney
+1 SEX M
+1 BIRT
+2 DATE 1911
+1 DEAT
+2 DATE 1984
+1 FAMS @F26450499@
+1 NOTE Las Vegas, NV.  Cement truck driver.  May be spelled Sweeny.
+0 @I54795620@ INDI
+1 NAME Kenneth /Sweeny/
+2 GIVN Kenneth
+2 SURN Sweeny
+1 SEX M
+1 FAMC @F26450499@
+0 @I54795621@ INDI
+1 NAME Robert /Sweeny/
+2 GIVN Robert
+2 SURN Sweeny
+1 SEX M
+1 FAMC @F26450499@
+1 NOTE !has 3 kids
+0 @I54795622@ INDI
+1 NAME Francis /Sweeny/
+2 GIVN Francis
+2 SURN Sweeny
+1 SEX F
+1 FAMC @F26450499@
+0 @I54795623@ INDI
+1 NAME Diane /Sweeny/
+2 GIVN Diane
+2 SURN Sweeny
+1 SEX F
+1 FAMC @F26450499@
+0 @I54795624@ INDI
+1 NAME Doris Joan /Hoare/
+2 GIVN Doris Joan
+2 SURN Hoare
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 FAMS @F26450500@
+0 @I54795625@ INDI
+1 NAME Douglas /Heyns/
+2 GIVN Douglas
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 FAMC @F26450500@
+0 @I54795626@ INDI
+1 NAME John /Heyns/
+2 GIVN John
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1952
+1 FAMC @F26450500@
+0 @I54795627@ INDI
+1 NAME Carol /Heyns/
+2 GIVN Carol
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE 1956
+1 FAMC @F26450500@
+0 @I54795628@ INDI
+1 NAME David /Heyns/
+2 GIVN David
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMC @F26450500@
+0 @I54795629@ INDI
+1 NAME Matthew /Heyns/
+2 GIVN Matthew
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 FAMC @F26450500@
+0 @I54795630@ INDI
+1 NAME Gary /Heyns/
+2 GIVN Gary
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE 1963
+1 FAMC @F26450500@
+0 @I54795631@ INDI
+1 NAME Irene /Hrehus/
+2 GIVN Irene
+2 SURN Hrehus
+1 SEX F
+1 FAMS @F26450501@
+1 NOTE Holiday, FL.
+2 CONT 
+2 CONT May be spelled Huhues.
+0 @I54795632@ INDI
+1 NAME Robert /Heyns/
+2 GIVN Robert
+2 SURN Heyns
+1 SEX M
+1 FAMC @F26450501@
+0 @I54795633@ INDI
+1 NAME Elizabeth /Heyns/
+2 GIVN Elizabeth
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450501@
+0 @I54795634@ INDI
+1 NAME Irene /Heyns/
+2 GIVN Irene
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450501@
+0 @I54795635@ INDI
+1 NAME Thasseus /Mierzejwski/
+2 GIVN Thasseus
+2 SURN Mierzejwski
+1 SEX M
+1 BIRT
+2 DATE 1915
+1 DEAT
+2 DATE 1996
+1 FAMS @F26450502@
+1 NOTE Spelled "Theodore Majeckie" in Rudeen-Heyns Tree.
+0 @I54795636@ INDI
+1 NAME Theodore /Majeckie/
+2 GIVN Theodore
+2 SURN Majeckie
+1 SEX M
+1 FAMC @F26450502@
+0 @I54795637@ INDI
+1 NAME Margaret /Majeckie/
+2 GIVN Margaret
+2 SURN Majeckie
+1 SEX F
+1 FAMC @F26450502@
+0 @I54795638@ INDI
+1 NAME Carol /Majeckie/
+2 GIVN Carol
+2 SURN Majeckie
+1 SEX F
+1 FAMC @F26450502@
+0 @I54795639@ INDI
+1 NAME David /Majeckie/
+2 GIVN David
+2 SURN Majeckie
+1 SEX M
+1 FAMC @F26450502@
+0 @I54795640@ INDI
+1 NAME Robert /Majeckie/
+2 GIVN Robert
+2 SURN Majeckie
+1 SEX M
+1 FAMC @F26450502@
+0 @I54795641@ INDI
+1 NAME Alice /Perry/
+2 GIVN Alice
+2 SURN Perry
+1 SEX F
+1 BIRT
+2 DATE 1913
+1 FAMS @F26450503@
+0 @I54795642@ INDI
+1 NAME Garret /Heyns/
+2 GIVN Garret
+2 SURN Heyns
+1 SEX M
+1 FAMC @F26450503@
+1 FAMS @F26450504@
+0 @I54795643@ INDI
+1 NAME Gerald /Heyns/
+2 GIVN Gerald
+2 SURN Heyns
+1 SEX M
+1 FAMC @F26450503@
+1 FAMS @F26450505@
+0 @I54795644@ INDI
+1 NAME Lorraine /UNKNOWN/
+2 GIVN Lorraine
+2 SURN UNKNOWN
+1 SEX F
+1 FAMS @F26450504@
+0 @I54795645@ INDI
+1 NAME Bruce /Heyns/
+2 GIVN Bruce
+2 SURN Heyns
+1 SEX M
+1 FAMC @F26450504@
+0 @I54795646@ INDI
+1 NAME Kathy Lynn /Heyns/
+2 GIVN Kathy Lynn
+2 SURN Heyns
+1 SEX F
+1 FAMC @F26450504@
+0 @I54795647@ INDI
+1 NAME Laurence /Rogers/
+2 GIVN Laurence
+2 SURN Rogers
+1 SEX M
+1 BIRT
+2 DATE 1898
+1 DEAT
+2 DATE 1956
+1 FAMS @F26450506@
+1 NOTE Lithia, FL
+0 @I54795648@ INDI
+1 NAME Sadie Doretta /Rogers/
+2 GIVN Sadie Doretta
+2 SURN Rogers
+1 SEX F
+1 BIRT
+2 DATE 1921
+1 FAMS @F26450507@
+1 FAMC @F26450506@
+1 NOTE Lithia, FL
+0 @I54795649@ INDI
+1 NAME Margaret /Rogers/
+2 GIVN Margaret
+2 SURN Rogers
+1 SEX F
+1 BIRT
+2 DATE 1922
+1 FAMC @F26450506@
+1 FAMS @F26450508@
+0 @I54795650@ INDI
+1 NAME Martin /Rogers/
+2 GIVN Martin
+2 SURN Rogers
+1 SEX M
+1 FAMC @F26450506@
+1 NOTE !died at 6 mos
+0 @I54795651@ INDI
+1 NAME Charles /Doyle/
+2 GIVN Charles
+2 SURN Doyle
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 DEAT
+2 DATE 1953
+1 FAMS @F26450509@
+1 NOTE Foreman - Singer Sewing Machine Co.
+0 @I54795652@ INDI
+1 NAME Madalyn /Doyle/
+2 GIVN Madalyn
+2 SURN Doyle
+1 SEX F
+1 FAMC @F26450509@
+1 NOTE !died at 5 weeks
+0 @I54795653@ INDI
+1 NAME Janet /Doyle/
+2 GIVN Janet
+2 SURN Doyle
+1 SEX F
+1 FAMC @F26450509@
+1 FAMS @F26450510@
+0 @I54795654@ INDI
+1 NAME Charles Major,MCAF /Doyle/
+2 GIVN Charles Major,MCAF
+2 SURN Doyle
+1 SEX M
+1 FAMS @F26450513@
+1 FAMC @F26450509@
+0 @I54795655@ INDI
+1 NAME Virginia /Doyle/
+2 GIVN Virginia
+2 SURN Doyle
+1 SEX F
+1 FAMS @F26450511@
+1 FAMC @F26450509@
+0 @I54795656@ INDI
+1 NAME Bernice /Doyle/
+2 GIVN Bernice
+2 SURN Doyle
+1 SEX F
+1 FAMC @F26450509@
+1 FAMS @F26450512@
+0 @I54795657@ INDI
+1 NAME Harold Capt,USMC /Ritter/
+2 GIVN Harold Capt,USMC
+2 SURN Ritter
+1 SEX M
+1 FAMS @F26450510@
+0 @I54795658@ INDI
+1 NAME Lynette /Ritter/
+2 GIVN Lynette
+2 SURN Ritter
+1 SEX F
+1 BIRT
+2 DATE Abt 1950
+1 FAMC @F26450510@
+0 @I54795659@ INDI
+1 NAME Debra /Ritter/
+2 GIVN Debra
+2 SURN Ritter
+1 SEX F
+1 BIRT
+2 DATE Abt 1952
+1 FAMC @F26450510@
+0 @I54795660@ INDI
+1 NAME William John /Ritter/
+2 GIVN William John
+2 SURN Ritter
+1 SEX M
+1 BIRT
+2 DATE Abt 1954
+1 FAMC @F26450510@
+0 @I54795661@ INDI
+1 NAME Robert K /Stamets/
+2 GIVN Robert K
+2 SURN Stamets
+1 SEX M
+1 FAMS @F26450511@
+0 @I54795662@ INDI
+1 NAME Kathy Lynn /Stamets/
+2 GIVN Kathy Lynn
+2 SURN Stamets
+1 SEX F
+1 BIRT
+2 DATE Abt 1953
+1 FAMC @F26450511@
+0 @I54795663@ INDI
+1 NAME Lori /Stamets/
+2 GIVN Lori
+2 SURN Stamets
+1 SEX F
+1 BIRT
+2 DATE Abt 1955
+1 FAMC @F26450511@
+0 @I54795664@ INDI
+1 NAME Cheryl /Stamets/
+2 GIVN Cheryl
+2 SURN Stamets
+1 SEX F
+1 BIRT
+2 DATE Abt 1957
+1 FAMC @F26450511@
+0 @I54795665@ INDI
+1 NAME Kenneth /Stamets/
+2 GIVN Kenneth
+2 SURN Stamets
+1 SEX M
+1 BIRT
+2 DATE Abt 1967
+1 FAMC @F26450511@
+1 NOTE !twin
+0 @I54795666@ INDI
+1 NAME Keith /Stamets/
+2 GIVN Keith
+2 SURN Stamets
+1 SEX M
+1 BIRT
+2 DATE Abt 1967
+1 FAMC @F26450511@
+1 NOTE !twin
+0 @I54795667@ INDI
+1 NAME Bruce Lt.Comm,NASSA /McCandless/
+2 GIVN Bruce Lt.Comm,NASSA
+2 SURN McCandless
+1 SEX M
+1 FAMS @F26450512@
+1 NOTE !father Adm.honored in SF
+0 @I54795668@ INDI
+1 NAME Bruce III /McCandless/
+2 GIVN Bruce III
+2 SURN McCandless
+1 SEX M
+1 BIRT
+2 DATE 1961
+1 FAMC @F26450512@
+0 @I54795669@ INDI
+1 NAME Tracy /McCandless/
+2 GIVN Tracy
+2 SURN McCandless
+1 SEX F
+1 BIRT
+2 DATE 1963
+1 FAMC @F26450512@
+0 @I54795670@ INDI
+1 NAME Meridith /McDaniels/
+2 GIVN Meridith
+2 SURN McDaniels
+1 SEX F
+1 FAMS @F26450513@
+0 @I54795671@ INDI
+1 NAME David /Doyle/
+2 GIVN David
+2 SURN Doyle
+1 SEX M
+1 BIRT
+2 DATE Abt 1957
+1 FAMC @F26450513@
+0 @I54795672@ INDI
+1 NAME Robert /Doyle/
+2 GIVN Robert
+2 SURN Doyle
+1 SEX M
+1 BIRT
+2 DATE 1960
+1 FAMC @F26450513@
+0 @I54795673@ INDI
+1 NAME Valerie /Doyle/
+2 GIVN Valerie
+2 SURN Doyle
+1 SEX F
+1 BIRT
+2 DATE 1963
+1 FAMC @F26450513@
+0 @I54795674@ INDI
+1 NAME Wesley /Blom/
+2 GIVN Wesley
+2 SURN Blom
+1 SEX M
+1 FAMS @F26450514@
+0 @I54795675@ INDI
+1 NAME David /De_Mol/
+2 GIVN David
+2 SURN De_Mol
+1 SEX M
+1 FAMS @F26450480@
+0 @I54795676@ INDI
+1 NAME Ellen /VandeZandschulp/
+2 GIVN Ellen
+2 SURN VandeZandschulp
+1 SEX F
+1 FAMS @F26450516@
+0 @I54795677@ INDI
+1 NAME Jade Elizabeth /De_Jong/
+2 GIVN Jade Elizabeth
+2 SURN De_Jong
+1 SEX F
+1 BIRT
+2 DATE 1993
+1 FAMC @F26450516@
+0 @I54795678@ INDI
+1 NAME Amy /Lang/
+2 GIVN Amy
+2 SURN Lang
+1 SEX F
+1 FAMS @F26450517@
+0 @I54795679@ INDI
+1 NAME Wren /Mitchell/
+2 GIVN Wren
+2 SURN Mitchell
+1 SEX F
+1 FAMS @F26450519@
+0 @I54795680@ INDI
+1 NAME Ryan Thomas /Heetderks/
+2 GIVN Ryan Thomas
+2 SURN Heetderks
+1 SEX M
+1 BIRT
+2 DATE 1 Jan 1995
+1 FAMC @F26450455@
+0 @I54795681@ INDI
+1 NAME Katelyn /Brouwer/
+2 GIVN Katelyn
+2 SURN Brouwer
+1 SEX F
+1 BIRT
+2 DATE 1990
+1 FAMC @F26450490@
+0 @I54795682@ INDI
+1 NAME Marcus William /De_Vos/
+2 GIVN Marcus William
+2 SURN De_Vos
+1 SEX M
+1 BIRT
+2 DATE 9 Jun 1992
+1 FAMC @F26450454@
+0 @I54795683@ INDI
+1 NAME Paul Bradley /De_Vos/
+2 GIVN Paul Bradley
+2 SURN De_Vos
+1 SEX M
+1 BIRT
+2 DATE 24 Jul 1989
+1 FAMC @F26450454@
+0 @I54795684@ INDI
+1 NAME Dustin Harris /Brouwer/
+2 GIVN Dustin Harris
+2 SURN Brouwer
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMC @F26450490@
+0 @I54795685@ INDI
+1 NAME Matthijs /Heijns/
+2 GIVN Matthijs
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 23 May 1827
+2 PLAC Ter Aar, Netherlands
+1 FAMC @F26450521@
+1 FAMS @F26450522@
+0 @I54795686@ INDI
+1 NAME Belia /Verbree/
+2 GIVN Belia
+2 SURN Verbree
+1 SEX F
+1 FAMS @F26450522@
+0 @I54795687@ INDI
+1 NAME Adrianus /Heijns/
+2 GIVN Adrianus
+2 SURN Heijns
+1 SEX M
+1 FAMC @F26450522@
+0 @I54795688@ INDI
+1 NAME Jacobus /Heijns/
+2 GIVN Jacobus
+2 SURN Heijns
+1 SEX U
+1 FAMC @F26450522@
+0 @I54795689@ INDI
+1 NAME Frederik /Heijns/
+2 GIVN Frederik
+2 SURN Heijns
+1 SEX M
+1 FAMC @F26450522@
+0 @I54795690@ INDI
+1 NAME Neeltje /Heijns/
+2 GIVN Neeltje
+2 SURN Heijns
+1 SEX U
+1 FAMC @F26450522@
+0 @I54795691@ INDI
+1 NAME Willem /Heijns/
+2 GIVN Willem
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 25 May 1853
+2 PLAC Ter Aar, ZH Netherlands
+1 DEAT
+2 DATE 7 July 1936
+1 FAMS @F26450523@
+1 FAMC @F26450522@
+1 NOTE Willem's three brothers, Adrianus, Jacobus, and Frederik, died in one week at B
+2 CONC odegraven in December 1863.
+0 @I54795692@ INDI
+1 NAME Rijna /Hoogendoorn/
+2 GIVN Rijna
+2 SURN Hoogendoorn
+1 SEX F
+1 BIRT
+2 DATE 16 Oct 1862
+2 PLAC Broek, ZH
+1 DEAT
+2 DATE 20 April 1943
+1 FAMS @F26450523@
+0 @I54795693@ INDI
+1 NAME Belia /Heijns/
+2 GIVN Belia
+2 SURN Heijns
+1 SEX F
+1 BIRT
+2 DATE Nov 17, 1888
+2 PLAC Moerkapelle
+1 DEAT
+2 DATE Sept. 12 1960
+1 FAMC @F26450523@
+0 @I54795694@ INDI
+1 NAME Elisabeth /Heijns/
+2 GIVN Elisabeth
+2 SURN Heijns
+1 SEX U
+1 BIRT
+2 DATE Dec 12, 1889
+2 PLAC Moerkapelle
+1 DEAT
+2 DATE Jan 27, 1921
+1 FAMC @F26450523@
+0 @I54795695@ INDI
+1 NAME Matthijs /Heijns/
+2 GIVN Matthijs
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE Feb 11, 1891
+2 PLAC Moerkapelle
+1 DEAT
+2 DATE March 5, 1951
+1 FAMC @F26450523@
+1 FAMS @F26450525@
+0 @I54795696@ INDI
+1 NAME Neeltje /Heijns/
+2 GIVN Neeltje
+2 SURN Heijns
+1 SEX U
+1 BIRT
+2 DATE Sept 24, 1894
+2 PLAC Moerkapelle
+1 DEAT
+2 DATE July 31, 1994
+1 FAMC @F26450523@
+0 @I54795697@ INDI
+1 NAME Johanna /Heijns/
+2 GIVN Johanna
+2 SURN Heijns
+1 SEX F
+1 BIRT
+2 DATE Mar 29, 1899
+2 PLAC Moerkapelle
+1 DEAT
+2 DATE Aug 21, 1971
+1 FAMC @F26450523@
+0 @I54795698@ INDI
+1 NAME Jan (John) /Heijns/
+2 GIVN Jan (John)
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE July 30, 1902
+2 PLAC Waddinxveen
+1 DEAT
+2 DATE May 28, 1971
+1 FAMC @F26450523@
+1 FAMS @F26525062@
+0 @I54795699@ INDI
+1 NAME Frederik /Heijns/
+2 GIVN Frederik
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 30 Dec 1817
+1 DEAT
+2 DATE 26 May 1824
+1 FAMC @F26450521@
+0 @I54795700@ INDI
+1 NAME Lena /Heijns/
+2 GIVN Lena
+2 SURN Heijns
+1 SEX F
+1 BIRT
+2 DATE 11 Dec 1819
+1 DEAT
+2 DATE 10 Jun 1842
+1 FAMC @F26450521@
+0 @I54795701@ INDI
+1 NAME Aaltje /Heijns/
+2 GIVN Aaltje
+2 SURN Heijns
+1 SEX U
+1 BIRT
+2 DATE 14 Apr 1822
+1 DEAT
+2 DATE 27 Jan 1824
+1 FAMC @F26450521@
+1 NOTE Twin of Alarytje
+0 @I54795702@ INDI
+1 NAME Alarytje /Heijns/
+2 GIVN Alarytje
+2 SURN Heijns
+1 SEX U
+1 BIRT
+2 DATE 14 Apr 1822
+1 DEAT
+2 DATE 2 Oct 1827
+1 FAMC @F26450521@
+1 NOTE Twin of Aaltje
+0 @I54795703@ INDI
+1 NAME Frederik /Heijns/
+2 GIVN Frederik
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 25 Jul 1830
+1 FAMC @F26450521@
+0 @I54795704@ INDI
+1 NAME Willem /Heijns/
+2 GIVN Willem
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE Aug. 2, 1857
+0 @I54795705@ INDI
+1 NAME Bartholemew /Heijns/
+2 GIVN Bartholemew
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE June 2, 1892
+1 FAMS @F26450524@
+0 @I54795706@ INDI
+1 NAME Annigje /Va Enk/
+2 GIVN Annigje
+2 SURN Va Enk
+1 SEX F
+1 FAMS @F26450524@
+1 NOTE Married: Dec. 19, 1925
+2 CONT Moved to Owen Sound, Canada May 12 1952.
+2 CONT http://family
+2 CONC trees.net/heyns/images/bartholemew.jpg
+0 @I54795707@ INDI
+1 NAME Anna E. /Kersbergen/
+2 GIVN Anna E.
+2 SURN Kersbergen
+1 SEX F
+1 BIRT
+2 DATE Nov 2, 1892
+1 DEAT
+2 DATE Apr 29, 1964
+1 FAMS @F26450525@
+1 FAMC @F26556813@
+0 @I54795708@ INDI
+1 NAME William John /Heyns/
+2 GIVN William John
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE Sep 11, 1912
+2 PLAC Roseacres, MS, USA
+1 FAMC @F26450525@
+1 FAMS @F26450526@
+1 NOTE William graduated from Hope College, Holland, Michigan in 1934 (President of Se
+2 CONC nior Class) - AB degree - Student Manager in Football, 1933-34. Member, Blue Ke
+2 CONC y Honor Society. Graduated from University of Michigan Law School, Ann Arbor, M
+2 CONC ichigan - 1937 with an LLB and a JD (Juris Doctor) degree. Member of Delta Thet
+2 CONC a Phi Law Fraternity and "Barristers."
+2 CONT 
+2 CONT Following college, William was employ
+2 CONC ed by Travelers Insurance Company (Claim Department) 1937-42; Allaben & Wiarda,
+2 CONC Attorneys 1942-47. Associate in firm of Verspoor & Heyns, Attorneys 1947-64; He
+2 CONC yns & Vander Werff, Attorneys 1984-92 when he retired. Engaged in the General P
+2 CONC ractice of Law handling Business, Contracts, Real Estate, Abstracts, Probate, W
+2 CONC ills, Trusts and Estates, Workmens Compensation, Liability & Personal Injuries,
+2 CONC Domestic Relations, Criminal Appeals (by Court Appointment), Immigration matter
+2 CONC s and other legal problems. Served as Special Assistant Prosecuting Attorney fo
+2 CONC r Kent County - 1952-57. Chairman of War Bond Drive - 1944. Served on the Board
+2 CONC  of Central Volunteers (Kent County Community Chest) - 1947-50 - (Pres. - 1949)
+2 CONC ; Board of Bethany Christian Home, Grand Rapids -1948- 54 - V. Pres. - 1953.
+2 CONT 
+2 CONT Member of G, R. Junior Chamber of Commerce, State Bar of Michigan; G.R. Bar As
+2 CONC sociation (Secretary - 1942); American Bar Association and Kiwanis Club of G.R.
+2 CONC  Member of Garfield Park Reformed Church, (served as Deacon and Clerk of consis
+2 CONC tory) 1939-56; Shawnee Park Christian Reformed Church (served as Elder and Cler
+2 CONC k of Consistory) 1956-79; Calvin Christian Reformed Church 1979 to present. 
+2 CONT 
+2 CONT Remarried Jan 20, 1979 to Marian Van Den Berg (Verwys) (b. April 15, 1916 Gran
+2 CONC d Rapids, MI) in Grand Rapids, MI.
+2 CONT 
+2 CONT Anne, Marian, and brother Harold were the
+2 CONC  children of John (Johannes) VanDenBerg (b. 1886 Schore Netherlands), who was t
+2 CONC he son of Jacob VanDenBerg b. Schore 1853 and Johanna Christianse b. Schore 184
+2 CONC 9, and grandson of Johannes Van Den Berge b.Schore 1829 and Janna Van Zweeden b
+2 CONC . Schore 1831. Johannes was the son of Cornelius Van Den Berge and Neeltje Zwee
+2 CONC dyk.
+2 CONT 
+2 CONT Anne, Marian, and Harold's mother, Mary Cooper (b. Grand Rapids, MI 188
+2 CONC 9), was the daughter of Cornelius Cooper (b. Grand Rapids MI 1859) and Mary Van
+2 CONC  Dyke (b. Netherlands 1867), and granddaughter of Daniel Cooper and Jane Pleune
+2 CONC , and Mr. Van Dyke and Miss Schot.
+0 @I54795709@ INDI
+1 NAME Anne /Van Den Berg/
+2 GIVN Anne
+2 SURN Van Den Berg
+1 SEX F
+1 BIRT
+2 DATE Nov 10, 1914
+1 DEAT
+2 DATE May 4, 1978
+1 FAMS @F26450526@
+1 FAMC @F26556785@
+0 @I54795710@ INDI
+1 NAME Larry Kenward /Heyns/
+2 GIVN Larry Kenward
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE Jan 5, 1942
+2 PLAC Grand Rapids
+1 FAMS @F26450530@
+1 FAMS @F26450531@
+1 FAMC @F26450526@
+0 @I54795711@ INDI
+1 NAME Jodene (Jodi) Elizabeth /Bowers/
+2 GIVN Jodene (Jodi) Elizabeth
+2 SURN Bowers
+1 SEX F
+1 BIRT
+2 DATE Sep 19, 1974
+2 PLAC St. Joseph, MI
+1 FAMC @F26450528@
+1 FAMS @F26450529@
+0 @I54795712@ INDI
+1 NAME Mark J. /Bowers/
+2 GIVN Mark J.
+2 SURN Bowers
+1 SEX M
+1 BIRT
+2 DATE Oct 28, 1977
+2 PLAC St. Joseph, MI
+1 FAMC @F26450528@
+0 @I54795713@ INDI
+1 NAME Shane /Price/
+2 GIVN Shane
+2 SURN Price
+1 SEX M
+1 BIRT
+2 DATE Aug. 13, 1974
+1 FAMS @F26450529@
+0 @I54795714@ INDI
+1 NAME Vivian Jean /Macks/
+2 GIVN Vivian Jean
+2 SURN Macks
+1 SEX F
+1 BIRT
+2 DATE Feb 17, 1941
+2 PLAC Detroit, MI
+1 FAMS @F26450530@
+0 @I54795715@ INDI
+1 NAME Virginia Darlene /Ashley/
+2 GIVN Virginia Darlene
+2 SURN Ashley
+1 SEX F
+1 BIRT
+2 DATE April 21, 1941
+2 PLAC Dyess, AR
+1 FAMS @F26450531@
+1 FAMS @F26450533@
+1 FAMC @F26494724@
+0 @I54795716@ INDI
+1 NAME Lauren (Loren) Kevin /Heyns/
+2 GIVN Lauren (Loren) Kevin
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE May 18, 1968
+2 PLAC Highland, IL
+1 FAMC @F26450530@
+1 FAMS @F26450532@
+0 @I54795717@ INDI
+1 NAME Terri Ann /Edmonds/
+2 GIVN Terri Ann
+2 SURN Edmonds
+1 SEX F
+1 BIRT
+2 DATE Feb 24, 1971
+2 PLAC Anderson, SC
+1 FAMS @F26450532@
+0 @I54795718@ INDI
+1 NAME Jack Dean /Fast/
+2 GIVN Jack Dean
+2 SURN Fast
+1 SEX M
+1 BIRT
+2 DATE Sept 14, 1936
+2 PLAC Missouri
+1 FAMS @F26450533@
+0 @I54795719@ INDI
+1 NAME Kevin Dean /Fast/
+2 GIVN Kevin Dean
+2 SURN Fast
+1 SEX M
+1 BIRT
+2 DATE March 9, 1965
+2 PLAC Kansas City, Missouri
+1 FAMC @F26450533@
+1 FAMS @F26494720@
+0 @I54795730@ INDI
+1 NAME Roger /Campbell/
+2 GIVN Roger
+2 SURN Campbell
+1 SEX M
+1 BIRT
+2 DATE 1914
+1 FAMS @F26450507@
+0 @I54795731@ INDI
+1 NAME Joseph /Siler/
+2 GIVN Joseph
+2 SURN Siler
+1 SEX M
+1 BIRT
+2 DATE 1919
+1 FAMS @F26450508@
+0 @I54795738@ INDI
+1 NAME George /Bowers/
+2 GIVN George
+2 SURN Bowers
+1 SEX M
+1 FAMS @F26450534@
+0 @I54795739@ INDI
+1 NAME Helen /UNKNOWN/
+2 GIVN Helen
+2 SURN UNKNOWN
+1 SEX F
+1 FAMS @F26450534@
+0 @I54915752@ INDI
+1 NAME Sherrie Inez /Hall/
+2 GIVN Sherrie Inez
+2 SURN Hall
+1 SEX F
+1 BIRT
+2 DATE Feb 2, 1971
+1 FAMS @F26494720@
+0 @I54915754@ INDI
+1 NAME Joshua Ryan /Fast/
+2 GIVN Joshua Ryan
+2 SURN Fast
+1 SEX M
+1 BIRT
+2 DATE March 3, 1988
+2 PLAC Kansas City, Missouri
+1 FAMC @F26494720@
+0 @I54915758@ INDI
+1 NAME Kaitlyn Nichole /Fast/
+2 GIVN Kaitlyn Nichole
+2 SURN Fast
+1 SEX F
+1 BIRT
+2 DATE May 18, 1992
+2 PLAC Colonial Heights, Virginia
+1 FAMC @F26494720@
+0 @I54915764@ INDI
+1 NAME Haskel Franklin /Ashley/
+2 GIVN Haskel Franklin
+2 SURN Ashley
+1 SEX M
+1 BIRT
+2 DATE May 14
+2 PLAC Tuckerman, Arkansas
+1 FAMS @F26494724@
+0 @I54915765@ INDI
+1 NAME Gladys Loraine /Flanna/
+2 GIVN Gladys Loraine
+2 SURN Flanna
+1 SEX F
+1 BIRT
+2 DATE October 28
+1 FAMS @F26494724@
+1 NOTE Firey red head Irish
+0 @I54916177@ INDI
+1 NAME Jullia (Judy) Mae /Ashley/
+2 GIVN Jullia (Judy) Mae
+2 SURN Ashley
+1 SEX F
+1 BIRT
+2 DATE April 21
+1 DEAT
+2 DATE Oct 1998
+2 PLAC Caroway, Arkansas
+1 FAMC @F26494724@
+0 @I54916190@ INDI
+1 NAME Johnnie Franklin /Ashley/
+2 GIVN Johnnie Franklin
+2 SURN Ashley
+1 SEX M
+1 BIRT
+2 DATE Nov 22
+1 FAMC @F26494724@
+0 @I54916192@ INDI
+1 NAME Donald Earl /Ashley/
+2 GIVN Donald Earl
+2 SURN Ashley
+1 SEX M
+1 BIRT
+2 DATE January 1
+1 FAMC @F26494724@
+0 @I54916194@ INDI
+1 NAME Patty Sue /Ashley/
+2 GIVN Patty Sue
+2 SURN Ashley
+1 SEX F
+1 BIRT
+2 DATE Nov 7
+1 FAMC @F26494724@
+0 @I54916196@ INDI
+1 NAME Heskel E. B. /Ashley/
+2 GIVN Heskel E. B.
+2 SURN Ashley
+1 SEX M
+1 BIRT
+2 DATE Dec 8
+1 DEAT
+2 DATE April 1995 (?)
+1 FAMC @F26494724@
+0 @I54916201@ INDI
+1 NAME Jimmy Joe /Ashley/
+2 GIVN Jimmy Joe
+2 SURN Ashley
+1 SEX M
+1 FAMC @F26494724@
+1 NOTE died at 18 months after drinking kerosene
+0 @I54916210@ INDI
+1 NAME James (Peanut) Edward /Ashley/
+2 GIVN James (Peanut) Edward
+2 SURN Ashley
+1 SEX M
+1 BIRT
+2 DATE July 13, 1942
+2 PLAC Dyess, Arkansas
+1 DEAT
+2 DATE Dec 31, 1998
+1 FAMC @F26494724@
+0 @I54979379@ INDI
+1 NAME Geraldine /VanderWaal/
+2 GIVN Geraldine
+2 SURN VanderWaal
+1 SEX F
+1 BIRT
+2 DATE Oct. 14, 1908
+1 DEAT
+2 DATE Feb. 22,1999
+1 FAMS @F26525062@
+0 @I54979395@ INDI
+1 NAME Cheryl /Heyns/
+2 GIVN Cheryl
+2 SURN Heyns
+1 SEX F
+1 BIRT
+2 DATE Oct. 21, 1933
+2 PLAC Grand Rapids, MI
+1 FAMC @F26525062@
+1 FAMS @F26525475@
+1 FAMS @F26525484@
+0 @I54979800@ INDI
+1 NAME UNKNOWN /Van Laar/
+2 GIVN UNKNOWN
+2 SURN Van Laar
+1 SEX M
+1 FAMS @F26525475@
+0 @I54979815@ INDI
+1 NAME UNKNOWN /Dalton/
+2 GIVN UNKNOWN
+2 SURN Dalton
+1 SEX M
+1 BIRT
+2 DATE Oct. 21, 1935
+1 FAMS @F26525484@
+0 @I54998293@ INDI
+1 NAME James Brian /Van Laar/
+2 GIVN James Brian
+2 SURN Van Laar
+1 SEX M
+1 BIRT
+2 DATE June 30, 1957
+1 FAMC @F26525475@
+0 @I54998306@ INDI
+1 NAME Joan /Van Laar (Brockette/Boger)/
+2 GIVN Joan
+2 SURN Van Laar (Brockette/Boger)
+1 SEX F
+1 BIRT
+2 DATE Nov. 20, 1958
+1 FAMC @F26525475@
+1 NOTE Joan Van Laar (Brockette/Boger) Nov. 20, 1958
+0 @I54998324@ INDI
+1 NAME David Blake /Van Laar/
+2 GIVN David Blake
+2 SURN Van Laar
+1 SEX M
+1 BIRT
+2 DATE Mar. 27, 1963
+1 FAMC @F26525475@
+0 @I54998352@ INDI
+1 NAME Daniel Ross /Van Laar/
+2 GIVN Daniel Ross
+2 SURN Van Laar
+1 SEX M
+1 BIRT
+2 DATE Nov. 27, 1964
+1 FAMC @F26525475@
+0 @I54998361@ INDI
+1 NAME Carol Lynn /Dalton/
+2 GIVN Carol Lynn
+2 SURN Dalton
+1 SEX F
+1 BIRT
+2 DATE July 5, 1968
+1 FAMC @F26525484@
+0 @I54998363@ INDI
+1 NAME Crista Sue /Dalton/
+2 GIVN Crista Sue
+2 SURN Dalton
+1 SEX U
+1 BIRT
+2 DATE Sep. 7, 1969
+1 FAMC @F26525484@
+0 @I55047401@ INDI
+1 NAME John (Johannes) /Van Den Berg/
+2 GIVN John (Johannes)
+2 SURN Van Den Berg
+1 SEX M
+1 BIRT
+2 DATE 1886
+2 PLAC Schore Netherlands
+1 FAMS @F26556785@
+1 NOTE Co-founder of Van Den Berg Brothers Furniture store in Grand Rapids, MI.
+0 @I55047402@ INDI
+1 NAME Mary /Cooper/
+2 GIVN Mary
+2 SURN Cooper
+1 SEX F
+1 BIRT
+2 DATE 1889
+2 PLAC Grand Rapids, MI
+1 FAMS @F26556785@
+1 FAMC @F26556793@
+0 @I55047424@ INDI
+1 NAME Cornelius /Cooper/
+2 GIVN Cornelius
+2 SURN Cooper
+1 SEX M
+1 BIRT
+2 DATE 1859
+2 PLAC Grand Rapids, MI 
+1 FAMS @F26556793@
+1 FAMC @F26556798@
+0 @I55047425@ INDI
+1 NAME Mary /Van Dyke/
+2 GIVN Mary
+2 SURN Van Dyke
+1 SEX F
+1 BIRT
+2 DATE 1867
+2 PLAC Netherlands
+1 FAMS @F26556793@
+1 FAMC @F26556807@
+0 @I55047435@ INDI
+1 NAME Daniel /Cooper/
+2 GIVN Daniel
+2 SURN Cooper
+1 SEX M
+1 FAMS @F26556798@
+0 @I55047436@ INDI
+1 NAME Jane /Pleune/
+2 GIVN Jane
+2 SURN Pleune
+1 SEX F
+1 FAMS @F26556798@
+1 NOTE French name.
+0 @I55047452@ INDI
+1 NAME UNKNOWN /Van Dyke /
+2 GIVN UNKNOWN
+2 SURN Van Dyke 
+1 SEX M
+1 FAMS @F26556807@
+0 @I55047453@ INDI
+1 NAME UNKNOWN /Schot/
+2 GIVN UNKNOWN
+2 SURN Schot
+1 SEX F
+1 FAMS @F26556807@
+0 @I55047466@ INDI
+1 NAME Johannes /Kersbergen/
+2 GIVN Johannes
+2 SURN Kersbergen
+1 SEX M
+1 FAMS @F26556813@
+1 FAMC @F26556817@
+1 FAMS @F26557222@
+0 @I55047467@ INDI
+1 NAME Constansia /Jansen/
+2 GIVN Constansia
+2 SURN Jansen
+1 SEX F
+1 FAMS @F26556813@
+1 FAMC @F26556814@
+0 @I55047468@ INDI
+1 NAME UNKNOWN /Jansen/
+2 GIVN UNKNOWN
+2 SURN Jansen
+1 SEX M
+1 FAMS @F26556814@
+0 @I55047469@ INDI
+1 NAME Anna E. /De Jong/
+2 GIVN Anna E.
+2 SURN De Jong
+1 SEX F
+1 FAMS @F26556814@
+0 @I55047475@ INDI
+1 NAME Piet /Kersbergen/
+2 GIVN Piet
+2 SURN Kersbergen
+1 SEX M
+1 FAMS @F26556817@
+0 @I55047476@ INDI
+1 NAME Woutrien /Spyker/
+2 GIVN Woutrien
+2 SURN Spyker
+1 SEX F
+1 FAMS @F26556817@
+0 @I55047887@ INDI
+1 NAME UNKNOWN /UNKNOWN/
+2 GIVN UNKNOWN
+2 SURN UNKNOWN
+1 SEX F
+1 FAMS @F26557222@
+1 NOTE Mother of Liebert Kersbergen.
+0 @I55047888@ INDI
+1 NAME Liebert /Kersbergen/
+2 GIVN Liebert
+2 SURN Kersbergen
+1 SEX M
+1 FAMC @F26557222@
+1 NOTE Step brother of Anna E. Kersbergen.
+2 CONT Picture: http://familytrees.net/heyns/matt
+2 CONC hijs.asp
+0 @I55047908@ INDI
+1 NAME Marian /Van Den Berg/
+2 GIVN Marian
+2 SURN Van Den Berg
+1 SEX F
+1 BIRT
+2 DATE April 15, 1916
+2 PLAC Grand Rapids, MI
+1 FAMC @F26556785@
+1 FAMS @F26557243@
+1 FAMS @F26557261@
+0 @I55047916@ INDI
+1 NAME Harold /Van Den Berg/
+2 GIVN Harold
+2 SURN Van Den Berg
+1 SEX M
+1 FAMC @F26556785@
+0 @I55047934@ INDI
+1 NAME Hubert /Verwys/
+2 GIVN Hubert
+2 SURN Verwys
+1 SEX M
+1 FAMS @F26557243@
+0 @I55047950@ INDI
+1 NAME Mark /Verwys/
+2 GIVN Mark
+2 SURN Verwys
+1 SEX M
+1 FAMC @F26557243@
+0 @I55047963@ INDI
+1 NAME Mary Lou (Jessica) /Verwys/
+2 GIVN Mary Lou (Jessica)
+2 SURN Verwys
+1 SEX F
+1 FAMC @F26557243@
+1 FAMS @F26557259@
+0 @I55047966@ INDI
+1 NAME Craig /Verwys/
+2 GIVN Craig
+2 SURN Verwys
+1 SEX M
+1 FAMC @F26557243@
+0 @I55047975@ INDI
+1 NAME Jack /Powell/
+2 GIVN Jack
+2 SURN Powell
+1 SEX M
+1 FAMS @F26557259@
+0 @I55047981@ INDI
+1 NAME William /Heyns/
+2 GIVN William
+2 SURN Heyns
+1 SEX M
+1 BIRT
+2 DATE Sept 11, 1912
+2 PLAC Roseacres, Mississippi
+1 FAMS @F26557261@
+1 NOTE Duplicate.
+0 @I55048049@ INDI
+1 NAME Frederik /Heins/
+2 GIVN Frederik
+2 SURN Heins
+1 SEX M
+1 BIRT
+2 DATE Oct 28, 1745
+2 PLAC Calle, Hannover, Germany
+1 DEAT
+2 DATE Jan 22, 1812
+2 PLAC Korteraar
+1 FAMS @F26557286@
+1 FAMC @F26560103@
+1 NOTE Supporting documents:
+2 CONT 
+2 CONT 5. marriage certificate of Frederik Heins, young man, 
+2 CONC born in Bucken in the Province of Hanover (Germany), living in Bleiswijk, marri
+2 CONC es 10 Oct 1773 with Maria van den Bosch, young lady living in Bleiswijk (Nether
+2 CONC lands).
+2 CONT 
+2 CONT 6. death certificate of Frederik Heins. Death certificate witnessed 
+2 CONC by Willem Heins, aged about 26, occupation dike overseer, son of the deceased; 
+2 CONC and Teunis van der Tang, aged abt. 38, occupation farmer, neighbor of the decea
+2 CONC sed, both living in Corter-Aar (now called Korteraar), have declared that on th
+2 CONC e 22 Jan 1812 in Corter-Aar in the eatinghouse at District nr. 166 has died: Fr
+2 CONC ederik Heins, aged 66, occupation farmer, widower of Marijtje van den Bosch.
+2 CONT 
+2 CONT 7. family sheet Frederik Heins (Heyns) and Maria van den Bosch married Bleiswi
+2 CONC jk 10 Oct 1773. All children born in Bleiswijk:
+2 CONT 
+0 @I55048050@ INDI
+1 NAME Maria /van den Bosch/
+2 GIVN Maria
+2 SURN van den Bosch
+1 SEX F
+1 DEAT
+2 DATE Oct 16, 1808
+1 FAMS @F26557286@
+1 NOTE d. previous to 19 Jun 1816
+0 @I55054891@ INDI
+1 NAME Johan Peter /Heyn/
+2 GIVN Johan Peter
+2 SURN Heyn
+1 SEX M
+1 BIRT
+2 DATE 1701
+2 PLAC Wohlenhausen, Germany
+1 DEAT
+2 DATE Jun 21, 1770
+1 FAMS @F26560103@
+1 FAMC @F26560924@
+1 NOTE Also Heins.
+2 CONT Baptized on Feb 8, 1701.
+2 CONT Birth approx based on baptism.
+0 @I55054892@ INDI
+1 NAME Margarethe /Toellner/
+2 GIVN Margarethe
+2 SURN Toellner
+1 SEX F
+1 BIRT
+2 DATE Apr 23, 1717 (or 1709)
+1 DEAT
+2 DATE May 16, 1777
+2 PLAC Calle
+2 SOUR @S22413981@
+3 DATA
+1 FAMS @F26560103@
+1 NOTE (d. reference page 251 no 30)
+0 @I55055762@ INDI
+1 NAME Peter /Heynen/
+2 GIVN Peter
+2 SURN Heynen
+1 SEX M
+1 BIRT
+2 DATE 1646 or 1656
+1 DEAT
+2 DATE Jul 13, 1735
+1 FAMS @F26560924@
+1 FAMC @F26560942@
+1 NOTE b. 1646 or 1656
+2 CONT d. Jul 13, 1735
+2 CONT 
+2 CONT First wife: Unknown
+2 CONT Evangelical Lutheran C
+2 CONC hurch
+2 CONT 
+2 CONT Son:(There may be additional children)
+2 CONT Johan Peter Heyn (Heins)
+2 CONT 
+2 CONT Pe
+2 CONC ter Heynen remarried in Jun 12, 1704 in Marklohe ("parish Lohe") to:
+2 CONT Anna Bult
+2 CONC er from Mehlbergen (b. 1648, d. Jan 13, 1743) who lived to be 95!
+2 CONT Anna Bulter 
+2 CONC was Peter's brother Johan's widow.
+2 CONT 
+2 CONT Source: Photocopy of hand-drawn genealogy
+2 CONC  chart sent from Leen Ramp, of Boskoop, Netherlands, a cousin of William Heyns.
+2 CONC  The chart spans from 1701 to 1968 and contains about 200 relatives with drawin
+2 CONC gs (tracings) of about 35 male family members. There is one female member - Joh
+2 CONC anna (Heijns) Vander Wilk (d. Aug 21, 1971) - who either created or added on to
+2 CONC  the chart.
+0 @I55055763@ INDI
+1 NAME Anna /Bulter/
+2 GIVN Anna
+2 SURN Bulter
+1 SEX F
+1 BIRT
+2 DATE 1648
+1 DEAT
+2 DATE Jan 13, 1743
+1 FAMS @F26560924@
+1 NOTE From Mehlbergen.
+2 CONT Anna Bulter was Peter's brother Johan's widow.
+0 @I55055805@ INDI
+1 NAME Heinius /Heyne/
+2 GIVN Heinius
+2 SURN Heyne
+1 SEX M
+1 FAMS @F26560942@
+1 NOTE Possible area to look: Marxloh (Marklohe - "parish Lohe"), Germany - where son 
+2 CONC Peter Heynen married Anna Bulter from Mehlbergen.
+0 @I55056332@ INDI
+1 NAME Johan /UNKNOWN/
+2 GIVN Johan
+2 SURN UNKNOWN
+1 SEX M
+1 FAMC @F26560942@
+0 @I55058021@ INDI
+1 NAME Anna Maria /Heins/
+2 GIVN Anna Maria
+2 SURN Heins
+1 SEX F
+1 BIRT
+2 DATE Oct 24, 1732
+1 FAMC @F26560103@
+0 @I55058041@ INDI
+1 NAME Johan Henric /Heins/
+2 GIVN Johan Henric
+2 SURN Heins
+1 SEX M
+1 BIRT
+2 DATE Aug 10, 1734
+1 FAMC @F26560103@
+0 @I55058049@ INDI
+1 NAME Peter Philip /Heins/
+2 GIVN Peter Philip
+2 SURN Heins
+1 SEX M
+1 BIRT
+2 DATE May 1, 1737
+1 FAMC @F26560103@
+0 @I55058066@ INDI
+1 NAME Johan Dietrich /Heins/
+2 GIVN Johan Dietrich
+2 SURN Heins
+1 SEX M
+1 BIRT
+2 DATE July 19, 1739
+1 FAMC @F26560103@
+0 @I55058070@ INDI
+1 NAME Albert Wilhelm /Heins/
+2 GIVN Albert Wilhelm
+2 SURN Heins
+1 SEX M
+1 BIRT
+2 DATE Sep 15, 1747
+1 FAMC @F26560103@
+1 NOTE Unsure about year.
+0 @I55074990@ INDI
+1 NAME Anna Marie Elisabeth /Heins/
+2 GIVN Anna Marie Elisabeth
+2 SURN Heins
+1 SEX F
+1 BIRT
+2 DATE May 15, 1742
+1 FAMC @F26560103@
+0 @I55075027@ INDI
+1 NAME Margrita Frederik /Heijns/
+2 GIVN Margrita Frederik
+2 SURN Heijns
+1 SEX F
+1 BIRT
+2 DATE Jan 9, 1785
+1 FAMC @F26557286@
+0 @I81270129@ INDI
+1 NAME Willem /Heijns/
+2 GIVN Willem
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 8 Oct 1832
+1 FAMC @F26450521@
+1 FAMS @F37717133@
+1 NOTE http://familytrees.net/heyns/willem.htm
+0 @I81270132@ INDI
+1 NAME Dirk /Heijns/
+2 GIVN Dirk
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 19 Nov  1871
+1 FAMC @F37717133@
+1 FAMS @F37717134@
+1 NOTE Westland en Ter Aar
+0 @I81270135@ INDI
+1 NAME Willem Pieter /Heijns/
+2 GIVN Willem Pieter
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 8 Oct 1906
+1 FAMC @F37717134@
+0 @I81270138@ INDI
+1 NAME Wyntje /Heijns/
+2 GIVN Wyntje
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 28 Oct 1908
+1 FAMC @F37717134@
+0 @I81270139@ INDI
+1 NAME Peter Willem /Heijns/
+2 GIVN Peter Willem
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 29 May 1911
+2 PLAC Bockhandelaar
+1 DEAT
+2 DATE 1995
+1 FAMC @F37717134@
+1 FAMS @F37717536@
+1 NOTE Married 23 Feb 1944 Ter Aar
+0 @I81270140@ INDI
+1 NAME Marten /Heijns/
+2 GIVN Marten
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 23 May 1906
+1 FAMC @F37717134@
+0 @I81270141@ INDI
+1 NAME Jansje Hendrik /Heijns/
+2 GIVN Jansje Hendrik
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 17 Jan 1920
+1 FAMC @F37717134@
+0 @I81271345@ INDI
+1 NAME Krijntje /Kapteijn/
+2 GIVN Krijntje
+2 SURN Kapteijn
+1 SEX F
+1 BIRT
+2 DATE 18 May 1917
+1 FAMS @F37717536@
+1 NOTE Married: 23 Feb 1944, Ter Aar
+0 @I81271355@ INDI
+1 NAME Dirk /Heijns/
+2 GIVN Dirk
+2 SURN Heijns
+1 SEX M
+1 BIRT
+2 DATE 4 Jan 47
+2 PLAC Ter Aar
+1 FAMC @F37717536@
+1 FAMS @F37717541@
+0 @I81271359@ INDI
+1 NAME Lily /Heijns/
+2 GIVN Lily
+2 SURN Heijns
+1 SEX F
+1 BIRT
+2 DATE 26 July 1954
+2 PLAC Ter Aar
+1 FAMC @F37717536@
+0 @I81271363@ INDI
+1 NAME Anne Claire /Heijns/
+2 GIVN Anne Claire
+2 SURN Heijns
+1 SEX F
+1 BIRT
+2 DATE 1975
+2 PLAC Alphen aan den Rijn
+1 FAMC @F37717541@
+0 @I81271365@ INDI
+1 NAME Marjolein /Heijns /
+2 GIVN Marjolein
+2 SURN Heijns 
+1 SEX F
+1 BIRT
+2 DATE 24 Jan 1978
+2 PLAC Alphen aan den Rijn
+1 FAMC @F37717541@
+0 @F26450436@ FAM
+1 MARR
+2 DATE 16 Aug 1946
+2 PLAC Grand Rapids, Kent, Michigan, USA
+1 HUSB @I54795422@
+1 WIFE @I54795421@
+1 CHIL @I54795423@
+1 CHIL @I54795424@
+1 CHIL @I54795425@
+1 NOTE Address: <ADDR>Ralph Harold & Jacqueline Joyce Rudeen
+2 CONT 819 Quince NE
+2 CONT Olympia, 
+2 CONC WA98506
+2 CONT PHON360-352-3721
+0 @F26450437@ FAM
+1 MARR
+2 DATE 13 Sep 1885
+2 PLAC Graafscap, MI
+1 HUSB @I54795426@
+1 WIFE @I54795427@
+1 CHIL @I54795428@
+1 CHIL @I54795429@
+1 CHIL @I54795430@
+1 CHIL @I54795431@
+1 CHIL @I54795432@
+1 CHIL @I54795433@
+1 CHIL @I54795434@
+1 CHIL @I54795435@
+1 CHIL @I54795436@
+0 @F26450438@ FAM
+1 MARR
+2 DATE 20 Sep 1941
+2 PLAC Ann Arbor, MI
+1 HUSB @I54795437@
+1 WIFE @I54795438@
+1 CHIL @I54795439@
+1 CHIL @I54795440@
+1 CHIL @I54795441@
+0 @F26450439@ FAM
+1 MARR
+2 DATE 25 Dec 1916
+2 PLAC Grand Rapids, Kent, MI
+1 HUSB @I54795430@
+1 WIFE @I54795442@
+1 CHIL @I54795437@
+1 CHIL @I54795421@
+0 @F26450440@ FAM
+1 MARR
+2 DATE 15 Jul 1915
+2 PLAC Willard, OH
+1 HUSB @I54795429@
+1 WIFE @I54795443@
+1 CHIL @I54795444@
+1 CHIL @I54795445@
+0 @F26450441@ FAM
+1 MARR
+2 DATE 20 Aug 1925
+1 HUSB @I54795446@
+1 WIFE @I54795434@
+1 CHIL @I54795447@
+1 CHIL @I54795448@
+0 @F26450442@ FAM
+1 HUSB @I54795447@
+1 WIFE @I54795449@
+1 CHIL @I54795450@
+1 CHIL @I54795451@
+0 @F26450443@ FAM
+1 HUSB @I54795450@
+1 WIFE @I54795452@
+1 CHIL @I54795453@
+1 CHIL @I54795454@
+0 @F26450444@ FAM
+1 MARR
+2 DATE 28 Dec 1923
+1 HUSB @I54795432@
+1 WIFE @I54795455@
+1 CHIL @I54795456@
+0 @F26450445@ FAM
+1 MARR
+2 DATE 1969
+1 HUSB @I54795456@
+1 WIFE @I54795457@
+0 @F26450446@ FAM
+1 MARR
+2 DATE 22 Jun 1936
+1 HUSB @I54795458@
+1 WIFE @I54795436@
+1 CHIL @I54795460@
+1 CHIL @I54795459@
+0 @F26450447@ FAM
+1 MARR
+2 DATE 28 Feb 1942
+2 PLAC Grand Rapids, MI
+1 HUSB @I54795461@
+1 WIFE @I54795445@
+1 CHIL @I54795462@
+1 CHIL @I54795464@
+1 CHIL @I54795463@
+0 @F26450448@ FAM
+1 HUSB @I54795465@
+1 WIFE @I54795444@
+1 CHIL @I54795466@
+1 CHIL @I54795467@
+1 CHIL @I54795468@
+1 CHIL @I54795469@
+1 CHIL @I54795470@
+1 CHIL @I54795471@
+0 @F26450449@ FAM
+1 MARR
+2 DATE 1968
+1 HUSB @I54795462@
+1 WIFE @I54795472@
+1 CHIL @I54795590@
+1 CHIL @I54795591@
+1 CHIL @I54795592@
+0 @F26450450@ FAM
+1 HUSB @I54795463@
+1 CHIL @I54795596@
+1 CHIL @I54795597@
+0 @F26450451@ FAM
+1 MARR
+2 DATE 30 Jun 1931
+1 HUSB @I54795473@
+1 WIFE @I54795435@
+1 CHIL @I54795474@
+1 CHIL @I54795475@
+0 @F26450452@ FAM
+1 MARR
+2 DATE 1954
+1 HUSB @I54795476@
+1 WIFE @I54795474@
+1 CHIL @I54795477@
+1 CHIL @I54795478@
+1 CHIL @I54795479@
+0 @F26450453@ FAM
+1 HUSB @I54795480@
+1 WIFE @I54795477@
+1 CHIL @I54795481@
+1 CHIL @I54795482@
+1 CHIL @I54795483@
+0 @F26450454@ FAM
+1 HUSB @I54795484@
+1 WIFE @I54795478@
+1 CHIL @I54795683@
+1 CHIL @I54795682@
+0 @F26450455@ FAM
+1 HUSB @I54795479@
+1 WIFE @I54795485@
+1 CHIL @I54795486@
+1 CHIL @I54795680@
+0 @F26450456@ FAM
+1 HUSB @I54795487@
+1 WIFE @I54795475@
+1 CHIL @I54795488@
+1 CHIL @I54795489@
+1 CHIL @I54795490@
+1 CHIL @I54795491@
+0 @F26450457@ FAM
+1 HUSB @I54795492@
+1 WIFE @I54795488@
+1 CHIL @I54795493@
+0 @F26450458@ FAM
+1 HUSB @I54795489@
+0 @F26450459@ FAM
+1 WIFE @I54795490@
+0 @F26450460@ FAM
+1 MARR
+2 DATE 2 Sep 1937
+2 PLAC Ionia, MI
+1 HUSB @I54795494@
+1 WIFE @I54795428@
+0 @F26450461@ FAM
+1 MARR
+2 DATE 8 Jun 1922
+1 HUSB @I54795495@
+1 WIFE @I54795433@
+1 CHIL @I54795496@
+1 CHIL @I54795497@
+1 CHIL @I54795498@
+0 @F26450462@ FAM
+1 MARR
+2 DATE 30 Dec 1920
+1 HUSB @I54795499@
+1 WIFE @I54795431@
+1 CHIL @I54795501@
+1 CHIL @I54795500@
+0 @F26450463@ FAM
+1 HUSB @I54795502@
+1 WIFE @I54795503@
+1 CHIL @I54795504@
+1 CHIL @I54795505@
+1 CHIL @I54795506@
+1 CHIL @I54795507@
+1 CHIL @I54795508@
+1 CHIL @I54795426@
+1 CHIL @I54795509@
+1 CHIL @I54795510@
+0 @F26450464@ FAM
+1 MARR
+2 DATE 13 Sep 1969
+2 PLAC Olympia, WA
+1 HUSB @I54795439@
+1 WIFE @I54795511@
+1 CHIL @I54795512@
+1 CHIL @I54795513@
+0 @F26450465@ FAM
+1 MARR
+2 DATE 10 Aug 1974
+2 PLAC East GrandRapids, MI
+1 HUSB @I54795441@
+1 WIFE @I54795514@
+1 CHIL @I54795515@
+1 CHIL @I54795516@
+1 CHIL @I54795517@
+0 @F26450466@ FAM
+1 MARR
+2 DATE 8 May 1976
+2 PLAC Washington, DC
+1 HUSB @I54795440@
+1 CHIL @I54795518@
+1 CHIL @I54795519@
+0 @F26450467@ FAM
+1 MARR
+2 DATE 12 Nov 1977
+2 PLAC Olympia, WA
+1 HUSB @I54795423@
+1 WIFE @I54795520@
+1 CHIL @I54795521@
+1 CHIL @I54795522@
+0 @F26450468@ FAM
+1 MARR
+2 DATE 31 Jul 1984
+2 PLAC Olympia, WA
+1 HUSB @I54795425@
+1 WIFE @I54795523@
+1 CHIL @I54795524@
+1 CHIL @I54795525@
+0 @F26450469@ FAM
+1 MARR
+2 DATE 30 May 1981
+2 PLAC Olympia, WA
+1 HUSB @I54795526@
+1 WIFE @I54795424@
+1 CHIL @I54795527@
+1 CHIL @I54795528@
+0 @F26450470@ FAM
+1 HUSB @I54795529@
+1 WIFE @I54795467@
+1 CHIL @I54795530@
+1 CHIL @I54795531@
+1 CHIL @I54795532@
+1 CHIL @I54795533@
+0 @F26450471@ FAM
+1 HUSB @I54795466@
+1 WIFE @I54795534@
+1 CHIL @I54795535@
+1 CHIL @I54795536@
+1 CHIL @I54795537@
+0 @F26450472@ FAM
+1 HUSB @I54795535@
+1 WIFE @I54795538@
+0 @F26450473@ FAM
+1 HUSB @I54795468@
+1 WIFE @I54795539@
+1 CHIL @I54795540@
+1 CHIL @I54795553@
+0 @F26450474@ FAM
+1 HUSB @I54795540@
+1 WIFE @I54795541@
+0 @F26450475@ FAM
+1 HUSB @I54795469@
+1 WIFE @I54795542@
+1 CHIL @I54795543@
+1 CHIL @I54795544@
+1 CHIL @I54795545@
+0 @F26450476@ FAM
+1 HUSB @I54795546@
+1 WIFE @I54795470@
+1 CHIL @I54795547@
+0 @F26450477@ FAM
+1 HUSB @I54795548@
+1 WIFE @I54795471@
+1 CHIL @I54795549@
+1 CHIL @I54795550@
+1 CHIL @I54795551@
+1 CHIL @I54795552@
+0 @F26450478@ FAM
+1 HUSB @I54795554@
+1 WIFE @I54795506@
+1 CHIL @I54795555@
+1 CHIL @I54795556@
+1 CHIL @I54795557@
+0 @F26450479@ FAM
+1 MARR
+2 DATE 6 Jan 1967
+1 HUSB @I54795558@
+1 WIFE @I54795459@
+1 CHIL @I54795559@
+1 CHIL @I54795560@
+1 CHIL @I54795561@
+1 CHIL @I54795562@
+0 @F26450480@ FAM
+1 HUSB @I54795675@
+1 WIFE @I54795460@
+1 CHIL @I54795563@
+1 CHIL @I54795564@
+0 @F26450481@ FAM
+1 HUSB @I54795565@
+1 WIFE @I54795501@
+1 CHIL @I54795566@
+0 @F26450482@ FAM
+1 WIFE @I54795500@
+1 CHIL @I54795567@
+1 CHIL @I54795568@
+1 CHIL @I54795569@
+0 @F26450483@ FAM
+1 MARR
+2 DATE 28 Oct 1988
+1 WIFE @I54795500@
+0 @F26450484@ FAM
+1 HUSB @I54795496@
+1 WIFE @I54795570@
+1 CHIL @I54795571@
+1 CHIL @I54795572@
+1 CHIL @I54795573@
+0 @F26450485@ FAM
+1 HUSB @I54795574@
+1 WIFE @I54795571@
+1 CHIL @I54795575@
+1 CHIL @I54795576@
+0 @F26450486@ FAM
+1 HUSB @I54795577@
+1 WIFE @I54795572@
+1 CHIL @I54795578@
+1 CHIL @I54795579@
+0 @F26450487@ FAM
+1 HUSB @I54795580@
+1 WIFE @I54795573@
+1 CHIL @I54795581@
+1 CHIL @I54795582@
+0 @F26450488@ FAM
+1 HUSB @I54795583@
+1 WIFE @I54795497@
+0 @F26450489@ FAM
+1 HUSB @I54795584@
+1 WIFE @I54795498@
+1 CHIL @I54795585@
+1 CHIL @I54795586@
+1 CHIL @I54795587@
+0 @F26450490@ FAM
+1 HUSB @I54795585@
+1 WIFE @I54795588@
+1 CHIL @I54795681@
+1 CHIL @I54795684@
+0 @F26450491@ FAM
+1 HUSB @I54795589@
+1 WIFE @I54795587@
+0 @F26450492@ FAM
+1 MARR
+2 DATE 15 Aug 1970
+2 PLAC Grand Rapids, MI
+1 HUSB @I54795593@
+1 WIFE @I54795464@
+1 CHIL @I54795594@
+1 CHIL @I54795595@
+0 @F26450493@ FAM
+1 HUSB @I54795566@
+1 CHIL @I54795598@
+1 CHIL @I54795599@
+1 CHIL @I54795600@
+0 @F26450494@ FAM
+1 WIFE @I54795569@
+1 CHIL @I54795601@
+1 CHIL @I54795602@
+0 @F26450495@ FAM
+1 WIFE @I54795491@
+0 @F26450496@ FAM
+1 HUSB @I54795504@
+1 WIFE @I54795603@
+0 @F26450497@ FAM
+1 MARR
+2 DATE 1900 (approx)
+1 HUSB @I54795510@
+1 WIFE @I54795604@
+1 CHIL @I54795605@
+1 CHIL @I54795606@
+1 CHIL @I54795607@
+1 CHIL @I54795608@
+1 CHIL @I54795609@
+1 CHIL @I54795610@
+1 CHIL @I54795611@
+1 CHIL @I54795612@
+1 CHIL @I54795613@
+0 @F26450498@ FAM
+1 HUSB @I54795610@
+1 WIFE @I54795614@
+1 CHIL @I54795615@
+1 CHIL @I54795616@
+1 CHIL @I54795617@
+1 CHIL @I54795618@
+0 @F26450499@ FAM
+1 HUSB @I54795619@
+1 WIFE @I54795611@
+1 CHIL @I54795620@
+1 CHIL @I54795621@
+1 CHIL @I54795622@
+1 CHIL @I54795623@
+0 @F26450500@ FAM
+1 HUSB @I54795613@
+1 WIFE @I54795624@
+1 CHIL @I54795625@
+1 CHIL @I54795626@
+1 CHIL @I54795627@
+1 CHIL @I54795628@
+1 CHIL @I54795629@
+1 CHIL @I54795630@
+0 @F26450501@ FAM
+1 HUSB @I54795609@
+1 WIFE @I54795631@
+1 CHIL @I54795632@
+1 CHIL @I54795633@
+1 CHIL @I54795634@
+0 @F26450502@ FAM
+1 HUSB @I54795635@
+1 WIFE @I54795612@
+1 CHIL @I54795636@
+1 CHIL @I54795637@
+1 CHIL @I54795638@
+1 CHIL @I54795639@
+1 CHIL @I54795640@
+0 @F26450503@ FAM
+1 HUSB @I54795608@
+1 WIFE @I54795641@
+1 CHIL @I54795642@
+1 CHIL @I54795643@
+0 @F26450504@ FAM
+1 HUSB @I54795642@
+1 WIFE @I54795644@
+1 CHIL @I54795645@
+1 CHIL @I54795646@
+0 @F26450505@ FAM
+1 HUSB @I54795643@
+0 @F26450506@ FAM
+1 HUSB @I54795647@
+1 WIFE @I54795605@
+1 CHIL @I54795648@
+1 CHIL @I54795649@
+1 CHIL @I54795650@
+0 @F26450507@ FAM
+1 HUSB @I54795730@
+1 WIFE @I54795648@
+0 @F26450508@ FAM
+1 HUSB @I54795731@
+1 WIFE @I54795649@
+0 @F26450509@ FAM
+1 MARR
+2 DATE 1928
+1 HUSB @I54795651@
+1 WIFE @I54795607@
+1 CHIL @I54795652@
+1 CHIL @I54795653@
+1 CHIL @I54795655@
+1 CHIL @I54795654@
+1 CHIL @I54795656@
+0 @F26450510@ FAM
+1 HUSB @I54795657@
+1 WIFE @I54795653@
+1 CHIL @I54795658@
+1 CHIL @I54795659@
+1 CHIL @I54795660@
+0 @F26450511@ FAM
+1 HUSB @I54795661@
+1 WIFE @I54795655@
+1 CHIL @I54795662@
+1 CHIL @I54795663@
+1 CHIL @I54795664@
+1 CHIL @I54795665@
+1 CHIL @I54795666@
+0 @F26450512@ FAM
+1 HUSB @I54795667@
+1 WIFE @I54795656@
+1 CHIL @I54795668@
+1 CHIL @I54795669@
+0 @F26450513@ FAM
+1 HUSB @I54795654@
+1 WIFE @I54795670@
+1 CHIL @I54795671@
+1 CHIL @I54795672@
+1 CHIL @I54795673@
+0 @F26450514@ FAM
+1 HUSB @I54795674@
+1 WIFE @I54795448@
+0 @F26450515@ FAM
+1 WIFE @I54795443@
+0 @F26450516@ FAM
+1 HUSB @I54795543@
+1 WIFE @I54795676@
+1 CHIL @I54795677@
+0 @F26450517@ FAM
+1 MARR
+2 DATE 1995
+1 HUSB @I54795531@
+1 WIFE @I54795678@
+0 @F26450518@ FAM
+1 MARR
+2 DATE Sep 1997
+1 HUSB @I54795463@
+0 @F26450519@ FAM
+1 MARR
+2 DATE 21 Jun 1997
+1 HUSB @I54795594@
+1 WIFE @I54795679@
+0 @F26450520@ FAM
+1 CHIL @I54795422@
+0 @F26450521@ FAM
+1 MARR
+2 DATE 19 June 1816
+2 PLAC Ter Aar, Netherlands
+1 HUSB @I54795419@
+1 WIFE @I54795420@
+1 CHIL @I54795502@
+1 CHIL @I54795685@
+1 CHIL @I54795699@
+1 CHIL @I54795700@
+1 CHIL @I54795701@
+1 CHIL @I54795702@
+1 CHIL @I54795703@
+1 CHIL @I81270129@
+0 @F26450522@ FAM
+1 HUSB @I54795685@
+1 WIFE @I54795686@
+1 CHIL @I54795687@
+1 CHIL @I54795688@
+1 CHIL @I54795689@
+1 CHIL @I54795690@
+1 CHIL @I54795691@
+0 @F26450523@ FAM
+1 HUSB @I54795691@
+1 WIFE @I54795692@
+1 CHIL @I54795693@
+1 CHIL @I54795694@
+1 CHIL @I54795695@
+1 CHIL @I54795696@
+1 CHIL @I54795697@
+1 CHIL @I54795698@
+0 @F26450524@ FAM
+1 HUSB @I54795705@
+1 WIFE @I54795706@
+0 @F26450525@ FAM
+1 HUSB @I54795695@
+1 WIFE @I54795707@
+1 CHIL @I54795708@
+0 @F26450526@ FAM
+1 HUSB @I54795708@
+1 WIFE @I54795709@
+1 CHIL @I54795710@
+1 CHIL @I54795417@
+0 @F26450527@ FAM
+1 CHIL @I54795503@
+0 @F26450528@ FAM
+1 HUSB @I54795418@
+1 WIFE @I54795417@
+1 CHIL @I54795711@
+1 CHIL @I54795712@
+0 @F26450529@ FAM
+1 MARR
+2 DATE Sept. 4, 1999
+2 PLAC St. Joseph, MI
+1 HUSB @I54795713@
+1 WIFE @I54795711@
+0 @F26450530@ FAM
+1 HUSB @I54795710@
+1 WIFE @I54795714@
+1 CHIL @I54795716@
+0 @F26450531@ FAM
+1 MARR
+2 DATE Oct. 1, 1977
+2 PLAC St. Joseph, MI
+1 HUSB @I54795710@
+1 WIFE @I54795715@
+0 @F26450532@ FAM
+1 MARR
+2 DATE April 17, 1999
+2 PLAC Anderson, SC
+1 HUSB @I54795716@
+1 WIFE @I54795717@
+0 @F26450533@ FAM
+1 HUSB @I54795718@
+1 WIFE @I54795715@
+1 CHIL @I54795719@
+0 @F26450534@ FAM
+1 HUSB @I54795738@
+1 WIFE @I54795739@
+1 CHIL @I54795418@
+0 @F26494720@ FAM
+1 HUSB @I54795719@
+1 WIFE @I54915752@
+1 CHIL @I54915754@
+1 CHIL @I54915758@
+0 @F26494724@ FAM
+1 HUSB @I54915764@
+1 WIFE @I54915765@
+1 CHIL @I54795715@
+1 CHIL @I54916177@
+1 CHIL @I54916190@
+1 CHIL @I54916192@
+1 CHIL @I54916194@
+1 CHIL @I54916196@
+1 CHIL @I54916201@
+1 CHIL @I54916210@
+0 @F26525062@ FAM
+1 HUSB @I54795698@
+1 WIFE @I54979379@
+1 CHIL @I54979395@
+0 @F26525475@ FAM
+1 MARR
+2 DATE June 26, 1955
+1 HUSB @I54979800@
+1 WIFE @I54979395@
+1 CHIL @I54998293@
+1 CHIL @I54998306@
+1 CHIL @I54998324@
+1 CHIL @I54998352@
+0 @F26525484@ FAM
+1 MARR
+2 DATE July 1966
+1 HUSB @I54979815@
+1 WIFE @I54979395@
+1 CHIL @I54998361@
+1 CHIL @I54998363@
+0 @F26556785@ FAM
+1 HUSB @I55047401@
+1 WIFE @I55047402@
+1 CHIL @I54795709@
+1 CHIL @I55047908@
+1 CHIL @I55047916@
+0 @F26556793@ FAM
+1 HUSB @I55047424@
+1 WIFE @I55047425@
+1 CHIL @I55047402@
+0 @F26556798@ FAM
+1 HUSB @I55047435@
+1 WIFE @I55047436@
+1 CHIL @I55047424@
+0 @F26556807@ FAM
+1 HUSB @I55047452@
+1 WIFE @I55047453@
+1 CHIL @I55047425@
+0 @F26556813@ FAM
+1 HUSB @I55047466@
+1 WIFE @I55047467@
+1 CHIL @I54795707@
+0 @F26556814@ FAM
+1 HUSB @I55047468@
+1 WIFE @I55047469@
+1 CHIL @I55047467@
+0 @F26556817@ FAM
+1 HUSB @I55047475@
+1 WIFE @I55047476@
+1 CHIL @I55047466@
+0 @F26557243@ FAM
+1 HUSB @I55047934@
+1 WIFE @I55047908@
+1 CHIL @I55047950@
+1 CHIL @I55047963@
+1 CHIL @I55047966@
+0 @F26557259@ FAM
+1 HUSB @I55047975@
+1 WIFE @I55047963@
+0 @F26557261@ FAM
+1 MARR
+2 DATE Jan 20, 1979
+2 PLAC Grand Rapids, MI
+1 HUSB @I55047981@
+1 WIFE @I55047908@
+0 @F26557286@ FAM
+1 HUSB @I55048049@
+1 WIFE @I55048050@
+1 CHIL @I54795419@
+1 CHIL @I55075027@
+0 @F26560103@ FAM
+1 HUSB @I55054891@
+1 WIFE @I55054892@
+1 CHIL @I55048049@
+1 CHIL @I55058021@
+1 CHIL @I55058041@
+1 CHIL @I55058049@
+1 CHIL @I55058066@
+1 CHIL @I55058070@
+1 CHIL @I55074990@
+0 @F26560924@ FAM
+1 HUSB @I55055762@
+1 WIFE @I55055763@
+1 CHIL @I55054891@
+0 @F26560942@ FAM
+1 HUSB @I55055805@
+1 CHIL @I55055762@
+1 CHIL @I55056332@
+0 @F37717536@ FAM
+1 HUSB @I81270139@
+1 WIFE @I81271345@
+1 CHIL @I81271355@
+1 CHIL @I81271359@
+0 TRLR
+
