@@ -80,6 +80,30 @@ At that time Grandpa VDB was driving an Oldsmobile. Later on he (and my Dad) dro
 <img src="img/larry-packard.jpg"><br>
 <caption>Larry with Uncle Neal Schuur's Packard</caption><br><br>
 
+## Grand Rapids boyhood adventures
+
+There were a few adventures for city boys in the suburbs of Grand Rapids, MI in the early 1950s. As eight-year-olds, we could ride our bikes to Feenstra&rsquo;s farm, sneak into their barn and have BB gun fights. Now, adults have paint-ball war, but we were first. Occasionally, we would hang around the police speed trap and talk to the officer. Speed traps in those days used two hoses stretched across the road. A rainy day adventure might involve riding the city bus around the entire route. Do you want to go downtown and see the tall buildings? The tallest building in Grand Rapids was the thirteen-story McKay Tower, where my dad had his office. At the end of the line where Ralph Cramdon ate his lunch, we transferred to another bus. During summer vacation, we could take our sleeping bags and spend the night on the school grounds.  
+
+Other adventures involved Plaster Creek. When the creek was flooded, we put my dad&rsquo;s small fiberglass boat into the creek, but the rushing water stuck the bow between the trunks of a forked tree. The stern bent around, causing a crack in the bottom of the boat. We did this during noon-hour from school. Sears repaired the boat under the warranty, no questions asked. Those steel tubs for hand mixing concrete or plaster made good flat-bottom boats for poling in swamps. Construction projects also provided materials for building forts in the woods.  
+
+<img src="../ethan/img/ethan-in-a-pipe.jpg" style="width:400px"><br>
+Larry's grandson Ethan explores a tunnel at the new dam construction in Anderson, South Carolina in April, 2010.<br><br>
+
+When the creek was at a normal level, we could get our bikes into the storm sewer outlet that was six feet in diameter. Then, with flashlights, we could ride and see the city from a different perspective. If you try this at home, do it on a sunny day. Other boys would follow our progress at street level, and inform us of our location when we talked at a storm sewer grate. As the sewer narrowed, we had to leave the bikes and walk. The brave Dennis Cortman crawled into the smallest concrete pipe and wrote his name. Years later, Dennis owned a bright yellow 1949 Mercury convertible. He was a legend in his time.  
+
+Within a few years, our adventures tapered off as we took part-time jobs, and got interested in girls. It is a wonder we survived it all.
+
+## A sand dune runs throught it
+
+Our love of sand dunes extended beyond Michigan. Ron Jousma and I first saw Great Sand Dunes National Monument at Alamosa, CO while helping a woman move to Colorado Springs in 1962. (She would study an Indian language there before doing missionary work on a reservation). In January 1964, we returned to Alamosa in a four-wheel drive pickup with flotation tires. Vehicles are prohibited in the Monument Dunes because their tracks mare the natural beauty. However, we convinced the Director of the opportunity for him to take photos. We felt that our pickup was the first vehicle to leave tracks there since the covered wagons. Eventually, Jousma owned a twenty-mile wilderness tour based at the edge of the Monument.  
+
+Leaving Alamosa, we explored Coral Pink Sand Dunes in Utah and met with the Park Commission in Salt Lake City to propose a dune ride there. Then we planned to explore dunes at Coos Bay, OR, and in California, but my Uncle Sam interrupted our trip with an invitation to take a pre-induction physical.  
+
+Referring to the comments of riders at today's Saugatuck Dune Ride, a lot has changed since the 1960's. The ride is now open on Sundays. The dune area is now covered with dune grass except for the trails. There is no fast "thrill ride", due in part to the cost of insurance. We had "airplane hill", straight pipe exhaust, etc. At least they have maintained a sense of humor with the comedy road signs, mannequin legs sticking out of the sand, and driver quips. I remember setting those signs in concrete so trespassers could not steal them.  
+
+We had to grease the dune trucks every morning. (I may have beat out other applicants for the job because of previous experience as a mechanic’s helper at Direct Transit Lines, Grand Rapids). The trails had to be graded wherever "chatter" bumps developed. Jousma would drag an I-beam over the trails with a 300 horsepower Hough front-end loader. Many nights I fell asleep in the drivers' cabin by Goshorn Lake to the sound of that loader "floating" the trails way off in the dunes. It took long hours and many gallons of gasoline to prepare for the next day's "thrill-crazy" tourists.  
+
+
 To the top of our tree: [The Old Farmhouse of Heine](../../heine/)
 <!-- http://familytrees.net/thorn-hedge-farm -->
 
