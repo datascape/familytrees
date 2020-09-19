@@ -19,7 +19,7 @@ We stumbled onto a Louie Anderson stand-up routine on CW network last night.  It
 
 Using plans from Popular Mechanics, William Heyns and 
 Larry built this go-cart in the basement of the Philadelphia Ave. house during 
-the winter that Larry was in sixth grade at Silvan school.  The original 
+the winter that Larry was in sixth grade at Silvan School.  The original 
 intention of restricting it to the yard or the sidewalk was soon revised due to 
 its speed.  Unlike many home-made projects, this one used new parts except for 
 the steering gear that was from a model T truck at Remus' junk yard.  Some 
@@ -59,6 +59,8 @@ with my name on the door.
 
 Cheryl, of course I think most single truck accidents are fatigue related, followed by weather related accidents.  The recent Federal attempts to revise the Hours Of Service Regulations of the 1930's seemed to be written by a committee of fools who never drove a truck.  And if passed, their proposals would have gutted the productivity and spontaneity of the trucking industry.  Unfortunately, we cannot trust drivers or dispatchers to discipline themselves because of the profit motive.  Yet, responsibility for wakefulness needs to be returned to the drivers through flexible schedules so that a driver can deal with his or her own circadian rhythm.  Now we know that fatigue is affected by how long we sleep, not how long we work.  The log book regulations do more to mess up a driver's natural sleep pattern.  I always got my rest, but not exactly when the log book said so.  
 
+<img src="img/chippewa.png" class="floatRight" style="margin-bottom:25px">  
+
 I worked Over-the-Road for many years, and always took a job with a sleeper cab so that I could get real rest when I needed it most, between 2:00 a.m. and 6:00 a.m.  With that core of prime-time sleep, I could supplement with cat-naps whenever there was an opportunity such as while waiting for a load.  I have learned not to start a trip at 3:00 a.m. because sometimes I get only as far as the first rest area.  I turned down good union jobs with Holland Motor and Roadway because their drivers are required to keep to a tight overnight schedule.  We see them napping over the steering wheel in the rest areas.  When their arms "go to sleep", they hit the road again.  Another trick is to drink coffee before the nap.  You will wake up in about twenty minutes, ready to go.  I ran two-man team for a year.  As junior driver, I had the midnight to 6:00 a.m. shift and it was tough.  Sixty hours in seven days or seventy in eight is the legal limit.  Most drivers are cheating by showing their waiting time at loading docks as time off-duty in the sleeper berth when they are actually attending to the loading process (up to another 30 hours per week).  These drivers get paid by the mile or by a percentage of the freight bill (usually 25%).  
 
 In 1982 I sold my truck and got away from the irregular route jobs (away from home one or two weeks) when I started working for local companies where every trip was a round trip.  First I hauled hot metal to various casting plants, and the empty crucible had to be returned to Benton Harbor before it cooled too much.  Then I hauled beer from various brewerys in the U.S. and Canada for a distributor in Benton Harbor.  I stayed with them thirteen years, driving 120,000 miles some years.  After keeping my pickup appointment at the brewery (St. Louis, Milwaukee, etc.) I was on my own for resting but had to make the next pickup appointment on time.  
@@ -68,6 +70,32 @@ Finally, in 1998, I took a Transfer Driver job (hauling between plants of one co
 You referred to the trucks of many colors with all the "chicken" lights on the road today.  Too bad, they are not making a profit or even making their $2500 per month payment.  Most of them should have bought a cheaper, used truck instead of playing a game with a tough business.  
 
 There is no upper age limit for drivers.  Glenn R. Myers of Kenneth City, FL started driving in 1935, and he is the senior, full time driver for Wal-Mart today.  He was a greeter for Wal-Mart until they found out he still had a CDL License.  Most old drivers fail the vision or hearing tests.  Quite a few should be on insulin for their diabetes but they risk their own health to maintain their CDL License.  We take a physical exam every two years, and half of all drivers are randomly tested for drug abuse each year.  Larry.
+
+
+
+
+<img src="img/keyline.jpg" style="float:left"> 
+<div style="clear:both"></div>
+<br>
+
+<h2>Fallen Flags - Old Trucking Companies of the Past</h2>
+
+Darling Freight, Inc. (The Key Line in Transportation) was owned by Dallas Darling, one of the trucking industry's pioneers. Darling was acquainted with Matthijs Heyns, also a businessman in Grand Rapids. In 1940, when both the Darling and Heyns families were vacationing in Florida, four men took Darling's cabin cruiser to Cuba. There was a storm on the return trip, and only Matt Heyns was well enough to operate the boat.
+
+I wish Key Line Freight of Grand Rapids, MI, was still in business. Key Line was a union company with LTL, refrigerated, steel and TL van divisions. They paid the hotel bills, and fuel was available at their terminals for their owner-operators. They were a safety minded company that used radar and Markel. Their 8-state operating authority granted in 1935 was restricted: To and From Michigan.  
+
+Darling Freight - The Key Line in Transportation was founded by Dallas Darling. He and his wife would observe their trucks when they were on vacation, and compare their notes with drivers' logs. Dallas Darling built an innovative LTL terminal in Grand Rapids in 1954. It was a 504' Quonset Hut with beneath-the-floor chain conveyor to move dock carts. In 1967, Key Line was the 159th largest trucking company in America with 32 terminals and $12 million in revenue. Dallas' son Dan Darling bought the company in 1969. Key Line was sold to Roadway for $9 million in 1978. The Darlings then invested in an airport in Florida.  
+
+According to Mike Terebecki's book "The Trucking Pioneers - book II", Dallas Darling got his driving experience in the U.S. Army. He purchased his first new truck in 1919. Early equipment included Biederman, Federal, Nash, Reo, Republic, and Studebaker. The company switched to diesel in the early 1950s with the purchase of 12 used B model Macks. In the early years, Dallas Darling did much of the maintenance on his equipment himself.  
+
+In the early 1960's, Larry Heyns was familiar with the Darling LTL terminal north of 28th Street. The cross-dock operations took place in a huge Quonset building. As a yard jockey and wash boy for Direct Transit Lines, he occasionally used the Darling scales.  
+
+Darling changed the name of the company to Key Line Freight and Dan Darling became CEO. A series of radio advertisements touted Key Line drivers as "Kings of the Road". William Heyns obtained a transcript of these ads and mailed them to Larry who was in the U. S. Army (1964-67).
+In 1973, Larry was considering leasing his new International truck tractor to Orbit Transport in Illinois and was shown their operating authority. He noticed Key Line had protested their application for additional authority. Larry thought Key Line must be an alert, competitive company. Subsequently, Larry leased to Key Line's truckload van division whose office was on 76th street. He was laid off during the recession of 1974-75, but returned to Key Line because it was a very driver-friendly company with low employee turnover, union pension and insurance, company fuel pumps, etc.  
+
+In April 1978, the Darling family sold Key Line's authority to Roadway for $9 million. The money was invested in a Florida airport, but they tried to operate some duplicate steel hauling authority without success. Due to Teamsters Union rules, Key Line drivers were offered jobs at Roadway. Their seniority was dovetailed in. One Key Line driver became second driver at Roadway's Toledo terminal because he could not dovetail into first position even though he had the most seniority. Larry preferred to continue as an owner-operator and to live in Michigan. With assistance from Key Line, many drivers hired on with R-W delivered his last Key Line load in Detroit on a Monday morning, changed the signs on the truck, and pulled an R-W load Monday night. Service System of Taylor, Michigan who took over the lease of Key Line's trailers.  
+
+Before Key Line, I drove for Chippewa Motor Freight. Started as the only employee in Ottawa, IL, and stayed after they opened a terminal. Chippewa auctioned their authority and equipment, claiming that the ICC would not grant rate relief in spite of Teamster negotiated wage gains. I thought this happened in 1978, but the internet says 1980. Anyway, I was out of there in 1973.  
 
 ## Larry and Bill talk about a Packard
 
@@ -93,7 +121,7 @@ When the creek was at a normal level, we could get our bikes into the storm sewe
 
 Within a few years, our adventures tapered off as we took part-time jobs, and got interested in girls. It is a wonder we survived it all.
 
-## A sand dune runs throught it
+## A sand dune runs through it
 
 Our love of sand dunes extended beyond Michigan. Ron Jousma and I first saw Great Sand Dunes National Monument at Alamosa, CO while helping a woman move to Colorado Springs in 1962. (She would study an Indian language there before doing missionary work on a reservation). In January 1964, we returned to Alamosa in a four-wheel drive pickup with flotation tires. Vehicles are prohibited in the Monument Dunes because their tracks mare the natural beauty. However, we convinced the Director of the opportunity for him to take photos. We felt that our pickup was the first vehicle to leave tracks there since the covered wagons. Eventually, Jousma owned a twenty-mile wilderness tour based at the edge of the Monument.  
 
